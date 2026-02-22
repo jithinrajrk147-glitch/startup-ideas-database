@@ -1,0 +1,1508 @@
+{
+  "batch": "4-part2",
+  "ideas_range": "1251-1400",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 1251,
+      "name": "Ghost Kitchen Platform",
+      "description": "Delivery-only restaurant kitchens with multiple virtual brands operating from one location.",
+      "revenue_model": "Kitchen rental + % of delivery sales",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Ghost Kitchen",
+      "tags": ["foodtech", "ghost kitchen", "delivery", "restaurant", "cloud kitchen"]
+    },
+    {
+      "id": 1252,
+      "name": "Recipe App with Meal Planning",
+      "description": "Recipe discovery with automatic meal planning, grocery lists, and nutritional tracking.",
+      "revenue_model": "$4.99-9.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Recipe App",
+      "tags": ["foodtech", "recipes", "meal planning", "cooking", "app"]
+    },
+    {
+      "id": 1253,
+      "name": "Restaurant Reservation Platform",
+      "description": "Book restaurant reservations with real-time availability and special offers.",
+      "revenue_model": "$1-5 per reservation from restaurants",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Reservations",
+      "tags": ["foodtech", "reservations", "restaurants", "booking", "dining"]
+    },
+    {
+      "id": 1254,
+      "name": "Food Waste Reduction App",
+      "description": "Connect restaurants with surplus food to consumers at discounted prices.",
+      "revenue_model": "30% commission on sales",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Food Waste",
+      "tags": ["foodtech", "food waste", "sustainability", "marketplace", "discount"]
+    },
+    {
+      "id": 1255,
+      "name": "Virtual Cooking Classes",
+      "description": "Live interactive cooking classes with professional chefs and home cooks.",
+      "revenue_model": "$20-100 per class + subscriptions",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Education",
+      "tags": ["foodtech", "cooking classes", "education", "virtual", "chefs"]
+    },
+    {
+      "id": 1256,
+      "name": "Restaurant POS System",
+      "description": "Point-of-sale system for restaurants with inventory, staff management, and analytics.",
+      "revenue_model": "$69-299/month + hardware",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Restaurant Tech",
+      "tags": ["foodtech", "POS", "restaurant", "software", "payments"]
+    },
+    {
+      "id": 1257,
+      "name": "Online Grocery Delivery",
+      "description": "Same-day grocery delivery with personal shoppers and subscription options.",
+      "revenue_model": "Delivery fees + markup on products",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Grocery Delivery",
+      "tags": ["foodtech", "grocery", "delivery", "e-commerce", "convenience"]
+    },
+    {
+      "id": 1258,
+      "name": "Specialty Food Marketplace",
+      "description": "Online marketplace for artisan and specialty foods from small producers.",
+      "revenue_model": "15-25% commission on sales",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Marketplace",
+      "tags": ["foodtech", "specialty food", "artisan", "marketplace", "gourmet"]
+    },
+    {
+      "id": 1259,
+      "name": "Restaurant Management Software",
+      "description": "All-in-one restaurant management - reservations, staff, inventory, accounting.",
+      "revenue_model": "$99-499/month per location",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Restaurant Tech",
+      "tags": ["foodtech", "restaurant management", "software", "operations", "SaaS"]
+    },
+    {
+      "id": 1260,
+      "name": "Food Delivery Aggregator",
+      "description": "Compare prices and delivery times across multiple food delivery platforms.",
+      "revenue_model": "Affiliate commissions from platforms",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Delivery",
+      "tags": ["foodtech", "delivery", "aggregator", "comparison", "app"]
+    },
+    {
+      "id": 1261,
+      "name": "Smart Kitchen Appliance",
+      "description": "IoT-connected kitchen appliances with app control and recipe integration.",
+      "revenue_model": "$200-2000 per appliance",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Hardware",
+      "tags": ["foodtech", "IoT", "smart kitchen", "appliances", "connected"]
+    },
+    {
+      "id": 1262,
+      "name": "Wine Subscription Box",
+      "description": "Curated wine subscription with tasting notes and food pairing suggestions.",
+      "revenue_model": "$50-150/month per subscriber",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Subscription",
+      "tags": ["foodtech", "wine", "subscription", "alcohol", "curated"]
+    },
+    {
+      "id": 1263,
+      "name": "Restaurant Review Platform",
+      "description": "Authentic restaurant reviews with photo verification and foodie community.",
+      "revenue_model": "Restaurant advertising + premium features",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Reviews",
+      "tags": ["foodtech", "reviews", "restaurants", "community", "social"]
+    },
+    {
+      "id": 1264,
+      "name": "Food Allergy Scanner",
+      "description": "Scan food labels to detect allergens and get safe product recommendations.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Health",
+      "tags": ["foodtech", "allergies", "scanner", "health", "safety"]
+    },
+    {
+      "id": 1265,
+      "name": "Restaurant Loyalty Platform",
+      "description": "Digital loyalty programs for restaurants with points, rewards, and marketing.",
+      "revenue_model": "$49-299/month per restaurant",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Loyalty",
+      "tags": ["foodtech", "loyalty", "rewards", "restaurants", "marketing"]
+    },
+    {
+      "id": 1266,
+      "name": "Food Truck Finder App",
+      "description": "Find food trucks near you with real-time locations, menus, and reviews.",
+      "revenue_model": "Free for users + $29/month for trucks",
+      "difficulty": "Easy",
+      "sector": "FoodTech",
+      "category": "Food Trucks",
+      "tags": ["foodtech", "food trucks", "location", "app", "mobile"]
+    },
+    {
+      "id": 1267,
+      "name": "Catering Marketplace",
+      "description": "Book catering services for events with quotes, menus, and reviews.",
+      "revenue_model": "10-15% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Catering",
+      "tags": ["foodtech", "catering", "events", "marketplace", "booking"]
+    },
+    {
+      "id": 1268,
+      "name": "Private Chef Booking",
+      "description": "Book private chefs for home dining experiences and meal prep.",
+      "revenue_model": "20-25% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Private Chef",
+      "tags": ["foodtech", "private chef", "booking", "dining", "luxury"]
+    },
+    {
+      "id": 1269,
+      "name": "Restaurant Staff Training",
+      "description": "Online training platform for restaurant staff - service, food safety, management.",
+      "revenue_model": "$10-30/employee/month",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Training",
+      "tags": ["foodtech", "training", "restaurant", "education", "staff"]
+    },
+    {
+      "id": 1270,
+      "name": "Food Photography Service",
+      "description": "Professional food photography for restaurants, menus, and social media.",
+      "revenue_model": "$500-3000 per session",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Photography",
+      "tags": ["foodtech", "photography", "restaurant", "marketing", "visual"]
+    },
+    {
+      "id": 1271,
+      "name": "Restaurant Consulting",
+      "description": "Consulting for restaurant operations, menu design, and profitability.",
+      "revenue_model": "$150-500/hour or project-based",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Consulting",
+      "tags": ["foodtech", "consulting", "restaurant", "operations", "expert"]
+    },
+    {
+      "id": 1272,
+      "name": "Food Blogger Platform",
+      "description": "Platform for food bloggers with recipe management, SEO tools, and monetization.",
+      "revenue_model": "$19-99/month subscription",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Content",
+      "tags": ["foodtech", "blogging", "recipes", "content", "platform"]
+    },
+    {
+      "id": 1273,
+      "name": "Restaurant Menu Design",
+      "description": "Professional menu design service with psychology-based layout optimization.",
+      "revenue_model": "$500-3000 per menu",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Design",
+      "tags": ["foodtech", "menu design", "restaurant", "graphic design", "optimization"]
+    },
+    {
+      "id": 1274,
+      "name": "Food Safety Compliance",
+      "description": "Help restaurants maintain food safety compliance with checklists and training.",
+      "revenue_model": "$99-499/month per location",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Compliance",
+      "tags": ["foodtech", "food safety", "compliance", "restaurant", "health"]
+    },
+    {
+      "id": 1275,
+      "name": "Restaurant Inventory Management",
+      "description": "Track food inventory, reduce waste, and optimize ordering with AI predictions.",
+      "revenue_model": "$79-299/month per location",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Inventory",
+      "tags": ["foodtech", "inventory", "restaurant", "AI", "waste reduction"]
+    },
+    {
+      "id": 1276,
+      "name": "Meal Kit Delivery Service",
+      "description": "Pre-portioned ingredients with recipes delivered weekly for home cooking.",
+      "revenue_model": "$8-15 per serving + delivery",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Meal Kits",
+      "tags": ["foodtech", "meal kits", "delivery", "cooking", "subscription"]
+    },
+    {
+      "id": 1277,
+      "name": "Vegan Food Delivery",
+      "description": "Delivery service exclusively for vegan and plant-based restaurants.",
+      "revenue_model": "Delivery fees + restaurant commission",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Delivery",
+      "tags": ["foodtech", "vegan", "delivery", "plant-based", "niche"]
+    },
+    {
+      "id": 1278,
+      "name": "Food Influencer Platform",
+      "description": "Connect food brands with food influencers for marketing campaigns.",
+      "revenue_model": "20-30% commission on campaigns",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Influencer Marketing",
+      "tags": ["foodtech", "influencer", "marketing", "social media", "brands"]
+    },
+    {
+      "id": 1279,
+      "name": "Restaurant Franchise Consulting",
+      "description": "Help restaurants develop and launch franchise programs.",
+      "revenue_model": "$25,000-100,000 per engagement",
+      "difficulty": "Hard",
+      "sector": "FoodTech",
+      "category": "Consulting",
+      "tags": ["foodtech", "franchise", "consulting", "restaurant", "expansion"]
+    },
+    {
+      "id": 1280,
+      "name": "Food Packaging Design",
+      "description": "Design sustainable and attractive food packaging for brands.",
+      "revenue_model": "$2,000-20,000 per project",
+      "difficulty": "Medium",
+      "sector": "FoodTech",
+      "category": "Design",
+      "tags": ["foodtech", "packaging", "design", "branding", "sustainable"]
+    },
+    {
+      "id": 1281,
+      "name": "Flight Comparison Platform",
+      "description": "Compare flights across airlines with price alerts and booking assistance.",
+      "revenue_model": "Affiliate commissions from airlines",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Flight Booking",
+      "tags": ["travel", "flights", "comparison", "booking", "aggregator"]
+    },
+    {
+      "id": 1282,
+      "name": "Hotel Booking Platform",
+      "description": "Book hotels worldwide with best price guarantee and loyalty rewards.",
+      "revenue_model": "10-25% commission from hotels",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Accommodation",
+      "tags": ["travel", "hotels", "booking", "accommodation", "marketplace"]
+    },
+    {
+      "id": 1283,
+      "name": "Travel Itinerary Planner",
+      "description": "AI-powered travel planning with personalized itineraries and booking integration.",
+      "revenue_model": "Free + affiliate commissions",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Planning",
+      "tags": ["travel", "itinerary", "planning", "AI", "personalized"]
+    },
+    {
+      "id": 1284,
+      "name": "Travel Insurance Comparison",
+      "description": "Compare travel insurance policies and buy coverage online.",
+      "revenue_model": "Commission from insurance providers",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Insurance",
+      "tags": ["travel", "insurance", "comparison", "protection", "marketplace"]
+    },
+    {
+      "id": 1285,
+      "name": "Luggage Tracking Device",
+      "description": "GPS tracker for luggage with real-time location and theft alerts.",
+      "revenue_model": "$49-99 per device + $4.99/month service",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Hardware",
+      "tags": ["travel", "luggage", "tracking", "GPS", "IoT"]
+    },
+    {
+      "id": 1286,
+      "name": "Travel Rewards Credit Card",
+      "description": "Credit card optimized for travel rewards with no foreign transaction fees.",
+      "revenue_model": "Interchange fees + annual fee",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "FinTech",
+      "tags": ["travel", "credit card", "rewards", "fintech", "payments"]
+    },
+    {
+      "id": 1287,
+      "name": "Airport Lounge Access",
+      "description": "Subscription for airport lounge access worldwide with day passes available.",
+      "revenue_model": "$99-499/year membership",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Airport Services",
+      "tags": ["travel", "airport", "lounge", "membership", "premium"]
+    },
+    {
+      "id": 1288,
+      "name": "Travel Photography Service",
+      "description": "Book professional photographers in destinations for vacation photos.",
+      "revenue_model": "30% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Photography",
+      "tags": ["travel", "photography", "vacation", "service", "memories"]
+    },
+    {
+      "id": 1289,
+      "name": "Travel Visa Service",
+      "description": "Simplify visa applications with document preparation and tracking.",
+      "revenue_model": "$50-300 per visa application",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Visa Services",
+      "tags": ["travel", "visa", "immigration", "service", "documentation"]
+    },
+    {
+      "id": 1290,
+      "name": "Travel SIM Card Service",
+      "description": "International SIM cards and eSIMs for travelers with data plans.",
+      "revenue_model": "$10-50 per SIM + data charges",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Connectivity",
+      "tags": ["travel", "SIM card", "eSIM", "data", "international"]
+    },
+    {
+      "id": 1291,
+      "name": "Travel Expense Tracker",
+      "description": "Track travel expenses with currency conversion and budget management.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "TravelTech",
+      "category": "Finance",
+      "tags": ["travel", "expenses", "budget", "tracking", "app"]
+    },
+    {
+      "id": 1292,
+      "name": "Group Travel Planning",
+      "description": "Coordinate group trips with voting, payments, and itinerary sharing.",
+      "revenue_model": "Free + booking commissions",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Planning",
+      "tags": ["travel", "group", "planning", "coordination", "social"]
+    },
+    {
+      "id": 1293,
+      "name": "Travel Blogger Platform",
+      "description": "Platform for travel bloggers with monetization, SEO tools, and community.",
+      "revenue_model": "$19-99/month subscription",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Content",
+      "tags": ["travel", "blogging", "content", "platform", "monetization"]
+    },
+    {
+      "id": 1294,
+      "name": "Sustainable Travel Platform",
+      "description": "Book eco-friendly accommodations, tours, and transportation.",
+      "revenue_model": "10-15% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Sustainable Travel",
+      "tags": ["travel", "sustainable", "eco-friendly", "green", "responsible"]
+    },
+    {
+      "id": 1295,
+      "name": "Travel Concierge Service",
+      "description": "24/7 travel concierge for bookings, changes, and emergency assistance.",
+      "revenue_model": "$99-499/year membership",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Concierge",
+      "tags": ["travel", "concierge", "service", "premium", "assistance"]
+    },
+    {
+      "id": 1296,
+      "name": "Vacation Rental Management",
+      "description": "Manage vacation rentals with pricing optimization, cleaning, and guest communication.",
+      "revenue_model": "15-25% of rental revenue",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Property Management",
+      "tags": ["travel", "vacation rental", "management", "Airbnb", "property"]
+    },
+    {
+      "id": 1297,
+      "name": "Travel Translation App",
+      "description": "Real-time translation for travelers with offline mode and camera translation.",
+      "revenue_model": "Free basic + $9.99/month premium",
+      "difficulty": "Hard",
+      "sector": "TravelTech",
+      "category": "Language",
+      "tags": ["travel", "translation", "language", "app", "communication"]
+    },
+    {
+      "id": 1298,
+      "name": "Travel Safety App",
+      "description": "Safety alerts, emergency contacts, and location sharing for travelers.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Safety",
+      "tags": ["travel", "safety", "security", "emergency", "app"]
+    },
+    {
+      "id": 1299,
+      "name": "Digital Nomad Platform",
+      "description": "Resources for digital nomads - coworking, housing, visas, community.",
+      "revenue_model": "$9.99-29.99/month membership",
+      "difficulty": "Medium",
+      "sector": "TravelTech",
+      "category": "Digital Nomad",
+      "tags": ["travel", "digital nomad", "remote work", "community", "platform"]
+    },
+    {
+      "id": 1300,
+      "name": "Travel Packing List App",
+      "description": "Smart packing lists based on destination, weather, and trip type.",
+      "revenue_model": "Free with ads + $2.99 ad removal",
+      "difficulty": "Easy",
+      "sector": "TravelTech",
+      "category": "Planning",
+      "tags": ["travel", "packing", "checklist", "app", "organization"]
+    },
+    {
+      "id": 1301,
+      "name": "Contract Automation Platform",
+      "description": "Automate contract creation, negotiation, and management with AI.",
+      "revenue_model": "$99-999/month based on contracts",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Contract Management",
+      "tags": ["legaltech", "contracts", "automation", "AI", "legal"]
+    },
+    {
+      "id": 1302,
+      "name": "Legal Document Templates",
+      "description": "Library of customizable legal document templates for businesses and individuals.",
+      "revenue_model": "$9.99-49.99 per template",
+      "difficulty": "Medium",
+      "sector": "LegalTech",
+      "category": "Documents",
+      "tags": ["legaltech", "templates", "documents", "legal", "DIY"]
+    },
+    {
+      "id": 1303,
+      "name": "Online Notary Service",
+      "description": "Remote online notarization with video verification and digital signatures.",
+      "revenue_model": "$25-50 per notarization",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Notary",
+      "tags": ["legaltech", "notary", "remote", "digital", "verification"]
+    },
+    {
+      "id": 1304,
+      "name": "Legal Research Platform",
+      "description": "AI-powered legal research with case law, statutes, and analysis.",
+      "revenue_model": "$99-499/month subscription",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Research",
+      "tags": ["legaltech", "research", "AI", "case law", "legal"]
+    },
+    {
+      "id": 1305,
+      "name": "Lawyer Marketplace",
+      "description": "Connect clients with lawyers for consultations and legal services.",
+      "revenue_model": "20-30% commission on services",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Marketplace",
+      "tags": ["legaltech", "lawyers", "marketplace", "legal services", "consultation"]
+    },
+    {
+      "id": 1306,
+      "name": "Legal Practice Management",
+      "description": "Software for law firms - case management, billing, client portal, calendaring.",
+      "revenue_model": "$49-199/user/month",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Practice Management",
+      "tags": ["legaltech", "practice management", "law firm", "software", "SaaS"]
+    },
+    {
+      "id": 1307,
+      "name": "Legal Billing Software",
+      "description": "Time tracking and billing for lawyers with trust accounting and invoicing.",
+      "revenue_model": "$39-149/user/month",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Billing",
+      "tags": ["legaltech", "billing", "time tracking", "invoicing", "legal"]
+    },
+    {
+      "id": 1308,
+      "name": "IP Management Platform",
+      "description": "Manage intellectual property portfolio - trademarks, patents, copyrights.",
+      "revenue_model": "$99-999/month based on IP assets",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "IP Management",
+      "tags": ["legaltech", "IP", "intellectual property", "patents", "trademarks"]
+    },
+    {
+      "id": 1309,
+      "name": "Compliance Management Software",
+      "description": "Track and manage regulatory compliance for businesses.",
+      "revenue_model": "$199-999/month based on company size",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Compliance",
+      "tags": ["legaltech", "compliance", "regulatory", "risk", "management"]
+    },
+    {
+      "id": 1310,
+      "name": "Legal Chatbot",
+      "description": "AI chatbot for basic legal questions and document generation.",
+      "revenue_model": "Free basic + $9.99/month premium",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "AI",
+      "tags": ["legaltech", "chatbot", "AI", "legal advice", "automation"]
+    },
+    {
+      "id": 1311,
+      "name": "Trademark Search & Filing",
+      "description": "Search trademark availability and file applications online.",
+      "revenue_model": "$99-499 per trademark filing",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Trademarks",
+      "tags": ["legaltech", "trademark", "IP", "filing", "search"]
+    },
+    {
+      "id": 1312,
+      "name": "Legal Translation Service",
+      "description": "Specialized translation for legal documents with certified translators.",
+      "revenue_model": "$0.15-0.40 per word",
+      "difficulty": "Medium",
+      "sector": "LegalTech",
+      "category": "Translation",
+      "tags": ["legaltech", "translation", "legal documents", "certified", "language"]
+    },
+    {
+      "id": 1313,
+      "name": "Litigation Analytics",
+      "description": "Analyze litigation data to predict outcomes and inform strategy.",
+      "revenue_model": "$299-2999/month subscription",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Analytics",
+      "tags": ["legaltech", "litigation", "analytics", "AI", "prediction"]
+    },
+    {
+      "id": 1314,
+      "name": "Legal Document Review AI",
+      "description": "AI-powered document review for due diligence and discovery.",
+      "revenue_model": "$0.10-1.00 per page reviewed",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Document Review",
+      "tags": ["legaltech", "AI", "document review", "due diligence", "automation"]
+    },
+    {
+      "id": 1315,
+      "name": "Online Dispute Resolution",
+      "description": "Platform for resolving disputes online through mediation and arbitration.",
+      "revenue_model": "$99-999 per case",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Dispute Resolution",
+      "tags": ["legaltech", "dispute resolution", "mediation", "arbitration", "online"]
+    },
+    {
+      "id": 1316,
+      "name": "Legal Workflow Automation",
+      "description": "Automate repetitive legal tasks and workflows with no-code tools.",
+      "revenue_model": "$79-399/month based on workflows",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Automation",
+      "tags": ["legaltech", "automation", "workflow", "efficiency", "legal"]
+    },
+    {
+      "id": 1317,
+      "name": "Court Filing Service",
+      "description": "Electronic court filing service with document preparation and tracking.",
+      "revenue_model": "$10-50 per filing",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Court Filing",
+      "tags": ["legaltech", "court filing", "e-filing", "legal", "service"]
+    },
+    {
+      "id": 1318,
+      "name": "Legal CLE Platform",
+      "description": "Continuing legal education courses for lawyers with certification.",
+      "revenue_model": "$49-299 per course",
+      "difficulty": "Medium",
+      "sector": "LegalTech",
+      "category": "Education",
+      "tags": ["legaltech", "CLE", "education", "lawyers", "certification"]
+    },
+    {
+      "id": 1319,
+      "name": "Immigration Law Software",
+      "description": "Case management software specifically for immigration lawyers.",
+      "revenue_model": "$99-299/month per user",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Immigration",
+      "tags": ["legaltech", "immigration", "case management", "legal", "software"]
+    },
+    {
+      "id": 1320,
+      "name": "Legal Expense Management",
+      "description": "Track and manage legal expenses for corporate legal departments.",
+      "revenue_model": "$199-999/month based on spend",
+      "difficulty": "Hard",
+      "sector": "LegalTech",
+      "category": "Expense Management",
+      "tags": ["legaltech", "expense management", "legal ops", "corporate", "finance"]
+    },
+    {
+      "id": 1321,
+      "name": "Applicant Tracking System",
+      "description": "ATS for recruiting with job posting, candidate tracking, and interview scheduling.",
+      "revenue_model": "$99-499/month based on jobs",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "ATS", "recruiting", "hiring", "software"]
+    },
+    {
+      "id": 1322,
+      "name": "Employee Onboarding Platform",
+      "description": "Automate employee onboarding with workflows, documents, and training.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Onboarding",
+      "tags": ["HR", "onboarding", "automation", "employees", "workflow"]
+    },
+    {
+      "id": 1323,
+      "name": "Performance Management System",
+      "description": "Continuous performance management with goals, feedback, and reviews.",
+      "revenue_model": "$5-12/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Performance",
+      "tags": ["HR", "performance", "reviews", "goals", "feedback"]
+    },
+    {
+      "id": 1324,
+      "name": "Employee Engagement Platform",
+      "description": "Measure and improve employee engagement with surveys and analytics.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Engagement",
+      "tags": ["HR", "engagement", "surveys", "culture", "analytics"]
+    },
+    {
+      "id": 1325,
+      "name": "HR Analytics Platform",
+      "description": "People analytics with insights on turnover, performance, and diversity.",
+      "revenue_model": "$500-5000/month based on employees",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "analytics", "data", "insights", "people"]
+    },
+    {
+      "id": 1326,
+      "name": "Time & Attendance Software",
+      "description": "Track employee time and attendance with clock-in/out and scheduling.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Time Tracking",
+      "tags": ["HR", "time tracking", "attendance", "scheduling", "payroll"]
+    },
+    {
+      "id": 1327,
+      "name": "Benefits Administration Platform",
+      "description": "Manage employee benefits enrollment and administration.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Benefits",
+      "tags": ["HR", "benefits", "administration", "enrollment", "insurance"]
+    },
+    {
+      "id": 1328,
+      "name": "Learning Management System",
+      "description": "Corporate LMS for employee training and development.",
+      "revenue_model": "$5-15/user/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Learning",
+      "tags": ["HR", "LMS", "training", "learning", "development"]
+    },
+    {
+      "id": 1329,
+      "name": "Employee Recognition Platform",
+      "description": "Peer-to-peer recognition with rewards and social feed.",
+      "revenue_model": "$2-5/employee/month + rewards",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Recognition",
+      "tags": ["HR", "recognition", "rewards", "engagement", "culture"]
+    },
+    {
+      "id": 1330,
+      "name": "HR Chatbot",
+      "description": "AI chatbot for employee HR questions and self-service.",
+      "revenue_model": "$1-3/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "AI",
+      "tags": ["HR", "chatbot", "AI", "self-service", "automation"]
+    },
+    {
+      "id": 1331,
+      "name": "Diversity & Inclusion Platform",
+      "description": "Track and improve diversity metrics with analytics and programs.",
+      "revenue_model": "$500-5000/month based on size",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Diversity",
+      "tags": ["HR", "diversity", "inclusion", "DEI", "analytics"]
+    },
+    {
+      "id": 1332,
+      "name": "Employee Referral Platform",
+      "description": "Manage employee referral programs with tracking and rewards.",
+      "revenue_model": "$99-499/month + per hire fee",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "referrals", "recruiting", "hiring", "rewards"]
+    },
+    {
+      "id": 1333,
+      "name": "Background Check Service",
+      "description": "Employment background checks with criminal, credit, and verification.",
+      "revenue_model": "$25-100 per check",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Screening",
+      "tags": ["HR", "background check", "screening", "verification", "compliance"]
+    },
+    {
+      "id": 1334,
+      "name": "Skills Assessment Platform",
+      "description": "Assess candidate and employee skills with tests and simulations.",
+      "revenue_model": "$99-999/month based on assessments",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Assessment",
+      "tags": ["HR", "skills", "assessment", "testing", "evaluation"]
+    },
+    {
+      "id": 1335,
+      "name": "Video Interview Platform",
+      "description": "One-way and live video interviews with AI analysis.",
+      "revenue_model": "$99-499/month based on interviews",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "video interview", "recruiting", "AI", "hiring"]
+    },
+    {
+      "id": 1336,
+      "name": "Compensation Management",
+      "description": "Manage compensation planning, benchmarking, and equity.",
+      "revenue_model": "$10-25/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Compensation",
+      "tags": ["HR", "compensation", "salary", "equity", "planning"]
+    },
+    {
+      "id": 1337,
+      "name": "Succession Planning Software",
+      "description": "Identify and develop future leaders with succession planning.",
+      "revenue_model": "$500-5000/month based on size",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Succession",
+      "tags": ["HR", "succession planning", "leadership", "talent", "development"]
+    },
+    {
+      "id": 1338,
+      "name": "Employee Wellness Platform",
+      "description": "Corporate wellness programs with challenges, tracking, and rewards.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Wellness",
+      "tags": ["HR", "wellness", "health", "benefits", "engagement"]
+    },
+    {
+      "id": 1339,
+      "name": "Exit Interview Platform",
+      "description": "Conduct and analyze exit interviews to reduce turnover.",
+      "revenue_model": "$2-5/employee/month",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Retention",
+      "tags": ["HR", "exit interview", "turnover", "retention", "analytics"]
+    },
+    {
+      "id": 1340,
+      "name": "HR Compliance Software",
+      "description": "Ensure HR compliance with labor laws and regulations.",
+      "revenue_model": "$199-999/month based on size",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Compliance",
+      "tags": ["HR", "compliance", "labor law", "regulations", "risk"]
+    },
+    {
+      "id": 1341,
+      "name": "Org Chart Software",
+      "description": "Create and manage organizational charts with employee data integration.",
+      "revenue_model": "$5-15/month per org",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Organization",
+      "tags": ["HR", "org chart", "organization", "structure", "visualization"]
+    },
+    {
+      "id": 1342,
+      "name": "Employee Directory",
+      "description": "Searchable employee directory with profiles and contact information.",
+      "revenue_model": "$1-3/employee/month",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Communication",
+      "tags": ["HR", "directory", "employees", "profiles", "communication"]
+    },
+    {
+      "id": 1343,
+      "name": "Shift Scheduling Software",
+      "description": "Schedule shifts for hourly workers with availability and time-off management.",
+      "revenue_model": "$2-5/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Scheduling",
+      "tags": ["HR", "scheduling", "shifts", "hourly", "workforce"]
+    },
+    {
+      "id": 1344,
+      "name": "Freelancer Management System",
+      "description": "Manage freelancers and contractors with onboarding, payments, and compliance.",
+      "revenue_model": "$10-30/freelancer/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Contingent Workforce",
+      "tags": ["HR", "freelancers", "contractors", "gig economy", "management"]
+    },
+    {
+      "id": 1345,
+      "name": "Internal Mobility Platform",
+      "description": "Help employees find internal job opportunities and career paths.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Career Development",
+      "tags": ["HR", "internal mobility", "career", "talent", "retention"]
+    },
+    {
+      "id": 1346,
+      "name": "Mentorship Platform",
+      "description": "Match employees with mentors and track mentorship programs.",
+      "revenue_model": "$2-5/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Development",
+      "tags": ["HR", "mentorship", "development", "learning", "culture"]
+    },
+    {
+      "id": 1347,
+      "name": "Employee Feedback Tool",
+      "description": "Collect continuous employee feedback with pulse surveys and 1-on-1s.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Feedback",
+      "tags": ["HR", "feedback", "surveys", "engagement", "communication"]
+    },
+    {
+      "id": 1348,
+      "name": "HR Document Management",
+      "description": "Securely store and manage HR documents with e-signatures.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Documents",
+      "tags": ["HR", "documents", "storage", "e-signature", "compliance"]
+    },
+    {
+      "id": 1349,
+      "name": "Recruitment Marketing Platform",
+      "description": "Employer branding and recruitment marketing automation.",
+      "revenue_model": "$299-2999/month based on features",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "recruitment marketing", "employer brand", "talent", "marketing"]
+    },
+    {
+      "id": 1350,
+      "name": "Candidate Relationship Management",
+      "description": "CRM for recruiting to nurture candidate relationships.",
+      "revenue_model": "$99-499/month based on candidates",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "CRM", "recruiting", "candidates", "talent pipeline"]
+    },
+    {
+      "id": 1351,
+      "name": "Job Board Aggregator",
+      "description": "Post jobs to multiple job boards from one platform.",
+      "revenue_model": "$99-499/month based on postings",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "job board", "recruiting", "posting", "aggregator"]
+    },
+    {
+      "id": 1352,
+      "name": "Resume Parser",
+      "description": "AI-powered resume parsing to extract candidate information.",
+      "revenue_model": "$0.10-0.50 per resume",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "resume", "parsing", "AI", "recruiting"]
+    },
+    {
+      "id": 1353,
+      "name": "Salary Benchmarking Tool",
+      "description": "Compare salaries across industries and locations with market data.",
+      "revenue_model": "$49-299/month subscription",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Compensation",
+      "tags": ["HR", "salary", "benchmarking", "compensation", "data"]
+    },
+    {
+      "id": 1354,
+      "name": "Employee Advocacy Platform",
+      "description": "Turn employees into brand advocates on social media.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Marketing",
+      "tags": ["HR", "employee advocacy", "social media", "brand", "marketing"]
+    },
+    {
+      "id": 1355,
+      "name": "HR Helpdesk Software",
+      "description": "Ticketing system for HR requests and employee support.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Support",
+      "tags": ["HR", "helpdesk", "ticketing", "support", "service"]
+    },
+    {
+      "id": 1356,
+      "name": "Workplace Safety Platform",
+      "description": "Manage workplace safety with incident reporting and compliance tracking.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Safety",
+      "tags": ["HR", "safety", "compliance", "incidents", "workplace"]
+    },
+    {
+      "id": 1357,
+      "name": "Employee Offboarding Platform",
+      "description": "Automate employee offboarding with checklists and asset recovery.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Offboarding",
+      "tags": ["HR", "offboarding", "termination", "workflow", "compliance"]
+    },
+    {
+      "id": 1358,
+      "name": "Talent Marketplace",
+      "description": "Internal talent marketplace for gig projects and skill sharing.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Talent",
+      "tags": ["HR", "talent marketplace", "gig", "skills", "internal"]
+    },
+    {
+      "id": 1359,
+      "name": "HR Reporting Dashboard",
+      "description": "Customizable HR dashboards and reports with real-time data.",
+      "revenue_model": "$99-999/month based on users",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "reporting", "dashboard", "analytics", "data"]
+    },
+    {
+      "id": 1360,
+      "name": "Employee Pulse Surveys",
+      "description": "Quick pulse surveys to measure employee sentiment in real-time.",
+      "revenue_model": "$2-5/employee/month",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Engagement",
+      "tags": ["HR", "pulse surveys", "engagement", "feedback", "sentiment"]
+    },
+    {
+      "id": 1361,
+      "name": "Remote Work Management",
+      "description": "Tools for managing remote teams with productivity tracking and communication.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Remote Work",
+      "tags": ["HR", "remote work", "productivity", "teams", "management"]
+    },
+    {
+      "id": 1362,
+      "name": "Career Pathing Software",
+      "description": "Visualize career paths and development opportunities for employees.",
+      "revenue_model": "$5-12/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Career Development",
+      "tags": ["HR", "career pathing", "development", "growth", "retention"]
+    },
+    {
+      "id": 1363,
+      "name": "Skills Inventory Platform",
+      "description": "Track employee skills and competencies for workforce planning.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Skills",
+      "tags": ["HR", "skills", "inventory", "competencies", "workforce planning"]
+    },
+    {
+      "id": 1364,
+      "name": "Employee Listening Platform",
+      "description": "Comprehensive employee listening with surveys, feedback, and sentiment analysis.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Engagement",
+      "tags": ["HR", "employee listening", "feedback", "sentiment", "analytics"]
+    },
+    {
+      "id": 1365,
+      "name": "HR Workflow Automation",
+      "description": "Automate HR workflows and processes with no-code tools.",
+      "revenue_model": "$99-999/month based on workflows",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Automation",
+      "tags": ["HR", "automation", "workflow", "efficiency", "no-code"]
+    },
+    {
+      "id": 1366,
+      "name": "Talent Acquisition Suite",
+      "description": "End-to-end recruiting platform with ATS, CRM, and analytics.",
+      "revenue_model": "$199-999/month based on features",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "talent acquisition", "recruiting", "ATS", "platform"]
+    },
+    {
+      "id": 1367,
+      "name": "People Operations Platform",
+      "description": "All-in-one HR platform for people operations and employee experience.",
+      "revenue_model": "$8-20/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "HRIS",
+      "tags": ["HR", "people ops", "HRIS", "platform", "employee experience"]
+    },
+    {
+      "id": 1368,
+      "name": "Workforce Planning Software",
+      "description": "Strategic workforce planning with forecasting and scenario modeling.",
+      "revenue_model": "$500-5000/month based on size",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Planning",
+      "tags": ["HR", "workforce planning", "forecasting", "strategy", "analytics"]
+    },
+    {
+      "id": 1369,
+      "name": "Employee Experience Platform",
+      "description": "Improve employee experience with journey mapping and touchpoint optimization.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Experience",
+      "tags": ["HR", "employee experience", "journey", "engagement", "culture"]
+    },
+    {
+      "id": 1370,
+      "name": "HR Chatbot Builder",
+      "description": "Build custom HR chatbots for employee self-service without coding.",
+      "revenue_model": "$99-999/month based on conversations",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "AI",
+      "tags": ["HR", "chatbot", "AI", "no-code", "self-service"]
+    },
+    {
+      "id": 1371,
+      "name": "Talent Intelligence Platform",
+      "description": "AI-powered talent insights for recruiting and workforce planning.",
+      "revenue_model": "$500-5000/month based on data",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Intelligence",
+      "tags": ["HR", "talent intelligence", "AI", "recruiting", "analytics"]
+    },
+    {
+      "id": 1372,
+      "name": "Employee Rewards Platform",
+      "description": "Points-based rewards and recognition with gift card redemption.",
+      "revenue_model": "$3-8/employee/month + rewards markup",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Rewards",
+      "tags": ["HR", "rewards", "recognition", "engagement", "incentives"]
+    },
+    {
+      "id": 1373,
+      "name": "HR Compliance Training",
+      "description": "Online compliance training for harassment, diversity, and safety.",
+      "revenue_model": "$10-30/employee/year",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Training",
+      "tags": ["HR", "compliance", "training", "education", "legal"]
+    },
+    {
+      "id": 1374,
+      "name": "Payroll Integration Platform",
+      "description": "Integrate payroll with HR systems and automate data sync.",
+      "revenue_model": "$99-999/month based on employees",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Payroll",
+      "tags": ["HR", "payroll", "integration", "automation", "sync"]
+    },
+    {
+      "id": 1375,
+      "name": "Employee Net Promoter Score",
+      "description": "Measure employee loyalty and satisfaction with eNPS surveys.",
+      "revenue_model": "$2-5/employee/month",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Engagement",
+      "tags": ["HR", "eNPS", "engagement", "loyalty", "surveys"]
+    },
+    {
+      "id": 1376,
+      "name": "HR Knowledge Base",
+      "description": "Centralized HR knowledge base with policies, procedures, and FAQs.",
+      "revenue_model": "$3-8/employee/month",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Knowledge",
+      "tags": ["HR", "knowledge base", "documentation", "policies", "self-service"]
+    },
+    {
+      "id": 1377,
+      "name": "Talent Rediscovery Platform",
+      "description": "Reconnect with past candidates and employees for new opportunities.",
+      "revenue_model": "$99-499/month based on database",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "talent rediscovery", "recruiting", "alumni", "candidates"]
+    },
+    {
+      "id": 1378,
+      "name": "HR Vendor Management",
+      "description": "Manage HR vendors and service providers with contracts and performance tracking.",
+      "revenue_model": "$199-999/month based on vendors",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Procurement",
+      "tags": ["HR", "vendor management", "procurement", "contracts", "suppliers"]
+    },
+    {
+      "id": 1379,
+      "name": "Employee Sentiment Analysis",
+      "description": "Analyze employee sentiment from surveys, emails, and communications.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "sentiment analysis", "AI", "engagement", "analytics"]
+    },
+    {
+      "id": 1380,
+      "name": "HR Benchmarking Platform",
+      "description": "Benchmark HR metrics against industry standards and peers.",
+      "revenue_model": "$299-2999/month subscription",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Benchmarking",
+      "tags": ["HR", "benchmarking", "metrics", "analytics", "comparison"]
+    },
+    {
+      "id": 1381,
+      "name": "Gig Worker Platform",
+      "description": "Manage gig workers with onboarding, scheduling, and payments.",
+      "revenue_model": "$5-15/worker/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Gig Economy",
+      "tags": ["HR", "gig workers", "freelance", "platform", "workforce"]
+    },
+    {
+      "id": 1382,
+      "name": "HR Chatbot Analytics",
+      "description": "Analytics for HR chatbot conversations to improve employee experience.",
+      "revenue_model": "$99-999/month based on conversations",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "chatbot", "analytics", "AI", "insights"]
+    },
+    {
+      "id": 1383,
+      "name": "Employee Lifecycle Management",
+      "description": "Manage entire employee lifecycle from hire to retire.",
+      "revenue_model": "$8-20/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "HRIS",
+      "tags": ["HR", "lifecycle", "HRIS", "platform", "management"]
+    },
+    {
+      "id": 1384,
+      "name": "HR Process Mining",
+      "description": "Analyze and optimize HR processes using process mining technology.",
+      "revenue_model": "$500-5000/month based on processes",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "process mining", "optimization", "analytics", "efficiency"]
+    },
+    {
+      "id": 1385,
+      "name": "Talent Marketplace Platform",
+      "description": "External talent marketplace connecting companies with pre-vetted candidates.",
+      "revenue_model": "20-30% of first year salary",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "talent marketplace", "recruiting", "candidates", "platform"]
+    },
+    {
+      "id": 1386,
+      "name": "HR Automation Consulting",
+      "description": "Consulting services to help companies automate HR processes.",
+      "revenue_model": "$150-500/hour or project-based",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Consulting",
+      "tags": ["HR", "automation", "consulting", "digital transformation", "efficiency"]
+    },
+    {
+      "id": 1387,
+      "name": "Employee Data Platform",
+      "description": "Centralized employee data platform with API integrations.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Data",
+      "tags": ["HR", "data platform", "integration", "API", "HRIS"]
+    },
+    {
+      "id": 1388,
+      "name": "HR Compliance Audit Tool",
+      "description": "Audit HR compliance with automated checks and recommendations.",
+      "revenue_model": "$199-999/month based on size",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Compliance",
+      "tags": ["HR", "compliance", "audit", "risk", "legal"]
+    },
+    {
+      "id": 1389,
+      "name": "Talent Acquisition Analytics",
+      "description": "Advanced analytics for recruiting metrics and hiring effectiveness.",
+      "revenue_model": "$299-2999/month subscription",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "recruiting", "analytics", "metrics", "hiring"]
+    },
+    {
+      "id": 1390,
+      "name": "HR Transformation Consulting",
+      "description": "Strategic consulting for HR digital transformation initiatives.",
+      "revenue_model": "$200-800/hour or project-based",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Consulting",
+      "tags": ["HR", "transformation", "consulting", "strategy", "digital"]
+    },
+    {
+      "id": 1391,
+      "name": "Employee Listening AI",
+      "description": "AI-powered employee listening with natural language processing.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "AI",
+      "tags": ["HR", "AI", "employee listening", "NLP", "sentiment"]
+    },
+    {
+      "id": 1392,
+      "name": "HR Workflow Templates",
+      "description": "Pre-built HR workflow templates for common processes.",
+      "revenue_model": "$9.99-49.99 per template",
+      "difficulty": "Easy",
+      "sector": "HR Tech",
+      "category": "Templates",
+      "tags": ["HR", "workflows", "templates", "automation", "processes"]
+    },
+    {
+      "id": 1393,
+      "name": "Talent Pool Management",
+      "description": "Build and nurture talent pools for future hiring needs.",
+      "revenue_model": "$99-499/month based on candidates",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "talent pool", "recruiting", "pipeline", "candidates"]
+    },
+    {
+      "id": 1394,
+      "name": "HR Metrics Dashboard",
+      "description": "Real-time HR metrics dashboard with KPIs and trends.",
+      "revenue_model": "$99-999/month based on metrics",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "metrics", "dashboard", "KPI", "analytics"]
+    },
+    {
+      "id": 1395,
+      "name": "Employee Referral Automation",
+      "description": "Automate employee referral programs with AI matching.",
+      "revenue_model": "$99-499/month + per hire fee",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "referrals", "automation", "AI", "recruiting"]
+    },
+    {
+      "id": 1396,
+      "name": "HR Chatbot Templates",
+      "description": "Pre-built chatbot templates for common HR use cases.",
+      "revenue_model": "$49-199 per template",
+      "difficulty": "Medium",
+      "sector": "HR Tech",
+      "category": "AI",
+      "tags": ["HR", "chatbot", "templates", "AI", "automation"]
+    },
+    {
+      "id": 1397,
+      "name": "Talent Acquisition CRM",
+      "description": "CRM specifically designed for talent acquisition teams.",
+      "revenue_model": "$99-499/month based on users",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Recruiting",
+      "tags": ["HR", "CRM", "talent acquisition", "recruiting", "candidates"]
+    },
+    {
+      "id": 1398,
+      "name": "HR Integration Platform",
+      "description": "Integration platform connecting all HR systems and tools.",
+      "revenue_model": "$199-1999/month based on integrations",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Integration",
+      "tags": ["HR", "integration", "API", "platform", "connectivity"]
+    },
+    {
+      "id": 1399,
+      "name": "Employee Journey Analytics",
+      "description": "Analyze employee journeys to improve experience and retention.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "journey analytics", "employee experience", "retention", "insights"]
+    },
+    {
+      "id": 1400,
+      "name": "HR Predictive Analytics",
+      "description": "Predict HR outcomes like turnover, performance, and hiring needs.",
+      "revenue_model": "$500-5000/month based on predictions",
+      "difficulty": "Hard",
+      "sector": "HR Tech",
+      "category": "Analytics",
+      "tags": ["HR", "predictive analytics", "AI", "forecasting", "machine learning"]
+    }
+  ]
+}
