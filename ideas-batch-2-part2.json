@@ -1,0 +1,2008 @@
+{
+  "batch": "2-part2",
+  "ideas_range": "451-650",
+  "total_ideas": 200,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 451,
+      "name": "Notion Templates Store",
+      "description": "Curated marketplace for premium Notion templates - productivity systems, project management, CRM, databases. Instant download.",
+      "revenue_model": "$9-49 per template + bundle deals",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Productivity Templates",
+      "tags": ["digital product", "Notion", "templates", "productivity", "organization"]
+    },
+    {
+      "id": 452,
+      "name": "Stock Photo Bundle",
+      "description": "Monthly subscription for high-quality stock photos. Niche collections for specific industries (food, tech, fitness).",
+      "revenue_model": "$29-99/month subscription + one-time packs",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Stock Media",
+      "tags": ["digital product", "stock photos", "photography", "subscription", "media"]
+    },
+    {
+      "id": 453,
+      "name": "Excel Spreadsheet Templates",
+      "description": "Professional Excel templates for budgeting, invoicing, project tracking, and business analytics. Macro-enabled options.",
+      "revenue_model": "$15-79 per template + custom development",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Business Templates",
+      "tags": ["digital product", "Excel", "spreadsheets", "templates", "business"]
+    },
+    {
+      "id": 454,
+      "name": "Lightroom Presets Pack",
+      "description": "Professional photo editing presets for Lightroom. Different styles - moody, bright, vintage, cinematic.",
+      "revenue_model": "$19-59 per preset pack",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Photo Editing",
+      "tags": ["digital product", "Lightroom", "presets", "photography", "editing"]
+    },
+    {
+      "id": 455,
+      "name": "Canva Template Bundle",
+      "description": "Ready-to-use Canva templates for social media, presentations, resumes, and marketing materials.",
+      "revenue_model": "$12-39 per bundle + monthly new releases",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Design Templates",
+      "tags": ["digital product", "Canva", "templates", "design", "marketing"]
+    },
+    {
+      "id": 456,
+      "name": "Online Course Platform",
+      "description": "Comprehensive online course teaching specific skill (coding, design, marketing). Video lessons, quizzes, certificates.",
+      "revenue_model": "$99-499 one-time or $29-99/month subscription",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "Education",
+      "tags": ["digital product", "online course", "education", "e-learning", "training"]
+    },
+    {
+      "id": 457,
+      "name": "WordPress Theme Shop",
+      "description": "Premium WordPress themes for specific niches (restaurants, agencies, blogs). Regular updates and support.",
+      "revenue_model": "$49-99 per theme + lifetime support upgrade",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "Web Themes",
+      "tags": ["digital product", "WordPress", "themes", "web design", "templates"]
+    },
+    {
+      "id": 458,
+      "name": "Procreate Brush Sets",
+      "description": "Custom Procreate brushes for digital artists. Watercolor, oil painting, sketching, and texture brushes.",
+      "revenue_model": "$9-29 per brush set",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Digital Art",
+      "tags": ["digital product", "Procreate", "brushes", "digital art", "iPad"]
+    },
+    {
+      "id": 459,
+      "name": "Email Newsletter Templates",
+      "description": "HTML email templates for newsletters, promotions, and announcements. Compatible with major email platforms.",
+      "revenue_model": "$19-49 per template pack",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Email Marketing",
+      "tags": ["digital product", "email", "templates", "newsletter", "marketing"]
+    },
+    {
+      "id": 460,
+      "name": "3D Model Marketplace",
+      "description": "Sell 3D models for games, architecture, and product visualization. Various file formats supported.",
+      "revenue_model": "$10-200 per model + 30% marketplace fee",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "3D Assets",
+      "tags": ["digital product", "3D models", "assets", "games", "design"]
+    },
+    {
+      "id": 461,
+      "name": "Social Media Content Calendar",
+      "description": "Pre-planned social media content calendars with post ideas, captions, and hashtags for entire month.",
+      "revenue_model": "$29/month subscription or $99 quarterly",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Social Media",
+      "tags": ["digital product", "social media", "content calendar", "marketing", "planning"]
+    },
+    {
+      "id": 462,
+      "name": "Figma UI Kits",
+      "description": "Complete UI kits for Figma with components, icons, and design systems. Mobile and web versions.",
+      "revenue_model": "$39-149 per UI kit",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Design Assets",
+      "tags": ["digital product", "Figma", "UI kit", "design", "components"]
+    },
+    {
+      "id": 463,
+      "name": "Meditation Audio Tracks",
+      "description": "Guided meditation audio files for stress, sleep, focus, and anxiety. Various lengths and styles.",
+      "revenue_model": "$9-29 per track or $19/month subscription",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Wellness Audio",
+      "tags": ["digital product", "meditation", "audio", "wellness", "mindfulness"]
+    },
+    {
+      "id": 464,
+      "name": "PowerPoint Template Store",
+      "description": "Professional PowerPoint templates for business presentations, pitch decks, and reports.",
+      "revenue_model": "$19-59 per template",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Presentation Templates",
+      "tags": ["digital product", "PowerPoint", "templates", "presentations", "business"]
+    },
+    {
+      "id": 465,
+      "name": "Sound Effects Library",
+      "description": "Royalty-free sound effects for video production, games, and podcasts. Organized by category.",
+      "revenue_model": "$49-199 per pack or $29/month subscription",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Audio Assets",
+      "tags": ["digital product", "sound effects", "audio", "production", "royalty-free"]
+    },
+    {
+      "id": 466,
+      "name": "Instagram Story Templates",
+      "description": "Animated Instagram story templates for businesses and influencers. Easy customization.",
+      "revenue_model": "$14-39 per template pack",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Social Media",
+      "tags": ["digital product", "Instagram", "stories", "templates", "social media"]
+    },
+    {
+      "id": 467,
+      "name": "Ebook Publishing",
+      "description": "Self-published ebooks on specific topics (business, self-help, fiction). Sold on Amazon and own website.",
+      "revenue_model": "$2.99-9.99 per ebook + royalties",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Publishing",
+      "tags": ["digital product", "ebook", "publishing", "writing", "Kindle"]
+    },
+    {
+      "id": 468,
+      "name": "Video Intro Templates",
+      "description": "Professional video intro templates for YouTube, courses, and presentations. After Effects and Premiere Pro.",
+      "revenue_model": "$19-49 per template",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Video Templates",
+      "tags": ["digital product", "video", "intros", "templates", "motion graphics"]
+    },
+    {
+      "id": 469,
+      "name": "Printable Planner Pages",
+      "description": "Downloadable planner pages for productivity, budgeting, meal planning, and goal tracking. Print at home.",
+      "revenue_model": "$5-19 per planner set",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Printables",
+      "tags": ["digital product", "printables", "planners", "productivity", "organization"]
+    },
+    {
+      "id": 470,
+      "name": "Music Loops & Samples",
+      "description": "Royalty-free music loops and samples for producers. Various genres and instruments.",
+      "revenue_model": "$29-99 per pack or $39/month subscription",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "Music Production",
+      "tags": ["digital product", "music", "loops", "samples", "production"]
+    },
+    {
+      "id": 471,
+      "name": "Resume Templates Bundle",
+      "description": "ATS-friendly resume templates in Word and Google Docs. Modern, professional designs.",
+      "revenue_model": "$9-29 per template bundle",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Career Templates",
+      "tags": ["digital product", "resume", "templates", "career", "job search"]
+    },
+    {
+      "id": 472,
+      "name": "Photoshop Actions Pack",
+      "description": "One-click Photoshop actions for photo editing, retouching, and effects. Time-saving automation.",
+      "revenue_model": "$15-49 per action pack",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Photo Editing",
+      "tags": ["digital product", "Photoshop", "actions", "editing", "automation"]
+    },
+    {
+      "id": 473,
+      "name": "Webinar Slide Decks",
+      "description": "Pre-designed webinar presentation templates with engaging layouts and graphics.",
+      "revenue_model": "$24-59 per deck",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Presentation Templates",
+      "tags": ["digital product", "webinar", "presentations", "templates", "slides"]
+    },
+    {
+      "id": 474,
+      "name": "Icon Sets Collection",
+      "description": "Vector icon sets for web and app design. Multiple styles and formats (SVG, PNG, AI).",
+      "revenue_model": "$19-79 per icon set",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Design Assets",
+      "tags": ["digital product", "icons", "vectors", "design", "UI"]
+    },
+    {
+      "id": 475,
+      "name": "Workout Program PDFs",
+      "description": "Downloadable workout programs with exercises, sets, reps, and progress tracking sheets.",
+      "revenue_model": "$19-49 per program",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Fitness",
+      "tags": ["digital product", "fitness", "workout", "training", "health"]
+    },
+    {
+      "id": 476,
+      "name": "Shopify App Plugin",
+      "description": "Custom Shopify app that adds functionality to stores (reviews, upsells, analytics).",
+      "revenue_model": "$9.99-29.99/month per installation",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "Software Plugin",
+      "tags": ["digital product", "Shopify", "app", "plugin", "e-commerce"]
+    },
+    {
+      "id": 477,
+      "name": "Coloring Book PDFs",
+      "description": "Adult coloring books in PDF format. Intricate designs for stress relief and creativity.",
+      "revenue_model": "$4.99-14.99 per book",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Printables",
+      "tags": ["digital product", "coloring book", "printables", "art", "relaxation"]
+    },
+    {
+      "id": 478,
+      "name": "LUT Packs for Video",
+      "description": "Color grading LUTs for video editing. Cinematic, vintage, and modern looks.",
+      "revenue_model": "$19-59 per LUT pack",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Video Editing",
+      "tags": ["digital product", "LUTs", "color grading", "video", "editing"]
+    },
+    {
+      "id": 479,
+      "name": "Business Plan Templates",
+      "description": "Comprehensive business plan templates with financial projections, market analysis, and executive summaries.",
+      "revenue_model": "$29-99 per template",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Business Templates",
+      "tags": ["digital product", "business plan", "templates", "startup", "planning"]
+    },
+    {
+      "id": 480,
+      "name": "Affirmation Card Deck",
+      "description": "Digital affirmation cards for daily motivation. Printable or use on phone/tablet.",
+      "revenue_model": "$9.99 per deck",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Wellness",
+      "tags": ["digital product", "affirmations", "motivation", "wellness", "printables"]
+    },
+    {
+      "id": 481,
+      "name": "Knitting Patterns Store",
+      "description": "Downloadable knitting and crochet patterns for clothing, accessories, and home decor.",
+      "revenue_model": "$4.99-19.99 per pattern",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Crafts",
+      "tags": ["digital product", "knitting", "patterns", "crafts", "DIY"]
+    },
+    {
+      "id": 482,
+      "name": "Chrome Extension Tool",
+      "description": "Productivity Chrome extension (tab manager, note-taker, price tracker, etc.).",
+      "revenue_model": "Free basic + $4.99/month premium features",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Browser Extension",
+      "tags": ["digital product", "Chrome extension", "productivity", "tool", "browser"]
+    },
+    {
+      "id": 483,
+      "name": "Meal Plan Templates",
+      "description": "Weekly meal planning templates with grocery lists, recipes, and nutrition tracking.",
+      "revenue_model": "$9.99-24.99 per template pack",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Food & Health",
+      "tags": ["digital product", "meal planning", "nutrition", "templates", "health"]
+    },
+    {
+      "id": 484,
+      "name": "Twitch Overlay Graphics",
+      "description": "Custom overlay graphics for Twitch streamers - alerts, panels, screens, and animations.",
+      "revenue_model": "$19-79 per overlay pack",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Streaming Assets",
+      "tags": ["digital product", "Twitch", "overlays", "streaming", "graphics"]
+    },
+    {
+      "id": 485,
+      "name": "Budget Spreadsheet System",
+      "description": "Complete budgeting system in Excel/Google Sheets with debt payoff, savings goals, and expense tracking.",
+      "revenue_model": "$19-39 one-time purchase",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Finance Templates",
+      "tags": ["digital product", "budgeting", "spreadsheet", "finance", "money"]
+    },
+    {
+      "id": 486,
+      "name": "Font Collection Bundle",
+      "description": "Curated font bundles for designers. Commercial use licenses included.",
+      "revenue_model": "$29-149 per bundle",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Typography",
+      "tags": ["digital product", "fonts", "typography", "design", "commercial"]
+    },
+    {
+      "id": 487,
+      "name": "Wedding Planning Printables",
+      "description": "Complete wedding planning kit - checklists, budget trackers, seating charts, timelines.",
+      "revenue_model": "$19-49 per kit",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Printables",
+      "tags": ["digital product", "wedding", "planning", "printables", "organization"]
+    },
+    {
+      "id": 488,
+      "name": "Sublimation Design Files",
+      "description": "Print-ready sublimation designs for t-shirts, mugs, and other products. PNG format.",
+      "revenue_model": "$3-15 per design or $29/month subscription",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Print Designs",
+      "tags": ["digital product", "sublimation", "designs", "printing", "crafts"]
+    },
+    {
+      "id": 489,
+      "name": "Airtable Templates",
+      "description": "Pre-built Airtable bases for project management, CRM, content calendars, and databases.",
+      "revenue_model": "$15-59 per template",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Productivity Templates",
+      "tags": ["digital product", "Airtable", "templates", "database", "productivity"]
+    },
+    {
+      "id": 490,
+      "name": "Guided Journal Prompts",
+      "description": "PDF journal with daily prompts for gratitude, self-reflection, and personal growth.",
+      "revenue_model": "$9.99-19.99 per journal",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Wellness",
+      "tags": ["digital product", "journaling", "prompts", "wellness", "self-improvement"]
+    },
+    {
+      "id": 491,
+      "name": "DaVinci Resolve Templates",
+      "description": "Video editing templates for DaVinci Resolve - transitions, titles, effects.",
+      "revenue_model": "$19-49 per template pack",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Video Editing",
+      "tags": ["digital product", "DaVinci Resolve", "video", "templates", "editing"]
+    },
+    {
+      "id": 492,
+      "name": "Invoice Template Bundle",
+      "description": "Professional invoice templates in multiple formats (Word, Excel, PDF, Google Docs).",
+      "revenue_model": "$12-29 per bundle",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Business Templates",
+      "tags": ["digital product", "invoices", "templates", "business", "billing"]
+    },
+    {
+      "id": 493,
+      "name": "Texture Pack for 3D",
+      "description": "High-resolution texture packs for 3D modeling and game development. PBR materials.",
+      "revenue_model": "$29-99 per texture pack",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "3D Assets",
+      "tags": ["digital product", "textures", "3D", "materials", "game dev"]
+    },
+    {
+      "id": 494,
+      "name": "Teacher Resource Printables",
+      "description": "Educational printables for teachers - worksheets, flashcards, classroom decorations.",
+      "revenue_model": "$4.99-19.99 per resource pack",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Education",
+      "tags": ["digital product", "teaching", "education", "printables", "classroom"]
+    },
+    {
+      "id": 495,
+      "name": "LinkedIn Banner Templates",
+      "description": "Professional LinkedIn banner designs for personal branding. Easy customization.",
+      "revenue_model": "$9-24 per template pack",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Social Media",
+      "tags": ["digital product", "LinkedIn", "banners", "templates", "branding"]
+    },
+    {
+      "id": 496,
+      "name": "Blender Add-on Tool",
+      "description": "Custom Blender add-on that adds functionality for 3D artists (modeling, rendering, animation).",
+      "revenue_model": "$19-79 one-time or $9/month subscription",
+      "difficulty": "Hard",
+      "sector": "Digital Product",
+      "category": "Software Plugin",
+      "tags": ["digital product", "Blender", "add-on", "3D", "tool"]
+    },
+    {
+      "id": 497,
+      "name": "Party Printables Bundle",
+      "description": "Birthday party printables - invitations, banners, cupcake toppers, thank you cards.",
+      "revenue_model": "$7.99-19.99 per party theme",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Printables",
+      "tags": ["digital product", "party", "printables", "celebrations", "DIY"]
+    },
+    {
+      "id": 498,
+      "name": "Podcast Intro Music",
+      "description": "Royalty-free podcast intro and outro music tracks. Various genres and moods.",
+      "revenue_model": "$19-49 per track or $29/month subscription",
+      "difficulty": "Medium",
+      "sector": "Digital Product",
+      "category": "Audio Assets",
+      "tags": ["digital product", "podcast", "music", "audio", "royalty-free"]
+    },
+    {
+      "id": 499,
+      "name": "Trello Board Templates",
+      "description": "Pre-configured Trello boards for project management, content planning, and team workflows.",
+      "revenue_model": "$9-29 per template",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Productivity Templates",
+      "tags": ["digital product", "Trello", "templates", "project management", "productivity"]
+    },
+    {
+      "id": 500,
+      "name": "SVG Cut Files Store",
+      "description": "SVG cut files for Cricut and Silhouette machines. Quotes, designs, and seasonal graphics.",
+      "revenue_model": "$2.99-9.99 per file or $19/month subscription",
+      "difficulty": "Easy",
+      "sector": "Digital Product",
+      "category": "Crafts",
+      "tags": ["digital product", "SVG", "Cricut", "crafts", "cutting files"]
+    },
+    {
+      "id": 501,
+      "name": "Lemonade Stand",
+      "description": "Classic lemonade stand for neighborhood sales. Learn pricing, customer service, and money management.",
+      "revenue_model": "$1-3 per cup, $20-100/day potential",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Food & Beverage",
+      "tags": ["teen business", "lemonade", "food", "neighborhood", "summer"]
+    },
+    {
+      "id": 502,
+      "name": "Lawn Mowing Service",
+      "description": "Mow lawns for neighbors. Start with basic equipment and build client base through referrals.",
+      "revenue_model": "$20-40 per lawn, weekly recurring clients",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Outdoor Services",
+      "tags": ["teen business", "lawn care", "outdoor", "service", "summer"]
+    },
+    {
+      "id": 503,
+      "name": "Pet Sitting for Neighbors",
+      "description": "Watch pets while neighbors are away. Feed, walk, and play with animals.",
+      "revenue_model": "$15-30 per day per pet",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Pet Care",
+      "tags": ["teen business", "pet sitting", "animals", "service", "neighborhood"]
+    },
+    {
+      "id": 504,
+      "name": "Tutoring Younger Students",
+      "description": "Tutor elementary or middle school students in subjects you excel at. After school or weekends.",
+      "revenue_model": "$10-25 per hour",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Education",
+      "tags": ["teen business", "tutoring", "education", "teaching", "students"]
+    },
+    {
+      "id": 505,
+      "name": "Handmade Jewelry Sales",
+      "description": "Create and sell handmade jewelry at school, craft fairs, or online (Etsy).",
+      "revenue_model": "$5-50 per piece, 200-400% markup",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "jewelry", "handmade", "crafts", "Etsy"]
+    },
+    {
+      "id": 506,
+      "name": "Car Washing Service",
+      "description": "Wash cars in neighborhood driveways. Bring supplies and offer interior cleaning too.",
+      "revenue_model": "$10-30 per car",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Automotive",
+      "tags": ["teen business", "car wash", "cleaning", "service", "mobile"]
+    },
+    {
+      "id": 507,
+      "name": "Babysitting Service",
+      "description": "Babysit for families in your area. Get certified in CPR and first aid for credibility.",
+      "revenue_model": "$12-20 per hour",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Childcare",
+      "tags": ["teen business", "babysitting", "childcare", "service", "evening"]
+    },
+    {
+      "id": 508,
+      "name": "Baked Goods Sales",
+      "description": "Bake cookies, brownies, or cupcakes and sell at school events, farmers markets, or door-to-door.",
+      "revenue_model": "$1-5 per item, 300-500% markup",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Food",
+      "tags": ["teen business", "baking", "food", "sales", "homemade"]
+    },
+    {
+      "id": 509,
+      "name": "Social Media Management for Local Businesses",
+      "description": "Manage social media accounts for small local businesses. Post content and engage with followers.",
+      "revenue_model": "$100-300/month per client",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Digital Marketing",
+      "tags": ["teen business", "social media", "marketing", "digital", "business"]
+    },
+    {
+      "id": 510,
+      "name": "T-Shirt Design & Sales",
+      "description": "Design custom t-shirts and sell through print-on-demand services (Printful, Redbubble).",
+      "revenue_model": "$5-15 profit per shirt",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "E-commerce",
+      "tags": ["teen business", "t-shirts", "design", "print-on-demand", "online"]
+    },
+    {
+      "id": 511,
+      "name": "Snow Shoveling Service",
+      "description": "Shovel driveways and walkways after snowstorms. Early morning service for working families.",
+      "revenue_model": "$15-40 per driveway",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Seasonal Service",
+      "tags": ["teen business", "snow removal", "winter", "service", "outdoor"]
+    },
+    {
+      "id": 512,
+      "name": "YouTube Channel",
+      "description": "Create YouTube content about hobbies, gaming, tutorials, or vlogs. Monetize through ads and sponsorships.",
+      "revenue_model": "Ad revenue + sponsorships ($100-1000+/month)",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Content Creation",
+      "tags": ["teen business", "YouTube", "content", "video", "creator"]
+    },
+    {
+      "id": 513,
+      "name": "Reselling Thrift Finds",
+      "description": "Buy items at thrift stores and resell on eBay, Poshmark, or Depop for profit.",
+      "revenue_model": "50-300% markup on items",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Reselling",
+      "tags": ["teen business", "reselling", "thrift", "flipping", "online"]
+    },
+    {
+      "id": 514,
+      "name": "Photography Service",
+      "description": "Offer photography for events, portraits, or social media content. Use smartphone or basic camera.",
+      "revenue_model": "$50-200 per session",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Creative Services",
+      "tags": ["teen business", "photography", "creative", "events", "portraits"]
+    },
+    {
+      "id": 515,
+      "name": "Homework Help Hotline",
+      "description": "Offer homework help via text or video call. Charge per session or monthly subscription.",
+      "revenue_model": "$10-20 per session or $50/month unlimited",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Education",
+      "tags": ["teen business", "homework help", "tutoring", "online", "students"]
+    },
+    {
+      "id": 516,
+      "name": "Garage Organization Service",
+      "description": "Help neighbors organize cluttered garages. Sort, label, and create storage systems.",
+      "revenue_model": "$50-150 per garage",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Organization",
+      "tags": ["teen business", "organization", "garage", "cleaning", "service"]
+    },
+    {
+      "id": 517,
+      "name": "Custom Sticker Shop",
+      "description": "Design and sell custom stickers online. Use print-on-demand or buy sticker printer.",
+      "revenue_model": "$2-8 per sticker sheet",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "E-commerce",
+      "tags": ["teen business", "stickers", "design", "online", "crafts"]
+    },
+    {
+      "id": 518,
+      "name": "Dog Walking Service",
+      "description": "Walk dogs for busy pet owners. After school or weekend service.",
+      "revenue_model": "$10-20 per walk",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Pet Care",
+      "tags": ["teen business", "dog walking", "pets", "service", "exercise"]
+    },
+    {
+      "id": 519,
+      "name": "Twitch Streaming",
+      "description": "Stream gaming or creative content on Twitch. Earn through subscriptions, donations, and ads.",
+      "revenue_model": "Subscriptions + donations ($50-500+/month)",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Content Creation",
+      "tags": ["teen business", "Twitch", "streaming", "gaming", "content"]
+    },
+    {
+      "id": 520,
+      "name": "Bike Repair Service",
+      "description": "Fix and tune up bikes for neighborhood kids and adults. Mobile service.",
+      "revenue_model": "$15-50 per repair",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Repair Service",
+      "tags": ["teen business", "bike repair", "service", "mechanical", "mobile"]
+    },
+    {
+      "id": 521,
+      "name": "Slime Business",
+      "description": "Make and sell custom slime in different colors, textures, and scents. Popular with younger kids.",
+      "revenue_model": "$5-15 per container, 400% markup",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "slime", "crafts", "kids", "handmade"]
+    },
+    {
+      "id": 522,
+      "name": "Window Washing",
+      "description": "Wash windows for homes and small businesses. Inside and outside cleaning.",
+      "revenue_model": "$3-8 per window",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Cleaning Service",
+      "tags": ["teen business", "window washing", "cleaning", "service", "home"]
+    },
+    {
+      "id": 523,
+      "name": "TikTok Content Creator",
+      "description": "Create viral TikTok content and monetize through Creator Fund, brand deals, and affiliate links.",
+      "revenue_model": "Creator Fund + brand deals ($100-1000+/month)",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Content Creation",
+      "tags": ["teen business", "TikTok", "content", "social media", "viral"]
+    },
+    {
+      "id": 524,
+      "name": "Plant Watering Service",
+      "description": "Water plants for neighbors on vacation. Check on homes and bring in mail too.",
+      "revenue_model": "$10-20 per visit",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Home Service",
+      "tags": ["teen business", "plant care", "service", "vacation", "home"]
+    },
+    {
+      "id": 525,
+      "name": "Friendship Bracelet Sales",
+      "description": "Make and sell friendship bracelets at school or online. Custom colors and patterns.",
+      "revenue_model": "$3-10 per bracelet",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "bracelets", "crafts", "handmade", "jewelry"]
+    },
+    {
+      "id": 526,
+      "name": "Graphic Design for Students",
+      "description": "Design posters, flyers, and social media graphics for school clubs and events.",
+      "revenue_model": "$20-75 per design",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Design Services",
+      "tags": ["teen business", "graphic design", "creative", "school", "digital"]
+    },
+    {
+      "id": 527,
+      "name": "Recycling Collection Service",
+      "description": "Collect recyclables from neighbors and take to recycling center. Earn from redemption value.",
+      "revenue_model": "$0.05-0.10 per item + service fee",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Environmental Service",
+      "tags": ["teen business", "recycling", "environment", "service", "green"]
+    },
+    {
+      "id": 528,
+      "name": "Custom Phone Cases",
+      "description": "Design and sell custom phone cases through print-on-demand services.",
+      "revenue_model": "$5-12 profit per case",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "E-commerce",
+      "tags": ["teen business", "phone cases", "design", "print-on-demand", "online"]
+    },
+    {
+      "id": 529,
+      "name": "Leaf Raking Service",
+      "description": "Rake leaves in fall for neighbors. Bag and dispose or compost.",
+      "revenue_model": "$20-50 per yard",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Seasonal Service",
+      "tags": ["teen business", "leaf raking", "fall", "outdoor", "service"]
+    },
+    {
+      "id": 530,
+      "name": "Instagram Theme Page",
+      "description": "Build niche Instagram page with engaged followers. Monetize through shoutouts and affiliate links.",
+      "revenue_model": "Shoutouts + affiliates ($50-500/month)",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Social Media",
+      "tags": ["teen business", "Instagram", "theme page", "social media", "monetization"]
+    },
+    {
+      "id": 531,
+      "name": "Errand Running Service",
+      "description": "Run errands for busy families or elderly neighbors. Grocery shopping, post office, etc.",
+      "revenue_model": "$15-30 per hour",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Personal Service",
+      "tags": ["teen business", "errands", "service", "helping", "community"]
+    },
+    {
+      "id": 532,
+      "name": "Painted Rock Sales",
+      "description": "Paint decorative rocks and sell at craft fairs or online. Popular garden decorations.",
+      "revenue_model": "$3-15 per rock",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "painted rocks", "crafts", "art", "garden"]
+    },
+    {
+      "id": 533,
+      "name": "Tech Support for Seniors",
+      "description": "Help elderly neighbors with phones, computers, and technology setup.",
+      "revenue_model": "$20-40 per hour",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Tech Service",
+      "tags": ["teen business", "tech support", "seniors", "service", "technology"]
+    },
+    {
+      "id": 534,
+      "name": "Candy Bouquet Business",
+      "description": "Create candy bouquets for gifts and special occasions. Sell locally or online.",
+      "revenue_model": "$15-40 per bouquet",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Gifts",
+      "tags": ["teen business", "candy", "bouquets", "gifts", "crafts"]
+    },
+    {
+      "id": 535,
+      "name": "Podcast for Teens",
+      "description": "Start podcast about teen topics. Monetize through sponsorships and listener support.",
+      "revenue_model": "Sponsorships + donations ($50-300/month)",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Content Creation",
+      "tags": ["teen business", "podcast", "audio", "content", "teens"]
+    },
+    {
+      "id": 536,
+      "name": "Gutter Cleaning",
+      "description": "Clean gutters for single-story homes. Safety equipment required.",
+      "revenue_model": "$50-100 per house",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Home Service",
+      "tags": ["teen business", "gutter cleaning", "home", "service", "outdoor"]
+    },
+    {
+      "id": 537,
+      "name": "Scrunchie Making Business",
+      "description": "Sew and sell fabric scrunchies. Popular accessory with low material costs.",
+      "revenue_model": "$3-8 per scrunchie",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "scrunchies", "sewing", "crafts", "fashion"]
+    },
+    {
+      "id": 538,
+      "name": "Video Editing Service",
+      "description": "Edit videos for other students, small businesses, or YouTubers.",
+      "revenue_model": "$25-100 per video",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Creative Services",
+      "tags": ["teen business", "video editing", "creative", "digital", "service"]
+    },
+    {
+      "id": 539,
+      "name": "Pressure Washing Driveways",
+      "description": "Pressure wash driveways and sidewalks. Rent or buy equipment.",
+      "revenue_model": "$50-150 per driveway",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Cleaning Service",
+      "tags": ["teen business", "pressure washing", "cleaning", "outdoor", "service"]
+    },
+    {
+      "id": 540,
+      "name": "Etsy Shop Owner",
+      "description": "Sell handmade items, vintage finds, or digital products on Etsy.",
+      "revenue_model": "Varies by product, Etsy takes 6.5% fee",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "E-commerce",
+      "tags": ["teen business", "Etsy", "handmade", "online", "shop"]
+    },
+    {
+      "id": 541,
+      "name": "Fence Painting Service",
+      "description": "Paint or stain fences for neighbors. Bring supplies or charge separately.",
+      "revenue_model": "$100-300 per fence",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Home Service",
+      "tags": ["teen business", "painting", "fence", "outdoor", "service"]
+    },
+    {
+      "id": 542,
+      "name": "Bath Bomb Business",
+      "description": "Make and sell handmade bath bombs. Custom scents and colors.",
+      "revenue_model": "$4-10 per bath bomb",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "bath bombs", "handmade", "crafts", "wellness"]
+    },
+    {
+      "id": 543,
+      "name": "Music Lessons",
+      "description": "Teach instrument or voice lessons to younger students. In-person or online.",
+      "revenue_model": "$15-30 per lesson",
+      "difficulty": "Medium",
+      "sector": "Teen Business",
+      "category": "Education",
+      "tags": ["teen business", "music lessons", "teaching", "instruments", "education"]
+    },
+    {
+      "id": 544,
+      "name": "Trash Can Cleaning Service",
+      "description": "Clean and sanitize trash cans for neighbors. Monthly subscription service.",
+      "revenue_model": "$10-20 per can per month",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Cleaning Service",
+      "tags": ["teen business", "trash can", "cleaning", "service", "subscription"]
+    },
+    {
+      "id": 545,
+      "name": "Bookmark Making Business",
+      "description": "Create and sell handmade bookmarks. Laminated, beaded, or embroidered styles.",
+      "revenue_model": "$2-8 per bookmark",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "bookmarks", "crafts", "handmade", "reading"]
+    },
+    {
+      "id": 546,
+      "name": "Discord Server Management",
+      "description": "Manage Discord servers for gaming communities or content creators. Moderation and setup.",
+      "revenue_model": "$50-200/month per server",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Digital Service",
+      "tags": ["teen business", "Discord", "community", "management", "gaming"]
+    },
+    {
+      "id": 547,
+      "name": "Weeding Gardens",
+      "description": "Weed gardens and flower beds for neighbors. Regular maintenance service.",
+      "revenue_model": "$15-40 per session",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Gardening Service",
+      "tags": ["teen business", "weeding", "gardening", "outdoor", "service"]
+    },
+    {
+      "id": 548,
+      "name": "Candle Making Business",
+      "description": "Make and sell scented candles. Soy wax, custom scents, and decorative containers.",
+      "revenue_model": "$8-25 per candle",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Crafts",
+      "tags": ["teen business", "candles", "handmade", "crafts", "home decor"]
+    },
+    {
+      "id": 549,
+      "name": "Roblox Game Developer",
+      "description": "Create Roblox games and earn Robux from game passes and in-game purchases.",
+      "revenue_model": "Robux earnings (convert to real money)",
+      "difficulty": "Hard",
+      "sector": "Teen Business",
+      "category": "Game Development",
+      "tags": ["teen business", "Roblox", "game dev", "coding", "gaming"]
+    },
+    {
+      "id": 550,
+      "name": "Poop Scooping Service",
+      "description": "Clean up dog waste from yards. Weekly service for pet owners.",
+      "revenue_model": "$10-25 per yard per week",
+      "difficulty": "Easy",
+      "sector": "Teen Business",
+      "category": "Pet Service",
+      "tags": ["teen business", "pet waste", "service", "outdoor", "pets"]
+    },
+    {
+      "id": 551,
+      "name": "Dropshipping Store",
+      "description": "Start online store without inventory. Partner with suppliers who ship directly to customers.",
+      "revenue_model": "10-30% profit margin per sale",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "E-commerce",
+      "tags": ["low budget", "dropshipping", "e-commerce", "online", "no inventory"]
+    },
+    {
+      "id": 552,
+      "name": "Print-on-Demand Store",
+      "description": "Sell custom designs on t-shirts, mugs, phone cases without holding inventory. Use Printful or Printify.",
+      "revenue_model": "$5-20 profit per item",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "E-commerce",
+      "tags": ["low budget", "print-on-demand", "design", "online", "passive income"]
+    },
+    {
+      "id": 553,
+      "name": "Affiliate Marketing Blog",
+      "description": "Create niche blog and earn commissions promoting products through affiliate links.",
+      "revenue_model": "5-20% commission per sale",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Content Marketing",
+      "tags": ["low budget", "affiliate marketing", "blog", "passive income", "online"]
+    },
+    {
+      "id": 554,
+      "name": "Virtual Assistant",
+      "description": "Offer remote admin support to businesses. Email, scheduling, data entry from home.",
+      "revenue_model": "$15-40 per hour",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Remote Service",
+      "tags": ["low budget", "virtual assistant", "remote", "admin", "freelance"]
+    },
+    {
+      "id": 555,
+      "name": "Freelance Writing",
+      "description": "Write articles, blog posts, and content for businesses. Start on Upwork or Fiverr.",
+      "revenue_model": "$0.05-0.50 per word",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Freelance",
+      "tags": ["low budget", "writing", "freelance", "content", "remote"]
+    },
+    {
+      "id": 556,
+      "name": "Social Media Consulting",
+      "description": "Help small businesses grow their social media presence. Strategy and content planning.",
+      "revenue_model": "$300-1500/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "social media", "consulting", "marketing", "remote"]
+    },
+    {
+      "id": 557,
+      "name": "Online Tutoring",
+      "description": "Tutor students online in subjects you're expert in. Use Zoom or tutoring platforms.",
+      "revenue_model": "$20-60 per hour",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Education",
+      "tags": ["low budget", "tutoring", "online", "education", "remote"]
+    },
+    {
+      "id": 558,
+      "name": "Niche Newsletter",
+      "description": "Create email newsletter on specific topic. Monetize through sponsorships and premium subscriptions.",
+      "revenue_model": "Sponsorships + subscriptions ($100-5000/month)",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Content",
+      "tags": ["low budget", "newsletter", "email", "content", "subscription"]
+    },
+    {
+      "id": 559,
+      "name": "Instagram Consulting",
+      "description": "Help businesses and influencers grow Instagram following and engagement.",
+      "revenue_model": "$500-2000/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Social Media",
+      "tags": ["low budget", "Instagram", "consulting", "growth", "social media"]
+    },
+    {
+      "id": 560,
+      "name": "Transcription Service",
+      "description": "Transcribe audio and video files for businesses, podcasters, and researchers.",
+      "revenue_model": "$15-30 per audio hour",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Freelance",
+      "tags": ["low budget", "transcription", "audio", "freelance", "remote"]
+    },
+    {
+      "id": 561,
+      "name": "SEO Consulting",
+      "description": "Help small businesses improve search rankings. Keyword research and on-page optimization.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "SEO", "consulting", "marketing", "digital"]
+    },
+    {
+      "id": 562,
+      "name": "Proofreading Service",
+      "description": "Proofread documents, articles, and books for errors. Work remotely.",
+      "revenue_model": "$0.01-0.03 per word",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Freelance",
+      "tags": ["low budget", "proofreading", "editing", "freelance", "remote"]
+    },
+    {
+      "id": 563,
+      "name": "Email Marketing Service",
+      "description": "Manage email campaigns for small businesses. Design, write, and analyze results.",
+      "revenue_model": "$300-1500/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "email marketing", "campaigns", "digital", "remote"]
+    },
+    {
+      "id": 564,
+      "name": "Voiceover Artist",
+      "description": "Record voiceovers for videos, ads, and audiobooks from home studio.",
+      "revenue_model": "$100-500 per project",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Creative",
+      "tags": ["low budget", "voiceover", "audio", "creative", "remote"]
+    },
+    {
+      "id": 565,
+      "name": "Online Course Creator",
+      "description": "Create and sell online courses on platforms like Teachable or Udemy.",
+      "revenue_model": "$20-200 per course sale",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Education",
+      "tags": ["low budget", "online course", "education", "passive income", "teaching"]
+    },
+    {
+      "id": 566,
+      "name": "Pinterest Manager",
+      "description": "Manage Pinterest accounts for businesses. Create pins and grow traffic.",
+      "revenue_model": "$300-1000/month per client",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Social Media",
+      "tags": ["low budget", "Pinterest", "social media", "management", "traffic"]
+    },
+    {
+      "id": 567,
+      "name": "Data Entry Service",
+      "description": "Provide data entry services to businesses remotely. Spreadsheets and databases.",
+      "revenue_model": "$10-25 per hour",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Admin",
+      "tags": ["low budget", "data entry", "admin", "remote", "freelance"]
+    },
+    {
+      "id": 568,
+      "name": "Bookkeeping Service",
+      "description": "Manage books for small businesses remotely. Use QuickBooks or similar software.",
+      "revenue_model": "$200-800/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Finance",
+      "tags": ["low budget", "bookkeeping", "accounting", "finance", "remote"]
+    },
+    {
+      "id": 569,
+      "name": "Resume Writing",
+      "description": "Write professional resumes and cover letters for job seekers.",
+      "revenue_model": "$75-250 per resume",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Career Services",
+      "tags": ["low budget", "resume", "writing", "career", "freelance"]
+    },
+    {
+      "id": 570,
+      "name": "Podcast Editing",
+      "description": "Edit podcasts for creators. Remove filler, add music, and master audio.",
+      "revenue_model": "$30-100 per episode",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Audio",
+      "tags": ["low budget", "podcast", "editing", "audio", "freelance"]
+    },
+    {
+      "id": 571,
+      "name": "Copywriting Service",
+      "description": "Write sales copy for websites, ads, and marketing materials.",
+      "revenue_model": "$0.10-0.50 per word or project-based",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Writing",
+      "tags": ["low budget", "copywriting", "marketing", "sales", "freelance"]
+    },
+    {
+      "id": 572,
+      "name": "YouTube Channel",
+      "description": "Create YouTube content and monetize through ads, sponsorships, and affiliate links.",
+      "revenue_model": "Ad revenue + sponsorships (varies widely)",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Content Creation",
+      "tags": ["low budget", "YouTube", "video", "content", "monetization"]
+    },
+    {
+      "id": 573,
+      "name": "Graphic Design Freelance",
+      "description": "Design logos, social media graphics, and marketing materials for clients.",
+      "revenue_model": "$25-100 per hour or project-based",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Design",
+      "tags": ["low budget", "graphic design", "freelance", "creative", "remote"]
+    },
+    {
+      "id": 574,
+      "name": "Translation Service",
+      "description": "Translate documents between languages you're fluent in.",
+      "revenue_model": "$0.08-0.20 per word",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Language",
+      "tags": ["low budget", "translation", "language", "freelance", "remote"]
+    },
+    {
+      "id": 575,
+      "name": "Online Coaching",
+      "description": "Coach clients in your area of expertise (fitness, business, life). Virtual sessions.",
+      "revenue_model": "$50-200 per session",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Coaching",
+      "tags": ["low budget", "coaching", "consulting", "online", "expertise"]
+    },
+    {
+      "id": 576,
+      "name": "Amazon FBA Arbitrage",
+      "description": "Buy discounted products and resell on Amazon FBA for profit.",
+      "revenue_model": "30-100% profit margin per item",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "E-commerce",
+      "tags": ["low budget", "Amazon FBA", "arbitrage", "reselling", "online"]
+    },
+    {
+      "id": 577,
+      "name": "Notion Template Creator",
+      "description": "Create and sell Notion templates on Gumroad or Etsy.",
+      "revenue_model": "$5-50 per template",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Digital Products",
+      "tags": ["low budget", "Notion", "templates", "digital products", "passive income"]
+    },
+    {
+      "id": 578,
+      "name": "Stock Photography",
+      "description": "Sell photos on stock photography sites like Shutterstock and Adobe Stock.",
+      "revenue_model": "$0.25-5 per download",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Photography",
+      "tags": ["low budget", "stock photos", "photography", "passive income", "online"]
+    },
+    {
+      "id": 579,
+      "name": "TikTok Consulting",
+      "description": "Help businesses create viral TikTok content and grow following.",
+      "revenue_model": "$500-2000/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Social Media",
+      "tags": ["low budget", "TikTok", "consulting", "social media", "viral"]
+    },
+    {
+      "id": 580,
+      "name": "Ebook Author",
+      "description": "Write and self-publish ebooks on Amazon Kindle Direct Publishing.",
+      "revenue_model": "$2.99-9.99 per book + royalties",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Publishing",
+      "tags": ["low budget", "ebook", "writing", "Kindle", "passive income"]
+    },
+    {
+      "id": 581,
+      "name": "Website Flipping",
+      "description": "Buy undervalued websites, improve them, and sell for profit on Flippa.",
+      "revenue_model": "50-300% ROI per flip",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Digital Assets",
+      "tags": ["low budget", "website flipping", "investing", "online", "profit"]
+    },
+    {
+      "id": 582,
+      "name": "LinkedIn Ghostwriting",
+      "description": "Write LinkedIn posts and articles for executives and professionals.",
+      "revenue_model": "$500-2000/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Writing",
+      "tags": ["low budget", "LinkedIn", "ghostwriting", "content", "B2B"]
+    },
+    {
+      "id": 583,
+      "name": "Canva Template Shop",
+      "description": "Create and sell Canva templates for social media, presentations, and marketing.",
+      "revenue_model": "$5-30 per template",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Digital Products",
+      "tags": ["low budget", "Canva", "templates", "design", "passive income"]
+    },
+    {
+      "id": 584,
+      "name": "Community Management",
+      "description": "Manage online communities for brands on Facebook, Discord, or Slack.",
+      "revenue_model": "$300-1500/month per community",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Social Media",
+      "tags": ["low budget", "community", "management", "social media", "engagement"]
+    },
+    {
+      "id": 585,
+      "name": "Micro SaaS",
+      "description": "Build small software tool solving specific problem. Low-code or no-code options available.",
+      "revenue_model": "$9-49/month per user",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Software",
+      "tags": ["low budget", "SaaS", "software", "subscription", "tech"]
+    },
+    {
+      "id": 586,
+      "name": "Spreadsheet Consultant",
+      "description": "Create custom Excel or Google Sheets solutions for businesses.",
+      "revenue_model": "$50-200 per project",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "spreadsheets", "Excel", "consulting", "automation"]
+    },
+    {
+      "id": 587,
+      "name": "Meditation App Content",
+      "description": "Create guided meditation scripts and sell to meditation apps.",
+      "revenue_model": "$50-200 per script",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Wellness",
+      "tags": ["low budget", "meditation", "content", "wellness", "writing"]
+    },
+    {
+      "id": 588,
+      "name": "Niche Job Board",
+      "description": "Create job board for specific industry. Charge employers to post listings.",
+      "revenue_model": "$50-300 per job posting",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Platform",
+      "tags": ["low budget", "job board", "niche", "recruiting", "platform"]
+    },
+    {
+      "id": 589,
+      "name": "Chrome Extension",
+      "description": "Build useful Chrome extension and monetize through premium features or ads.",
+      "revenue_model": "$2.99-9.99/month premium or ad revenue",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Software",
+      "tags": ["low budget", "Chrome extension", "software", "productivity", "tool"]
+    },
+    {
+      "id": 590,
+      "name": "Instagram Preset Shop",
+      "description": "Create and sell Instagram photo editing presets.",
+      "revenue_model": "$5-20 per preset pack",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Digital Products",
+      "tags": ["low budget", "Instagram", "presets", "photography", "filters"]
+    },
+    {
+      "id": 591,
+      "name": "Curated Newsletter",
+      "description": "Curate best content in niche and send weekly newsletter. Monetize with sponsorships.",
+      "revenue_model": "Sponsorships ($100-2000/month)",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Content",
+      "tags": ["low budget", "newsletter", "curation", "content", "sponsorships"]
+    },
+    {
+      "id": 592,
+      "name": "Notion Consulting",
+      "description": "Help businesses set up Notion workspaces and workflows.",
+      "revenue_model": "$75-200 per hour",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Notion", "consulting", "productivity", "setup"]
+    },
+    {
+      "id": 593,
+      "name": "Reddit Community Mod",
+      "description": "Moderate subreddits for brands and get paid for community management.",
+      "revenue_model": "$200-800/month per subreddit",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Community",
+      "tags": ["low budget", "Reddit", "moderation", "community", "management"]
+    },
+    {
+      "id": 594,
+      "name": "Airtable Consultant",
+      "description": "Build custom Airtable databases and automations for businesses.",
+      "revenue_model": "$60-150 per hour",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Airtable", "consulting", "database", "automation"]
+    },
+    {
+      "id": 595,
+      "name": "Substack Writer",
+      "description": "Write paid newsletter on Substack about your expertise or passion.",
+      "revenue_model": "$5-10/month per subscriber",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Content",
+      "tags": ["low budget", "Substack", "newsletter", "writing", "subscription"]
+    },
+    {
+      "id": 596,
+      "name": "Zapier Consultant",
+      "description": "Set up automation workflows for businesses using Zapier or Make.",
+      "revenue_model": "$50-150 per automation",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Zapier", "automation", "consulting", "workflows"]
+    },
+    {
+      "id": 597,
+      "name": "Podcast Show Notes Writer",
+      "description": "Write detailed show notes and transcripts for podcasters.",
+      "revenue_model": "$25-75 per episode",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Writing",
+      "tags": ["low budget", "podcast", "show notes", "writing", "transcription"]
+    },
+    {
+      "id": 598,
+      "name": "Webflow Template Creator",
+      "description": "Design and sell Webflow website templates.",
+      "revenue_model": "$29-199 per template",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Web Design",
+      "tags": ["low budget", "Webflow", "templates", "web design", "no-code"]
+    },
+    {
+      "id": 599,
+      "name": "Twitter Ghostwriter",
+      "description": "Write tweets and threads for executives and thought leaders.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Writing",
+      "tags": ["low budget", "Twitter", "ghostwriting", "content", "social media"]
+    },
+    {
+      "id": 600,
+      "name": "Gumroad Creator",
+      "description": "Sell digital products (ebooks, templates, courses) on Gumroad.",
+      "revenue_model": "Keep 90% of sales (10% Gumroad fee)",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Digital Products",
+      "tags": ["low budget", "Gumroad", "digital products", "passive income", "creator"]
+    },
+    {
+      "id": 601,
+      "name": "Calendly Consultant",
+      "description": "Set up and optimize Calendly scheduling for businesses and professionals.",
+      "revenue_model": "$50-150 per setup",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Calendly", "scheduling", "consulting", "productivity"]
+    },
+    {
+      "id": 602,
+      "name": "Loom Video Creator",
+      "description": "Create tutorial and explainer videos for businesses using Loom.",
+      "revenue_model": "$30-100 per video",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Video",
+      "tags": ["low budget", "Loom", "video", "tutorials", "content"]
+    },
+    {
+      "id": 603,
+      "name": "Miro Board Designer",
+      "description": "Design custom Miro boards and templates for teams and workshops.",
+      "revenue_model": "$50-200 per board",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Design",
+      "tags": ["low budget", "Miro", "templates", "collaboration", "design"]
+    },
+    {
+      "id": 604,
+      "name": "Typeform Builder",
+      "description": "Create custom Typeform surveys and forms for businesses.",
+      "revenue_model": "$40-120 per form",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Typeform", "forms", "surveys", "design"]
+    },
+    {
+      "id": 605,
+      "name": "Carrd Website Builder",
+      "description": "Build simple one-page websites for clients using Carrd.",
+      "revenue_model": "$100-500 per site",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Web Design",
+      "tags": ["low budget", "Carrd", "websites", "no-code", "design"]
+    },
+    {
+      "id": 606,
+      "name": "Beehiiv Newsletter Setup",
+      "description": "Set up and design newsletters for creators on Beehiiv platform.",
+      "revenue_model": "$150-400 per setup",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Beehiiv", "newsletter", "setup", "email"]
+    },
+    {
+      "id": 607,
+      "name": "ConvertKit Email Designer",
+      "description": "Design email sequences and automations in ConvertKit for creators.",
+      "revenue_model": "$200-600 per sequence",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Email Marketing",
+      "tags": ["low budget", "ConvertKit", "email", "automation", "design"]
+    },
+    {
+      "id": 608,
+      "name": "Kajabi Course Setup",
+      "description": "Help course creators set up their courses on Kajabi platform.",
+      "revenue_model": "$300-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Consulting",
+      "tags": ["low budget", "Kajabi", "courses", "setup", "education"]
+    },
+    {
+      "id": 609,
+      "name": "Circle Community Setup",
+      "description": "Set up and customize Circle communities for creators and brands.",
+      "revenue_model": "$250-800 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Community",
+      "tags": ["low budget", "Circle", "community", "setup", "platform"]
+    },
+    {
+      "id": 610,
+      "name": "Memberstack Integration",
+      "description": "Add membership functionality to Webflow sites using Memberstack.",
+      "revenue_model": "$200-600 per integration",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Web Development",
+      "tags": ["low budget", "Memberstack", "membership", "Webflow", "integration"]
+    },
+    {
+      "id": 611,
+      "name": "Framer Website Builder",
+      "description": "Build interactive websites for clients using Framer.",
+      "revenue_model": "$500-2000 per site",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Web Design",
+      "tags": ["low budget", "Framer", "websites", "no-code", "interactive"]
+    },
+    {
+      "id": 612,
+      "name": "Bubble App Developer",
+      "description": "Build no-code web apps for clients using Bubble.io.",
+      "revenue_model": "$1000-5000 per app",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "App Development",
+      "tags": ["low budget", "Bubble", "no-code", "web apps", "development"]
+    },
+    {
+      "id": 613,
+      "name": "Adalo App Builder",
+      "description": "Create mobile apps for clients using Adalo no-code platform.",
+      "revenue_model": "$800-3000 per app",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "App Development",
+      "tags": ["low budget", "Adalo", "mobile apps", "no-code", "development"]
+    },
+    {
+      "id": 614,
+      "name": "Glide App Creator",
+      "description": "Build apps from Google Sheets using Glide for small businesses.",
+      "revenue_model": "$300-1000 per app",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "App Development",
+      "tags": ["low budget", "Glide", "apps", "no-code", "Google Sheets"]
+    },
+    {
+      "id": 615,
+      "name": "Softr Website Builder",
+      "description": "Build websites and portals from Airtable using Softr.",
+      "revenue_model": "$400-1500 per site",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Web Development",
+      "tags": ["low budget", "Softr", "websites", "Airtable", "no-code"]
+    },
+    {
+      "id": 616,
+      "name": "Tally Form Designer",
+      "description": "Create beautiful forms and surveys using Tally for businesses.",
+      "revenue_model": "$30-100 per form",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Design",
+      "tags": ["low budget", "Tally", "forms", "surveys", "no-code"]
+    },
+    {
+      "id": 617,
+      "name": "Super.so Notion Sites",
+      "description": "Convert Notion pages into websites using Super.so for clients.",
+      "revenue_model": "$150-500 per site",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Web Design",
+      "tags": ["low budget", "Super", "Notion", "websites", "no-code"]
+    },
+    {
+      "id": 618,
+      "name": "Podia Course Platform Setup",
+      "description": "Set up online courses and memberships on Podia for creators.",
+      "revenue_model": "$250-800 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Education",
+      "tags": ["low budget", "Podia", "courses", "membership", "setup"]
+    },
+    {
+      "id": 619,
+      "name": "Thinkific Course Designer",
+      "description": "Design and set up courses on Thinkific platform for educators.",
+      "revenue_model": "$300-1000 per course",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Education",
+      "tags": ["low budget", "Thinkific", "courses", "design", "e-learning"]
+    },
+    {
+      "id": 620,
+      "name": "Teachable Course Setup",
+      "description": "Help course creators launch on Teachable with full setup and design.",
+      "revenue_model": "$300-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Education",
+      "tags": ["low budget", "Teachable", "courses", "setup", "online learning"]
+    },
+    {
+      "id": 621,
+      "name": "Systeme.io Funnel Builder",
+      "description": "Build sales funnels and email sequences using Systeme.io.",
+      "revenue_model": "$200-800 per funnel",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "Systeme.io", "funnels", "email", "marketing"]
+    },
+    {
+      "id": 622,
+      "name": "ClickFunnels Designer",
+      "description": "Design high-converting sales funnels on ClickFunnels for businesses.",
+      "revenue_model": "$500-2000 per funnel",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "ClickFunnels", "sales funnels", "design", "conversion"]
+    },
+    {
+      "id": 623,
+      "name": "Leadpages Landing Page Designer",
+      "description": "Create landing pages for lead generation using Leadpages.",
+      "revenue_model": "$150-500 per page",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "Leadpages", "landing pages", "lead gen", "design"]
+    },
+    {
+      "id": 624,
+      "name": "Unbounce Page Builder",
+      "description": "Build and optimize landing pages on Unbounce for conversions.",
+      "revenue_model": "$200-700 per page",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "Unbounce", "landing pages", "optimization", "conversion"]
+    },
+    {
+      "id": 625,
+      "name": "Instapage Designer",
+      "description": "Design personalized landing pages using Instapage platform.",
+      "revenue_model": "$250-800 per page",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "Instapage", "landing pages", "personalization", "design"]
+    },
+    {
+      "id": 626,
+      "name": "Mailchimp Campaign Manager",
+      "description": "Set up and manage email campaigns in Mailchimp for small businesses.",
+      "revenue_model": "$200-600/month per client",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Email Marketing",
+      "tags": ["low budget", "Mailchimp", "email", "campaigns", "management"]
+    },
+    {
+      "id": 627,
+      "name": "ActiveCampaign Automation",
+      "description": "Build complex email automations in ActiveCampaign for businesses.",
+      "revenue_model": "$300-1000 per automation",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Email Marketing",
+      "tags": ["low budget", "ActiveCampaign", "automation", "email", "marketing"]
+    },
+    {
+      "id": 628,
+      "name": "HubSpot Setup Specialist",
+      "description": "Set up HubSpot CRM and marketing automation for small businesses.",
+      "revenue_model": "$500-2000 per setup",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "CRM",
+      "tags": ["low budget", "HubSpot", "CRM", "setup", "automation"]
+    },
+    {
+      "id": 629,
+      "name": "Pipedrive CRM Consultant",
+      "description": "Configure Pipedrive CRM and sales pipelines for sales teams.",
+      "revenue_model": "$300-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "CRM",
+      "tags": ["low budget", "Pipedrive", "CRM", "sales", "consulting"]
+    },
+    {
+      "id": 630,
+      "name": "Monday.com Workflow Designer",
+      "description": "Design custom workflows and automations on Monday.com for teams.",
+      "revenue_model": "$200-800 per workflow",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Project Management",
+      "tags": ["low budget", "Monday.com", "workflows", "automation", "productivity"]
+    },
+    {
+      "id": 631,
+      "name": "Asana Consultant",
+      "description": "Set up project management systems in Asana for businesses.",
+      "revenue_model": "$150-600 per setup",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Project Management",
+      "tags": ["low budget", "Asana", "project management", "consulting", "setup"]
+    },
+    {
+      "id": 632,
+      "name": "ClickUp Workspace Designer",
+      "description": "Design and configure ClickUp workspaces for teams and businesses.",
+      "revenue_model": "$200-800 per workspace",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Project Management",
+      "tags": ["low budget", "ClickUp", "workspace", "design", "productivity"]
+    },
+    {
+      "id": 633,
+      "name": "Slack Workspace Setup",
+      "description": "Set up and organize Slack workspaces with channels, bots, and integrations.",
+      "revenue_model": "$150-500 per setup",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Communication",
+      "tags": ["low budget", "Slack", "workspace", "setup", "communication"]
+    },
+    {
+      "id": 634,
+      "name": "Discord Server Designer",
+      "description": "Design and set up Discord servers for communities and businesses.",
+      "revenue_model": "$100-400 per server",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Community",
+      "tags": ["low budget", "Discord", "server", "design", "community"]
+    },
+    {
+      "id": 635,
+      "name": "Telegram Bot Creator",
+      "description": "Create custom Telegram bots for businesses and communities.",
+      "revenue_model": "$200-1000 per bot",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Automation",
+      "tags": ["low budget", "Telegram", "bot", "automation", "development"]
+    },
+    {
+      "id": 636,
+      "name": "WhatsApp Business Setup",
+      "description": "Set up WhatsApp Business API and chatbots for customer service.",
+      "revenue_model": "$300-1200 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Customer Service",
+      "tags": ["low budget", "WhatsApp", "business", "chatbot", "setup"]
+    },
+    {
+      "id": 637,
+      "name": "Intercom Setup Specialist",
+      "description": "Configure Intercom for customer support and marketing automation.",
+      "revenue_model": "$400-1500 per setup",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Customer Service",
+      "tags": ["low budget", "Intercom", "customer support", "setup", "automation"]
+    },
+    {
+      "id": 638,
+      "name": "Zendesk Configuration",
+      "description": "Set up and customize Zendesk for customer support teams.",
+      "revenue_model": "$500-1800 per setup",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Customer Service",
+      "tags": ["low budget", "Zendesk", "support", "configuration", "helpdesk"]
+    },
+    {
+      "id": 639,
+      "name": "Freshdesk Setup",
+      "description": "Configure Freshdesk helpdesk and ticketing system for businesses.",
+      "revenue_model": "$300-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Customer Service",
+      "tags": ["low budget", "Freshdesk", "helpdesk", "setup", "support"]
+    },
+    {
+      "id": 640,
+      "name": "Crisp Chat Integration",
+      "description": "Integrate and customize Crisp live chat for websites.",
+      "revenue_model": "$150-500 per integration",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Customer Service",
+      "tags": ["low budget", "Crisp", "live chat", "integration", "website"]
+    },
+    {
+      "id": 641,
+      "name": "Tidio Chatbot Builder",
+      "description": "Build chatbots using Tidio for e-commerce and service businesses.",
+      "revenue_model": "$200-700 per chatbot",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Automation",
+      "tags": ["low budget", "Tidio", "chatbot", "e-commerce", "automation"]
+    },
+    {
+      "id": 642,
+      "name": "ManyChat Flow Designer",
+      "description": "Design Facebook Messenger and Instagram chatbot flows using ManyChat.",
+      "revenue_model": "$250-900 per flow",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing Automation",
+      "tags": ["low budget", "ManyChat", "chatbot", "Messenger", "Instagram"]
+    },
+    {
+      "id": 643,
+      "name": "MobileMonkey Bot Builder",
+      "description": "Create multi-platform chatbots with MobileMonkey for lead generation.",
+      "revenue_model": "$300-1000 per bot",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing Automation",
+      "tags": ["low budget", "MobileMonkey", "chatbot", "lead gen", "automation"]
+    },
+    {
+      "id": 644,
+      "name": "Chatfuel Bot Creator",
+      "description": "Build Messenger bots using Chatfuel for businesses and creators.",
+      "revenue_model": "$200-800 per bot",
+      "difficulty": "Easy",
+      "sector": "Low Budget Startup",
+      "category": "Marketing Automation",
+      "tags": ["low budget", "Chatfuel", "Messenger", "bot", "no-code"]
+    },
+    {
+      "id": 645,
+      "name": "Landbot Conversational Designer",
+      "description": "Design conversational landing pages and chatbots with Landbot.",
+      "revenue_model": "$300-1000 per project",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Marketing",
+      "tags": ["low budget", "Landbot", "chatbot", "conversational", "landing page"]
+    },
+    {
+      "id": 646,
+      "name": "Drift Conversational Marketing",
+      "description": "Set up Drift for conversational marketing and sales automation.",
+      "revenue_model": "$500-1800 per setup",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "Marketing Automation",
+      "tags": ["low budget", "Drift", "conversational", "marketing", "sales"]
+    },
+    {
+      "id": 647,
+      "name": "Qualified Pipeline Setup",
+      "description": "Configure Qualified for B2B pipeline generation and chatbots.",
+      "revenue_model": "$600-2000 per setup",
+      "difficulty": "Hard",
+      "sector": "Low Budget Startup",
+      "category": "B2B Sales",
+      "tags": ["low budget", "Qualified", "B2B", "pipeline", "chatbot"]
+    },
+    {
+      "id": 648,
+      "name": "Calendly Routing Setup",
+      "description": "Set up advanced routing and team scheduling in Calendly.",
+      "revenue_model": "$100-400 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Scheduling",
+      "tags": ["low budget", "Calendly", "routing", "scheduling", "teams"]
+    },
+    {
+      "id": 649,
+      "name": "Acuity Scheduling Designer",
+      "description": "Design and configure Acuity Scheduling for service businesses.",
+      "revenue_model": "$150-500 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Scheduling",
+      "tags": ["low budget", "Acuity", "scheduling", "appointments", "service"]
+    },
+    {
+      "id": 650,
+      "name": "SimplyBook.me Setup",
+      "description": "Configure SimplyBook.me booking system for appointments and classes.",
+      "revenue_model": "$150-500 per setup",
+      "difficulty": "Medium",
+      "sector": "Low Budget Startup",
+      "category": "Scheduling",
+      "tags": ["low budget", "SimplyBook", "booking", "appointments", "setup"]
+    }
+  ]
+}
