@@ -1,0 +1,108 @@
+{
+  "batch": 1,
+  "ideas_range": "1-300",
+  "total_ideas": 300,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 1,
+      "name": "VoiceFlow CRM",
+      "description": "AI-powered CRM that operates entirely through voice commands for field workers, sales reps, and drivers. Updates deals, logs calls, and retrieves customer data hands-free while driving or working.",
+      "revenue_model": "Monthly subscription ($29-99/user) + premium voice AI features",
+      "difficulty": "Medium",
+      "sector": "AI",
+      "category": "CRM & Sales",
+      "tags": ["AI", "voice", "CRM", "sales", "automation", "hands-free"]
+    },
+    {
+      "id": 2,
+      "name": "LegalDoc AI",
+      "description": "Vertical AI for law firms that automatically analyzes contracts, extracts key clauses, identifies risks, and generates summaries. Trained on legal precedents and case law.",
+      "revenue_model": "Per-document pricing ($5-50/doc) + enterprise subscriptions",
+      "difficulty": "Hard",
+      "sector": "AI",
+      "category": "Legal Tech",
+      "tags": ["AI", "legal", "contracts", "document analysis", "law firms"]
+    },
+    {
+      "id": 3,
+      "name": "DataMoat Marketplace",
+      "description": "Platform where companies sell clean, versioned datasets via API for AI training. Includes industry benchmarks, consumer behavior data, and niche market signals.",
+      "revenue_model": "20% commission on data sales + API usage fees",
+      "difficulty": "Medium",
+      "sector": "AI",
+      "category": "Data Marketplace",
+      "tags": ["AI", "data", "marketplace", "API", "datasets", "machine learning"]
+    },
+    {
+      "id": 4,
+      "name": "AI Budget Tracker",
+      "description": "Monitors all AI tool spending across organization, tracks token usage, identifies waste, and suggests cheaper alternatives. Unified dashboard for ChatGPT, Claude, Midjourney, etc.",
+      "revenue_model": "$99-499/month based on company size + cost savings percentage",
+      "difficulty": "Medium",
+      "sector": "SaaS",
+      "category": "Finance & Analytics",
+      "tags": ["AI", "budget", "tracking", "cost optimization", "SaaS management"]
+    },
+    {
+      "id": 5,
+      "name": "SportsVision Coach",
+      "description": "AI video analysis for amateur athletes. Upload practice videos, get real-time technique feedback for basketball shots, golf swings, tennis serves with biomechanics overlay.",
+      "revenue_model": "$19.99/month subscription + $4.99 per detailed analysis",
+      "difficulty": "Hard",
+      "sector": "AI",
+      "category": "Sports & Fitness",
+      "tags": ["AI", "sports", "video analysis", "coaching", "biomechanics"]
+    },
+    {
+      "id": 6,
+      "name": "HealthScore AI",
+      "description": "Predictive patient risk scoring for hospitals. Analyzes vitals, history, and symptoms to flag high-risk patients before emergencies occur.",
+      "revenue_model": "Per-patient-per-month fee ($2-5) to hospitals",
+      "difficulty": "Hard",
+      "sector": "AI",
+      "category": "Healthcare",
+      "tags": ["AI", "healthcare", "predictive analytics", "patient care", "hospitals"]
+    },
+    {
+      "id": 7,
+      "name": "LogisticsRoute AI",
+      "description": "Real-time delivery route optimization using traffic, weather, and package priority. Reduces fuel costs by 20-30% for delivery companies.",
+      "revenue_model": "Per-vehicle monthly fee ($49-149) + fuel savings share",
+      "difficulty": "Medium",
+      "sector": "AI",
+      "category": "Logistics",
+      "tags": ["AI", "logistics", "route optimization", "delivery", "fleet management"]
+    },
+    {
+      "id": 8,
+      "name": "AI Meeting Scheduler",
+      "description": "Autonomous scheduling agent that negotiates meeting times via email/Slack, handles rescheduling, sends reminders, and manages calendar conflicts across teams.",
+      "revenue_model": "$15/user/month + enterprise plans",
+      "difficulty": "Easy",
+      "sector": "AI",
+      "category": "Productivity",
+      "tags": ["AI", "scheduling", "calendar", "automation", "productivity"]
+    },
+    {
+      "id": 9,
+      "name": "CodeReview Bot",
+      "description": "AI that reviews pull requests, suggests improvements, catches security vulnerabilities, and enforces coding standards before human review.",
+      "revenue_model": "$99-999/month based on team size + per-repo pricing",
+      "difficulty": "Medium",
+      "sector": "AI",
+      "category": "Developer Tools",
+      "tags": ["AI", "code review", "development", "security", "automation"]
+    },
+    {
+      "id": 10,
+      "name": "CustomerChurn Predictor",
+      "description": "SaaS that analyzes user behavior to predict which customers will cancel. Triggers automated retention campaigns before they leave.",
+      "revenue_model": "$299-1999/month + percentage of saved revenue",
+      "difficulty": "Medium",
+      "sector": "AI",
+      "category": "Customer Success",
+      "tags": ["AI", "churn prediction", "retention", "analytics", "SaaS"]
+    }
+  ]
+}
