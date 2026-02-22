@@ -1,0 +1,1508 @@
+{
+  "batch": "2-part1",
+  "ideas_range": "301-450",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 301,
+      "name": "Idle Crypto Miner",
+      "description": "Idle game where players build virtual crypto mining operations, upgrade hardware, and compete on leaderboards. Educational about blockchain.",
+      "revenue_model": "Free with ads + $4.99 premium + in-app purchases",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "idle game", "crypto", "mobile", "educational"]
+    },
+    {
+      "id": 302,
+      "name": "AR Treasure Hunt",
+      "description": "Location-based AR game where players hunt for virtual treasures in real-world locations. Daily challenges and multiplayer competitions.",
+      "revenue_model": "Free with ads + $9.99/month premium + sponsored locations",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "AR Mobile Game",
+      "tags": ["gaming", "AR", "location-based", "mobile", "multiplayer"]
+    },
+    {
+      "id": 303,
+      "name": "Typing Speed Racer",
+      "description": "Competitive typing game where speed and accuracy determine race position. Multiplayer tournaments and skill progression.",
+      "revenue_model": "Free with ads + $6.99/month ad-free + tournaments",
+      "difficulty": "Easy",
+      "sector": "Gaming",
+      "category": "Web Game",
+      "tags": ["gaming", "typing", "competitive", "skill-building", "web"]
+    },
+    {
+      "id": 304,
+      "name": "Pet Breeding Simulator",
+      "description": "Breed virtual pets with genetic traits, compete in shows, and trade rare breeds with other players.",
+      "revenue_model": "Free with ads + $2.99-19.99 in-app purchases",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "pets", "simulation", "breeding", "mobile"]
+    },
+    {
+      "id": 305,
+      "name": "Escape Room Builder",
+      "description": "Create and share custom escape room puzzles. Play community-created rooms and rate them.",
+      "revenue_model": "$9.99 one-time + premium puzzle packs ($2.99 each)",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "PC/Mobile Game",
+      "tags": ["gaming", "puzzle", "escape room", "user-generated", "creative"]
+    },
+    {
+      "id": 306,
+      "name": "Meditation RPG",
+      "description": "RPG where real-world meditation sessions power character progression. Gamifies mindfulness practice.",
+      "revenue_model": "$4.99/month subscription + cosmetic purchases",
+      "difficulty": "Easy",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "meditation", "wellness", "RPG", "gamification"]
+    },
+    {
+      "id": 307,
+      "name": "Cooking Dash VR",
+      "description": "Fast-paced VR cooking game where players manage restaurant orders in immersive kitchen environments.",
+      "revenue_model": "$19.99 one-time + DLC kitchen packs ($4.99 each)",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "VR Game",
+      "tags": ["gaming", "VR", "cooking", "simulation", "time management"]
+    },
+    {
+      "id": 308,
+      "name": "Word Battle Royale",
+      "description": "100 players compete in word-building challenges. Last player standing wins. Quick 5-minute rounds.",
+      "revenue_model": "Free with ads + $7.99/month premium + cosmetics",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "battle royale", "word game", "competitive", "mobile"]
+    },
+    {
+      "id": 309,
+      "name": "Habit Quest",
+      "description": "Turn real-life habits into RPG quests. Complete daily tasks to level up character and unlock rewards.",
+      "revenue_model": "Free basic + $8.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "habits", "productivity", "RPG", "gamification"]
+    },
+    {
+      "id": 310,
+      "name": "AI Dungeon Master",
+      "description": "AI-powered D&D-style game that generates infinite storylines based on player choices. Solo or multiplayer.",
+      "revenue_model": "$12.99/month subscription + custom campaign creation",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "AI Game",
+      "tags": ["gaming", "AI", "RPG", "storytelling", "D&D"]
+    },
+    {
+      "id": 311,
+      "name": "Fitness Fighter",
+      "description": "Fighting game controlled by real exercises. Punches, kicks, and blocks mapped to workout movements.",
+      "revenue_model": "$14.99/month subscription + character packs",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "Fitness Game",
+      "tags": ["gaming", "fitness", "exercise", "motion control", "health"]
+    },
+    {
+      "id": 312,
+      "name": "City Builder Tycoon",
+      "description": "Mobile city-building game with realistic economics, traffic simulation, and environmental challenges.",
+      "revenue_model": "Free with ads + $3.99-29.99 in-app purchases",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "city builder", "simulation", "strategy", "mobile"]
+    },
+    {
+      "id": 313,
+      "name": "Math Dungeon Crawler",
+      "description": "Dungeon crawler where solving math problems powers attacks. Educational game for kids and adults.",
+      "revenue_model": "$6.99 one-time + expansion packs ($2.99 each)",
+      "difficulty": "Easy",
+      "sector": "Gaming",
+      "category": "Educational Game",
+      "tags": ["gaming", "education", "math", "dungeon crawler", "learning"]
+    },
+    {
+      "id": 314,
+      "name": "Social Deduction VR",
+      "description": "VR social deduction game like Among Us but with immersive environments and voice chat.",
+      "revenue_model": "$14.99 one-time + cosmetic DLC",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "VR Game",
+      "tags": ["gaming", "VR", "social", "multiplayer", "deduction"]
+    },
+    {
+      "id": 315,
+      "name": "Rhythm Coding Game",
+      "description": "Learn programming through rhythm game mechanics. Code to the beat to solve challenges.",
+      "revenue_model": "$9.99 one-time + language packs ($4.99 each)",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Educational Game",
+      "tags": ["gaming", "coding", "education", "rhythm", "programming"]
+    },
+    {
+      "id": 316,
+      "name": "Gardening Simulator Pro",
+      "description": "Realistic gardening simulation with real plant growth cycles, seasons, and pest management.",
+      "revenue_model": "$12.99 one-time + plant packs ($3.99 each)",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Simulation Game",
+      "tags": ["gaming", "gardening", "simulation", "relaxing", "educational"]
+    },
+    {
+      "id": 317,
+      "name": "Trivia Showdown Live",
+      "description": "Live trivia game shows with real cash prizes. Multiple shows daily across different topics.",
+      "revenue_model": "Free to play + sponsored questions + premium entry ($0.99-4.99)",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Mobile Game",
+      "tags": ["gaming", "trivia", "live", "cash prizes", "competitive"]
+    },
+    {
+      "id": 318,
+      "name": "Pixel Art Creator Game",
+      "description": "Relaxing pixel art creation game with daily challenges, color palettes, and community gallery.",
+      "revenue_model": "Free with ads + $5.99/month premium + art exports",
+      "difficulty": "Easy",
+      "sector": "Gaming",
+      "category": "Creative Game",
+      "tags": ["gaming", "pixel art", "creative", "relaxing", "art"]
+    },
+    {
+      "id": 319,
+      "name": "Space Trading Empire",
+      "description": "Multiplayer space trading game with economy simulation, faction wars, and exploration.",
+      "revenue_model": "$9.99 one-time + cosmetic ships ($2.99-9.99)",
+      "difficulty": "Hard",
+      "sector": "Gaming",
+      "category": "Strategy Game",
+      "tags": ["gaming", "space", "trading", "strategy", "multiplayer"]
+    },
+    {
+      "id": 320,
+      "name": "Language Learning RPG",
+      "description": "Learn new languages through RPG gameplay. Vocabulary and grammar unlock abilities and progress.",
+      "revenue_model": "$11.99/month subscription + language packs",
+      "difficulty": "Medium",
+      "sector": "Gaming",
+      "category": "Educational Game",
+      "tags": ["gaming", "language learning", "education", "RPG", "mobile"]
+    },
+    {
+      "id": 321,
+      "name": "Expense Tracker App",
+      "description": "Simple expense tracking with receipt scanning, category auto-detection, and spending insights. Syncs across devices.",
+      "revenue_model": "Free basic + $4.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Finance",
+      "tags": ["mobile app", "finance", "expense tracking", "budgeting", "productivity"]
+    },
+    {
+      "id": 322,
+      "name": "Plant Care Reminder",
+      "description": "Track all your houseplants with watering schedules, sunlight needs, and care tips. Photo progress tracking.",
+      "revenue_model": "Free with ads + $2.99/month premium + plant identification",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Lifestyle",
+      "tags": ["mobile app", "plants", "gardening", "reminders", "lifestyle"]
+    },
+    {
+      "id": 323,
+      "name": "Workout Timer Pro",
+      "description": "Customizable interval timer for HIIT, Tabata, and circuit training. Voice announcements and music integration.",
+      "revenue_model": "$3.99 one-time + workout library ($1.99/month)",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Fitness",
+      "tags": ["mobile app", "fitness", "timer", "HIIT", "workout"]
+    },
+    {
+      "id": 324,
+      "name": "Local Events Finder",
+      "description": "Discover local events, concerts, meetups, and activities based on interests and location. Ticket integration.",
+      "revenue_model": "Free with ads + affiliate ticket commissions + featured events",
+      "difficulty": "Medium",
+      "sector": "Mobile App",
+      "category": "Social",
+      "tags": ["mobile app", "events", "local", "social", "discovery"]
+    },
+    {
+      "id": 325,
+      "name": "Water Intake Tracker",
+      "description": "Track daily water consumption with smart reminders based on activity, weather, and health goals.",
+      "revenue_model": "Free with ads + $1.99/month premium themes",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Health",
+      "tags": ["mobile app", "health", "hydration", "wellness", "tracking"]
+    },
+    {
+      "id": 326,
+      "name": "Recipe Scaler",
+      "description": "Instantly scale recipe ingredients for any serving size. Save favorite recipes and create shopping lists.",
+      "revenue_model": "Free with ads + $2.99 one-time premium",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Food",
+      "tags": ["mobile app", "cooking", "recipes", "food", "utility"]
+    },
+    {
+      "id": 327,
+      "name": "Parking Spot Saver",
+      "description": "Save parking locations with photos, notes, and timer alerts. Never forget where you parked again.",
+      "revenue_model": "Free with ads + $0.99 one-time ad removal",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Utility",
+      "tags": ["mobile app", "parking", "location", "utility", "navigation"]
+    },
+    {
+      "id": 328,
+      "name": "Mood Journal Plus",
+      "description": "Track daily moods with journaling, pattern recognition, and mental health insights. Export for therapists.",
+      "revenue_model": "Free basic + $6.99/month premium analytics",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Mental Health",
+      "tags": ["mobile app", "mental health", "journaling", "mood tracking", "wellness"]
+    },
+    {
+      "id": 329,
+      "name": "Barcode Price Checker",
+      "description": "Scan product barcodes to compare prices across online retailers. Price drop alerts and deal notifications.",
+      "revenue_model": "Free with affiliate commissions + $3.99/month ad-free",
+      "difficulty": "Medium",
+      "sector": "Mobile App",
+      "category": "Shopping",
+      "tags": ["mobile app", "shopping", "price comparison", "barcode", "deals"]
+    },
+    {
+      "id": 330,
+      "name": "Study Timer Pomodoro",
+      "description": "Pomodoro technique timer with study session tracking, break reminders, and productivity statistics.",
+      "revenue_model": "Free with ads + $2.99 one-time premium",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Productivity",
+      "tags": ["mobile app", "productivity", "pomodoro", "studying", "time management"]
+    },
+    {
+      "id": 331,
+      "name": "Pet Adoption Finder",
+      "description": "Browse adoptable pets from local shelters with filters for breed, age, size. Direct shelter contact.",
+      "revenue_model": "Free with shelter partnerships + donation options",
+      "difficulty": "Medium",
+      "sector": "Mobile App",
+      "category": "Pets",
+      "tags": ["mobile app", "pets", "adoption", "animals", "social good"]
+    },
+    {
+      "id": 332,
+      "name": "Closet Organizer App",
+      "description": "Catalog your wardrobe with photos, create outfits, track what you wear, and plan packing lists.",
+      "revenue_model": "Free basic + $4.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Fashion",
+      "tags": ["mobile app", "fashion", "wardrobe", "organization", "lifestyle"]
+    },
+    {
+      "id": 333,
+      "name": "Noise Meter App",
+      "description": "Measure ambient noise levels with decibel readings. Track noise exposure and hearing health.",
+      "revenue_model": "Free with ads + $1.99 one-time calibration upgrade",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Utility",
+      "tags": ["mobile app", "noise", "health", "measurement", "utility"]
+    },
+    {
+      "id": 334,
+      "name": "Grocery List Sharer",
+      "description": "Shared grocery lists for families with real-time sync, recipe integration, and store aisle organization.",
+      "revenue_model": "Free basic + $2.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Productivity",
+      "tags": ["mobile app", "grocery", "shopping", "family", "collaboration"]
+    },
+    {
+      "id": 335,
+      "name": "Sunrise Alarm Clock",
+      "description": "Gradual light and sound alarm that simulates sunrise. Sleep cycle tracking and smart wake times.",
+      "revenue_model": "$4.99 one-time + sound packs ($0.99 each)",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Health",
+      "tags": ["mobile app", "alarm", "sleep", "wellness", "health"]
+    },
+    {
+      "id": 336,
+      "name": "Book Swap Network",
+      "description": "Local book exchange platform. List books you want to trade and find matches nearby.",
+      "revenue_model": "Free with ads + $3.99/month premium matching",
+      "difficulty": "Medium",
+      "sector": "Mobile App",
+      "category": "Social",
+      "tags": ["mobile app", "books", "trading", "community", "reading"]
+    },
+    {
+      "id": 337,
+      "name": "Tip Calculator Pro",
+      "description": "Smart tip calculator with bill splitting, tax calculation, and custom tip percentages. Group payment tracking.",
+      "revenue_model": "Free with ads + $0.99 one-time ad removal",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Utility",
+      "tags": ["mobile app", "calculator", "dining", "utility", "finance"]
+    },
+    {
+      "id": 338,
+      "name": "Habit Streak Tracker",
+      "description": "Build and maintain habit streaks with visual progress, reminders, and motivational quotes.",
+      "revenue_model": "Free basic + $5.99/month premium analytics",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Productivity",
+      "tags": ["mobile app", "habits", "productivity", "tracking", "motivation"]
+    },
+    {
+      "id": 339,
+      "name": "Allergy Alert App",
+      "description": "Scan food labels for allergens, get restaurant menu warnings, and track allergic reactions.",
+      "revenue_model": "Free basic + $4.99/month premium database",
+      "difficulty": "Medium",
+      "sector": "Mobile App",
+      "category": "Health",
+      "tags": ["mobile app", "health", "allergies", "food safety", "scanning"]
+    },
+    {
+      "id": 340,
+      "name": "White Noise Generator",
+      "description": "High-quality white noise, nature sounds, and ambient audio for sleep, focus, and relaxation.",
+      "revenue_model": "Free with ads + $3.99 one-time premium sounds",
+      "difficulty": "Easy",
+      "sector": "Mobile App",
+      "category": "Wellness",
+      "tags": ["mobile app", "sleep", "focus", "audio", "relaxation"]
+    },
+    {
+      "id": 341,
+      "name": "Freelance Bookkeeping",
+      "description": "Bookkeeping services for small businesses and freelancers. Monthly financial reports and tax prep assistance.",
+      "revenue_model": "$199-999/month based on transaction volume",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Finance",
+      "tags": ["service", "bookkeeping", "accounting", "freelance", "small business"]
+    },
+    {
+      "id": 342,
+      "name": "Virtual Assistant Service",
+      "description": "Remote administrative support for entrepreneurs - email management, scheduling, research, data entry.",
+      "revenue_model": "$25-50/hour + monthly retainer packages",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Business Support",
+      "tags": ["service", "virtual assistant", "remote work", "admin", "support"]
+    },
+    {
+      "id": 343,
+      "name": "Pet Sitting Network",
+      "description": "Connect pet owners with verified pet sitters. Background checks, insurance, and booking platform.",
+      "revenue_model": "20% commission on bookings + sitter verification fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Pet Care",
+      "tags": ["service", "pets", "sitting", "marketplace", "gig economy"]
+    },
+    {
+      "id": 344,
+      "name": "Resume Writing Service",
+      "description": "Professional resume writing with ATS optimization, cover letters, and LinkedIn profile updates.",
+      "revenue_model": "$99-299 per resume + rush delivery fees",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Career",
+      "tags": ["service", "resume", "career", "writing", "job search"]
+    },
+    {
+      "id": 345,
+      "name": "Home Organization Consulting",
+      "description": "In-home organization services for closets, garages, and living spaces. Decluttering and system setup.",
+      "revenue_model": "$75-150/hour + product recommendations (affiliate)",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "organization", "home", "decluttering", "consulting"]
+    },
+    {
+      "id": 346,
+      "name": "Social Media Management",
+      "description": "Manage social media accounts for small businesses - content creation, posting, engagement, analytics.",
+      "revenue_model": "$500-2000/month per client + content creation fees",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "social media", "marketing", "content", "management"]
+    },
+    {
+      "id": 347,
+      "name": "Meal Prep Delivery",
+      "description": "Weekly meal prep service delivering pre-portioned, healthy meals. Custom dietary plans available.",
+      "revenue_model": "$89-199/week based on meal count + delivery fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Food",
+      "tags": ["service", "meal prep", "food", "delivery", "health"]
+    },
+    {
+      "id": 348,
+      "name": "Personal Shopping Service",
+      "description": "Personal shoppers for busy professionals - groceries, gifts, errands. Same-day delivery available.",
+      "revenue_model": "$30-60/hour + percentage of purchases (10-15%)",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Lifestyle",
+      "tags": ["service", "shopping", "personal assistant", "errands", "delivery"]
+    },
+    {
+      "id": 349,
+      "name": "Tutoring Marketplace",
+      "description": "Connect students with qualified tutors for all subjects. Video sessions, scheduling, and payment processing.",
+      "revenue_model": "20% commission on sessions + tutor verification fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Education",
+      "tags": ["service", "tutoring", "education", "marketplace", "learning"]
+    },
+    {
+      "id": 350,
+      "name": "Handyman On-Demand",
+      "description": "App-based handyman services for small repairs, assembly, and installations. Vetted professionals.",
+      "revenue_model": "25% commission on jobs + service fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "handyman", "repairs", "on-demand", "home"]
+    },
+    {
+      "id": 351,
+      "name": "Event Planning Service",
+      "description": "Full-service event planning for weddings, corporate events, and parties. Vendor coordination included.",
+      "revenue_model": "15-20% of event budget + flat planning fee",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Events",
+      "tags": ["service", "event planning", "weddings", "parties", "coordination"]
+    },
+    {
+      "id": 352,
+      "name": "Dog Walking Service",
+      "description": "Professional dog walking with GPS tracking, photo updates, and flexible scheduling. Group or solo walks.",
+      "revenue_model": "$20-40 per walk + monthly packages",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Pet Care",
+      "tags": ["service", "dog walking", "pets", "exercise", "care"]
+    },
+    {
+      "id": 353,
+      "name": "House Cleaning Subscription",
+      "description": "Recurring house cleaning service with eco-friendly products. Weekly, bi-weekly, or monthly plans.",
+      "revenue_model": "$99-299 per cleaning based on home size",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "cleaning", "home", "subscription", "eco-friendly"]
+    },
+    {
+      "id": 354,
+      "name": "Photography Service",
+      "description": "Professional photography for events, portraits, real estate, and products. Editing and prints included.",
+      "revenue_model": "$200-2000 per session + print sales",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "photography", "creative", "events", "portraits"]
+    },
+    {
+      "id": 355,
+      "name": "Lawn Care Service",
+      "description": "Residential lawn mowing, edging, and maintenance. Seasonal packages and one-time services.",
+      "revenue_model": "$40-100 per visit + seasonal contracts",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "lawn care", "landscaping", "home", "maintenance"]
+    },
+    {
+      "id": 356,
+      "name": "Translation Services",
+      "description": "Professional document and website translation in 50+ languages. Certified translations available.",
+      "revenue_model": "$0.10-0.25 per word + rush fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Language",
+      "tags": ["service", "translation", "language", "documents", "localization"]
+    },
+    {
+      "id": 357,
+      "name": "Personal Training Online",
+      "description": "Virtual personal training with custom workout plans, video coaching, and progress tracking.",
+      "revenue_model": "$49-199/month based on coaching level",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Fitness",
+      "tags": ["service", "fitness", "personal training", "online", "coaching"]
+    },
+    {
+      "id": 358,
+      "name": "Car Detailing Mobile",
+      "description": "Mobile car detailing service that comes to customer locations. Interior and exterior packages.",
+      "revenue_model": "$79-299 per detail based on package",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Automotive",
+      "tags": ["service", "car detailing", "mobile", "automotive", "cleaning"]
+    },
+    {
+      "id": 359,
+      "name": "Proofreading Service",
+      "description": "Professional proofreading for academic papers, business documents, and manuscripts. Fast turnaround.",
+      "revenue_model": "$0.02-0.05 per word + rush fees",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Writing",
+      "tags": ["service", "proofreading", "editing", "writing", "academic"]
+    },
+    {
+      "id": 360,
+      "name": "Moving Helper Service",
+      "description": "Labor-only moving help for loading/unloading trucks. Hourly rates, no truck rental required.",
+      "revenue_model": "$40-80/hour per helper + minimum hours",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Moving",
+      "tags": ["service", "moving", "labor", "helpers", "relocation"]
+    },
+    {
+      "id": 361,
+      "name": "Voiceover Artist",
+      "description": "Professional voiceover services for commercials, audiobooks, videos, and phone systems.",
+      "revenue_model": "$100-500 per project based on length",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "voiceover", "audio", "creative", "recording"]
+    },
+    {
+      "id": 362,
+      "name": "Nutrition Coaching",
+      "description": "Personalized nutrition plans and coaching for weight loss, muscle gain, or health conditions.",
+      "revenue_model": "$99-299/month + initial consultation fee",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Health",
+      "tags": ["service", "nutrition", "coaching", "health", "diet"]
+    },
+    {
+      "id": 363,
+      "name": "Junk Removal Service",
+      "description": "Haul away unwanted items, furniture, and debris. Eco-friendly disposal and donation options.",
+      "revenue_model": "$100-500 per load based on volume",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "junk removal", "hauling", "disposal", "home"]
+    },
+    {
+      "id": 364,
+      "name": "Graphic Design Freelance",
+      "description": "Freelance graphic design for logos, branding, marketing materials, and social media graphics.",
+      "revenue_model": "$50-200/hour or project-based pricing",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "graphic design", "creative", "branding", "freelance"]
+    },
+    {
+      "id": 365,
+      "name": "Window Cleaning Service",
+      "description": "Residential and commercial window cleaning. Interior, exterior, and high-rise options.",
+      "revenue_model": "$5-15 per window + travel fees",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "window cleaning", "home", "commercial", "maintenance"]
+    },
+    {
+      "id": 366,
+      "name": "Life Coaching",
+      "description": "Personal development coaching for goal setting, career transitions, and life balance.",
+      "revenue_model": "$100-300 per session + package deals",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Coaching",
+      "tags": ["service", "life coaching", "personal development", "goals", "wellness"]
+    },
+    {
+      "id": 367,
+      "name": "Pressure Washing",
+      "description": "Pressure washing for driveways, decks, siding, and patios. Residential and commercial.",
+      "revenue_model": "$100-400 per job based on area",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "pressure washing", "cleaning", "home", "exterior"]
+    },
+    {
+      "id": 368,
+      "name": "Video Editing Service",
+      "description": "Professional video editing for YouTube, weddings, corporate videos, and social media content.",
+      "revenue_model": "$50-150/hour or per-project pricing",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "video editing", "creative", "post-production", "media"]
+    },
+    {
+      "id": 369,
+      "name": "Carpet Cleaning",
+      "description": "Professional carpet and upholstery cleaning with stain removal and odor treatment.",
+      "revenue_model": "$30-60 per room + specialty treatments",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "carpet cleaning", "home", "upholstery", "maintenance"]
+    },
+    {
+      "id": 370,
+      "name": "SEO Consulting",
+      "description": "SEO strategy and implementation for businesses. Keyword research, on-page optimization, link building.",
+      "revenue_model": "$1000-5000/month retainer + audit fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "SEO", "marketing", "consulting", "digital"]
+    },
+    {
+      "id": 371,
+      "name": "Elderly Care Companion",
+      "description": "Non-medical companionship for elderly - conversation, errands, meal prep, light housekeeping.",
+      "revenue_model": "$20-35/hour + overnight rates",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Care",
+      "tags": ["service", "elderly care", "companion", "senior", "assistance"]
+    },
+    {
+      "id": 372,
+      "name": "Podcast Editing",
+      "description": "Professional podcast editing - noise reduction, music, show notes, and distribution.",
+      "revenue_model": "$50-200 per episode based on length",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "podcast", "audio editing", "creative", "production"]
+    },
+    {
+      "id": 373,
+      "name": "Gutter Cleaning",
+      "description": "Gutter cleaning and minor repairs. Prevents water damage and foundation issues.",
+      "revenue_model": "$100-250 per cleaning based on home size",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "gutter cleaning", "home", "maintenance", "exterior"]
+    },
+    {
+      "id": 374,
+      "name": "Business Consulting",
+      "description": "Small business consulting for strategy, operations, and growth. Industry-specific expertise.",
+      "revenue_model": "$150-400/hour + project retainers",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Business",
+      "tags": ["service", "consulting", "business", "strategy", "growth"]
+    },
+    {
+      "id": 375,
+      "name": "Furniture Assembly",
+      "description": "Professional furniture assembly for IKEA and other flat-pack furniture. Fast and reliable.",
+      "revenue_model": "$50-150 per item based on complexity",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "furniture assembly", "home", "handyman", "IKEA"]
+    },
+    {
+      "id": 376,
+      "name": "Copywriting Service",
+      "description": "Professional copywriting for websites, ads, emails, and sales pages. Conversion-focused.",
+      "revenue_model": "$0.10-0.50 per word or project-based",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Writing",
+      "tags": ["service", "copywriting", "marketing", "writing", "content"]
+    },
+    {
+      "id": 377,
+      "name": "Pool Cleaning Service",
+      "description": "Weekly pool maintenance - cleaning, chemical balancing, equipment checks. Residential and commercial.",
+      "revenue_model": "$80-150 per visit + chemical costs",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "pool cleaning", "maintenance", "home", "outdoor"]
+    },
+    {
+      "id": 378,
+      "name": "Career Coaching",
+      "description": "Career development coaching - resume review, interview prep, salary negotiation, career pivots.",
+      "revenue_model": "$100-250 per session + package deals",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Coaching",
+      "tags": ["service", "career coaching", "professional development", "jobs", "guidance"]
+    },
+    {
+      "id": 379,
+      "name": "Appliance Repair",
+      "description": "Repair service for household appliances - refrigerators, washers, dryers, ovens, dishwashers.",
+      "revenue_model": "$75-150 service call + parts + labor",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "appliance repair", "home", "maintenance", "technical"]
+    },
+    {
+      "id": 380,
+      "name": "Email Marketing Service",
+      "description": "Email marketing management - campaign creation, list management, automation, analytics.",
+      "revenue_model": "$500-2000/month + setup fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "email marketing", "digital marketing", "automation", "campaigns"]
+    },
+    {
+      "id": 381,
+      "name": "Tree Trimming Service",
+      "description": "Professional tree trimming, pruning, and removal. Licensed and insured arborists.",
+      "revenue_model": "$200-1000+ per job based on tree size",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "tree trimming", "landscaping", "arborist", "outdoor"]
+    },
+    {
+      "id": 382,
+      "name": "Web Development Freelance",
+      "description": "Custom website development for small businesses. WordPress, Shopify, or custom solutions.",
+      "revenue_model": "$2000-10000 per project + maintenance",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "web development", "freelance", "websites", "coding"]
+    },
+    {
+      "id": 383,
+      "name": "Painting Service",
+      "description": "Interior and exterior painting for residential and commercial properties. Free estimates.",
+      "revenue_model": "$2-6 per square foot + materials",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "painting", "home improvement", "contractor", "renovation"]
+    },
+    {
+      "id": 384,
+      "name": "Financial Planning",
+      "description": "Personal financial planning - retirement, investments, insurance, estate planning.",
+      "revenue_model": "$150-300/hour or AUM percentage (1-2%)",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Finance",
+      "tags": ["service", "financial planning", "investments", "retirement", "wealth"]
+    },
+    {
+      "id": 385,
+      "name": "Locksmith Service",
+      "description": "24/7 locksmith services - lockouts, rekeying, lock installation, security upgrades.",
+      "revenue_model": "$75-150 service call + parts + labor",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "locksmith", "security", "emergency", "home"]
+    },
+    {
+      "id": 386,
+      "name": "PPC Advertising Management",
+      "description": "Google Ads and Facebook Ads management for businesses. Campaign optimization and reporting.",
+      "revenue_model": "15-20% of ad spend + setup fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "PPC", "advertising", "Google Ads", "Facebook Ads"]
+    },
+    {
+      "id": 387,
+      "name": "HVAC Maintenance",
+      "description": "Heating and cooling system maintenance, repair, and installation. Emergency service available.",
+      "revenue_model": "$100-200 service call + parts + labor",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "HVAC", "heating", "cooling", "maintenance"]
+    },
+    {
+      "id": 388,
+      "name": "Brand Strategy Consulting",
+      "description": "Brand development and strategy for startups and small businesses. Positioning and messaging.",
+      "revenue_model": "$3000-15000 per project",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "branding", "strategy", "consulting", "marketing"]
+    },
+    {
+      "id": 389,
+      "name": "Pest Control Service",
+      "description": "Residential and commercial pest control. Eco-friendly options available. Quarterly plans.",
+      "revenue_model": "$100-300 per treatment + quarterly contracts",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "pest control", "home", "exterminator", "maintenance"]
+    },
+    {
+      "id": 390,
+      "name": "App Development Service",
+      "description": "Custom mobile app development for iOS and Android. From concept to launch.",
+      "revenue_model": "$10000-100000 per app + maintenance",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "app development", "mobile", "iOS", "Android"]
+    },
+    {
+      "id": 391,
+      "name": "Roofing Inspection",
+      "description": "Professional roof inspections with detailed reports. Minor repairs and maintenance included.",
+      "revenue_model": "$200-400 per inspection + repair quotes",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "roofing", "inspection", "home", "maintenance"]
+    },
+    {
+      "id": 392,
+      "name": "Influencer Marketing Agency",
+      "description": "Connect brands with influencers. Campaign management, contracts, and performance tracking.",
+      "revenue_model": "20% commission on campaigns + management fees",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "influencer marketing", "social media", "agency", "campaigns"]
+    },
+    {
+      "id": 393,
+      "name": "Electrical Service",
+      "description": "Licensed electrician services - installations, repairs, upgrades, safety inspections.",
+      "revenue_model": "$80-150 service call + parts + labor",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "electrician", "electrical", "home", "repairs"]
+    },
+    {
+      "id": 394,
+      "name": "Content Writing Service",
+      "description": "Blog posts, articles, and website content for businesses. SEO-optimized writing.",
+      "revenue_model": "$0.08-0.30 per word based on expertise",
+      "difficulty": "Easy",
+      "sector": "Service",
+      "category": "Writing",
+      "tags": ["service", "content writing", "blogging", "SEO", "articles"]
+    },
+    {
+      "id": 395,
+      "name": "Flooring Installation",
+      "description": "Hardwood, laminate, tile, and carpet installation. Free measurements and estimates.",
+      "revenue_model": "$3-12 per square foot + materials",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "flooring", "installation", "home improvement", "contractor"]
+    },
+    {
+      "id": 396,
+      "name": "PR Services",
+      "description": "Public relations for startups and small businesses. Media outreach, press releases, crisis management.",
+      "revenue_model": "$2000-10000/month retainer",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "PR", "public relations", "media", "communications"]
+    },
+    {
+      "id": 397,
+      "name": "Plumbing Service",
+      "description": "Licensed plumber for repairs, installations, and emergency services. 24/7 availability.",
+      "revenue_model": "$100-200 service call + parts + labor",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "plumbing", "repairs", "emergency", "home"]
+    },
+    {
+      "id": 398,
+      "name": "Animation Service",
+      "description": "2D and 3D animation for explainer videos, commercials, and social media content.",
+      "revenue_model": "$1000-10000 per project based on length",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "animation", "video", "creative", "production"]
+    },
+    {
+      "id": 399,
+      "name": "Drywall Repair",
+      "description": "Drywall installation, repair, and finishing. Texture matching and painting available.",
+      "revenue_model": "$100-500 per job based on damage",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "drywall", "repair", "home improvement", "contractor"]
+    },
+    {
+      "id": 400,
+      "name": "Conversion Rate Optimization",
+      "description": "CRO services to improve website conversions. A/B testing, analytics, and UX improvements.",
+      "revenue_model": "$2000-8000/month + performance bonuses",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Marketing",
+      "tags": ["service", "CRO", "optimization", "analytics", "conversion"]
+    },
+    {
+      "id": 401,
+      "name": "Fence Installation",
+      "description": "Residential and commercial fence installation. Wood, vinyl, chain-link, and decorative options.",
+      "revenue_model": "$15-50 per linear foot + materials",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "fencing", "installation", "home", "outdoor"]
+    },
+    {
+      "id": 402,
+      "name": "UX/UI Design Service",
+      "description": "User experience and interface design for apps and websites. Wireframes, prototypes, testing.",
+      "revenue_model": "$75-200/hour or project-based pricing",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Design",
+      "tags": ["service", "UX design", "UI design", "web design", "apps"]
+    },
+    {
+      "id": 403,
+      "name": "Deck Building",
+      "description": "Custom deck design and construction. Composite, wood, and multi-level options.",
+      "revenue_model": "$25-50 per square foot + materials",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "deck building", "construction", "outdoor", "home improvement"]
+    },
+    {
+      "id": 404,
+      "name": "Chatbot Development",
+      "description": "Custom chatbot development for customer service, lead generation, and support automation.",
+      "revenue_model": "$3000-15000 per chatbot + maintenance",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "chatbot", "AI", "automation", "customer service"]
+    },
+    {
+      "id": 405,
+      "name": "Concrete Work",
+      "description": "Concrete driveways, patios, walkways, and foundations. Stamped and decorative options.",
+      "revenue_model": "$6-15 per square foot + materials",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "concrete", "construction", "driveways", "home"]
+    },
+    {
+      "id": 406,
+      "name": "Podcast Production",
+      "description": "Full podcast production - recording, editing, music, distribution, and marketing.",
+      "revenue_model": "$500-3000 per episode or monthly retainer",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "podcast", "production", "audio", "content"]
+    },
+    {
+      "id": 407,
+      "name": "Bathroom Remodeling",
+      "description": "Complete bathroom renovations - design, demolition, installation, and finishing.",
+      "revenue_model": "$5000-25000 per bathroom",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "remodeling", "bathroom", "renovation", "contractor"]
+    },
+    {
+      "id": 408,
+      "name": "Blockchain Consulting",
+      "description": "Blockchain strategy and implementation consulting for businesses. Smart contracts and tokenomics.",
+      "revenue_model": "$200-500/hour + project fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "blockchain", "consulting", "crypto", "web3"]
+    },
+    {
+      "id": 409,
+      "name": "Kitchen Remodeling",
+      "description": "Full kitchen renovations - cabinets, countertops, appliances, flooring, and design.",
+      "revenue_model": "$15000-50000 per kitchen",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "kitchen", "remodeling", "renovation", "home improvement"]
+    },
+    {
+      "id": 410,
+      "name": "Voice Acting Coaching",
+      "description": "Voice acting lessons and coaching for aspiring voice actors. Technique, recording, and auditions.",
+      "revenue_model": "$50-150 per session + group classes",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Education",
+      "tags": ["service", "voice acting", "coaching", "training", "creative"]
+    },
+    {
+      "id": 411,
+      "name": "Basement Finishing",
+      "description": "Transform unfinished basements into living spaces. Framing, drywall, flooring, and electrical.",
+      "revenue_model": "$30-75 per square foot",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "basement", "finishing", "renovation", "home improvement"]
+    },
+    {
+      "id": 412,
+      "name": "Cybersecurity Consulting",
+      "description": "Security audits, penetration testing, and compliance consulting for businesses.",
+      "revenue_model": "$150-400/hour + audit fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "cybersecurity", "consulting", "security", "IT"]
+    },
+    {
+      "id": 413,
+      "name": "Landscaping Design",
+      "description": "Landscape design and installation - plants, hardscaping, irrigation, and outdoor lighting.",
+      "revenue_model": "$2000-20000 per project",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "landscaping", "design", "outdoor", "gardening"]
+    },
+    {
+      "id": 414,
+      "name": "Music Production",
+      "description": "Music production for artists - recording, mixing, mastering, and beat creation.",
+      "revenue_model": "$500-5000 per song + studio time",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "music production", "recording", "audio", "creative"]
+    },
+    {
+      "id": 415,
+      "name": "Home Staging",
+      "description": "Professional home staging for real estate sales. Furniture rental and design consultation.",
+      "revenue_model": "$500-3000 per staging + monthly rental",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Real Estate",
+      "tags": ["service", "home staging", "real estate", "interior design", "sales"]
+    },
+    {
+      "id": 416,
+      "name": "Data Analytics Consulting",
+      "description": "Business intelligence and data analytics consulting. Dashboard creation and insights.",
+      "revenue_model": "$150-350/hour + project fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "data analytics", "consulting", "business intelligence", "insights"]
+    },
+    {
+      "id": 417,
+      "name": "Garage Door Service",
+      "description": "Garage door installation, repair, and maintenance. Opener installation and spring replacement.",
+      "revenue_model": "$100-200 service call + parts + labor",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "garage door", "repair", "installation", "home"]
+    },
+    {
+      "id": 418,
+      "name": "3D Modeling Service",
+      "description": "3D modeling for product visualization, architecture, and game assets.",
+      "revenue_model": "$50-200/hour or project-based pricing",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "3D modeling", "design", "visualization", "creative"]
+    },
+    {
+      "id": 419,
+      "name": "Insulation Installation",
+      "description": "Attic, wall, and crawl space insulation installation. Energy efficiency improvements.",
+      "revenue_model": "$1-3 per square foot + materials",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "insulation", "energy efficiency", "home improvement", "contractor"]
+    },
+    {
+      "id": 420,
+      "name": "Machine Learning Consulting",
+      "description": "ML model development and deployment consulting for businesses. Custom AI solutions.",
+      "revenue_model": "$200-500/hour + project fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "machine learning", "AI", "consulting", "data science"]
+    },
+    {
+      "id": 421,
+      "name": "Siding Installation",
+      "description": "Vinyl, fiber cement, and wood siding installation. Improves curb appeal and protection.",
+      "revenue_model": "$5-15 per square foot + materials",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "siding", "installation", "exterior", "home improvement"]
+    },
+    {
+      "id": 422,
+      "name": "Illustration Service",
+      "description": "Custom illustrations for books, marketing, editorial, and digital products.",
+      "revenue_model": "$100-1000 per illustration based on complexity",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "illustration", "art", "creative", "design"]
+    },
+    {
+      "id": 423,
+      "name": "Waterproofing Service",
+      "description": "Basement and foundation waterproofing. Prevents water damage and mold.",
+      "revenue_model": "$2000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "waterproofing", "basement", "foundation", "home"]
+    },
+    {
+      "id": 424,
+      "name": "Cloud Migration Service",
+      "description": "Help businesses migrate to cloud platforms (AWS, Azure, Google Cloud). Planning and execution.",
+      "revenue_model": "$10000-100000 per migration",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "cloud migration", "AWS", "Azure", "IT"]
+    },
+    {
+      "id": 425,
+      "name": "Sunroom Addition",
+      "description": "Design and build sunroom additions. Three-season and four-season options.",
+      "revenue_model": "$20000-80000 per sunroom",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "sunroom", "addition", "construction", "home improvement"]
+    },
+    {
+      "id": 426,
+      "name": "Motion Graphics",
+      "description": "Motion graphics for videos, presentations, and digital advertising.",
+      "revenue_model": "$75-250/hour or project-based pricing",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "motion graphics", "animation", "video", "design"]
+    },
+    {
+      "id": 427,
+      "name": "Septic System Service",
+      "description": "Septic tank pumping, inspection, and repair. Preventive maintenance plans.",
+      "revenue_model": "$300-600 per pumping + repairs",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "septic", "plumbing", "maintenance", "home"]
+    },
+    {
+      "id": 428,
+      "name": "DevOps Consulting",
+      "description": "DevOps implementation and optimization. CI/CD pipelines, automation, and infrastructure.",
+      "revenue_model": "$150-400/hour + project fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "DevOps", "consulting", "automation", "infrastructure"]
+    },
+    {
+      "id": 429,
+      "name": "Window Replacement",
+      "description": "Energy-efficient window replacement. Vinyl, wood, and fiberglass options.",
+      "revenue_model": "$300-1000 per window installed",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "windows", "replacement", "energy efficiency", "home improvement"]
+    },
+    {
+      "id": 430,
+      "name": "Character Design",
+      "description": "Character design for games, animation, comics, and branding.",
+      "revenue_model": "$200-2000 per character based on complexity",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "character design", "illustration", "creative", "art"]
+    },
+    {
+      "id": 431,
+      "name": "Foundation Repair",
+      "description": "Foundation crack repair, leveling, and stabilization. Prevents structural damage.",
+      "revenue_model": "$2000-15000 per project",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "foundation", "repair", "structural", "home"]
+    },
+    {
+      "id": 432,
+      "name": "API Development",
+      "description": "Custom API development and integration services for businesses.",
+      "revenue_model": "$5000-50000 per API + maintenance",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "API", "development", "integration", "software"]
+    },
+    {
+      "id": 433,
+      "name": "Chimney Sweep",
+      "description": "Chimney cleaning, inspection, and minor repairs. Prevents fires and carbon monoxide.",
+      "revenue_model": "$150-300 per cleaning + repairs",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "chimney", "cleaning", "inspection", "home"]
+    },
+    {
+      "id": 434,
+      "name": "Storyboarding",
+      "description": "Storyboard creation for films, commercials, and animation projects.",
+      "revenue_model": "$50-150 per frame or project-based",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "storyboarding", "film", "animation", "pre-production"]
+    },
+    {
+      "id": 435,
+      "name": "Attic Conversion",
+      "description": "Convert attics into bedrooms, offices, or storage. Includes insulation and finishing.",
+      "revenue_model": "$25000-75000 per conversion",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "attic", "conversion", "renovation", "home improvement"]
+    },
+    {
+      "id": 436,
+      "name": "Penetration Testing",
+      "description": "Ethical hacking and security testing for businesses. Vulnerability assessments.",
+      "revenue_model": "$3000-20000 per test",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "penetration testing", "cybersecurity", "hacking", "security"]
+    },
+    {
+      "id": 437,
+      "name": "Exterior Painting",
+      "description": "Professional exterior house painting. Pressure washing and surface prep included.",
+      "revenue_model": "$2-5 per square foot + materials",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "painting", "exterior", "home improvement", "contractor"]
+    },
+    {
+      "id": 438,
+      "name": "Sound Design",
+      "description": "Sound design for films, games, and multimedia projects. Custom audio creation.",
+      "revenue_model": "$500-5000 per project",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "sound design", "audio", "creative", "production"]
+    },
+    {
+      "id": 439,
+      "name": "Mold Remediation",
+      "description": "Professional mold removal and prevention. Air quality testing and treatment.",
+      "revenue_model": "$500-6000 per project based on extent",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "mold remediation", "health", "home", "cleaning"]
+    },
+    {
+      "id": 440,
+      "name": "Salesforce Consulting",
+      "description": "Salesforce implementation, customization, and training for businesses.",
+      "revenue_model": "$150-300/hour + project fees",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "Salesforce", "CRM", "consulting", "implementation"]
+    },
+    {
+      "id": 441,
+      "name": "Patio Installation",
+      "description": "Custom patio design and installation. Pavers, concrete, and stone options.",
+      "revenue_model": "$10-30 per square foot + materials",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "patio", "installation", "outdoor", "landscaping"]
+    },
+    {
+      "id": 442,
+      "name": "Logo Design",
+      "description": "Professional logo design with multiple concepts and revisions. Brand identity packages.",
+      "revenue_model": "$300-3000 per logo based on complexity",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "logo design", "branding", "graphic design", "creative"]
+    },
+    {
+      "id": 443,
+      "name": "Radon Testing",
+      "description": "Radon testing and mitigation for homes. Protects against lung cancer risk.",
+      "revenue_model": "$150-300 per test + mitigation ($1000-3000)",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "radon", "testing", "health", "home inspection"]
+    },
+    {
+      "id": 444,
+      "name": "ERP Implementation",
+      "description": "Enterprise resource planning software implementation and customization.",
+      "revenue_model": "$50000-500000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "ERP", "implementation", "enterprise software", "consulting"]
+    },
+    {
+      "id": 445,
+      "name": "Retaining Wall",
+      "description": "Retaining wall design and construction. Prevents erosion and creates usable space.",
+      "revenue_model": "$20-50 per square foot + materials",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "retaining wall", "landscaping", "construction", "outdoor"]
+    },
+    {
+      "id": 446,
+      "name": "Packaging Design",
+      "description": "Product packaging design for consumer goods. Includes mockups and print-ready files.",
+      "revenue_model": "$500-5000 per design",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "packaging design", "product design", "branding", "creative"]
+    },
+    {
+      "id": 447,
+      "name": "Asbestos Removal",
+      "description": "Licensed asbestos abatement and removal. Safe disposal and air quality testing.",
+      "revenue_model": "$1500-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "asbestos", "removal", "safety", "hazmat"]
+    },
+    {
+      "id": 448,
+      "name": "Shopify Development",
+      "description": "Custom Shopify store development, theme customization, and app integration.",
+      "revenue_model": "$2000-15000 per store + maintenance",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Technology",
+      "tags": ["service", "Shopify", "e-commerce", "web development", "online store"]
+    },
+    {
+      "id": 449,
+      "name": "Outdoor Kitchen",
+      "description": "Design and build outdoor kitchens with grills, counters, and appliances.",
+      "revenue_model": "$10000-50000 per kitchen",
+      "difficulty": "Hard",
+      "sector": "Service",
+      "category": "Home Services",
+      "tags": ["service", "outdoor kitchen", "construction", "outdoor living", "home improvement"]
+    },
+    {
+      "id": 450,
+      "name": "Book Cover Design",
+      "description": "Professional book cover design for self-published and traditional authors.",
+      "revenue_model": "$300-2000 per cover",
+      "difficulty": "Medium",
+      "sector": "Service",
+      "category": "Creative",
+      "tags": ["service", "book cover", "design", "publishing", "creative"]
+    }
+  ]
+}
