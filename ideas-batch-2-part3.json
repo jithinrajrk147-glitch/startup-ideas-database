@@ -1,0 +1,1508 @@
+{
+  "batch": "2-part3",
+  "ideas_range": "651-800",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 651,
+      "name": "Password Strength Checker",
+      "description": "Browser extension that analyzes password strength in real-time and suggests improvements. Checks against common password databases.",
+      "revenue_model": "Free with premium features ($2.99/month)",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Security",
+      "tags": ["tool", "security", "password", "browser extension", "privacy"]
+    },
+    {
+      "id": 652,
+      "name": "Bulk Image Resizer",
+      "description": "Desktop app to resize hundreds of images at once. Maintains aspect ratio, adds watermarks, converts formats.",
+      "revenue_model": "$19.99 one-time purchase",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Image Processing",
+      "tags": ["tool", "images", "batch processing", "desktop app", "productivity"]
+    },
+    {
+      "id": 653,
+      "name": "JSON Formatter & Validator",
+      "description": "Web tool to format, validate, and beautify JSON data. Syntax highlighting and error detection.",
+      "revenue_model": "Free with ads + $4.99/month ad-free",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "JSON", "developer", "formatting", "validation"]
+    },
+    {
+      "id": 654,
+      "name": "QR Code Generator Pro",
+      "description": "Generate custom QR codes with logos, colors, and tracking analytics. Bulk generation available.",
+      "revenue_model": "Free basic + $9.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Marketing",
+      "tags": ["tool", "QR code", "marketing", "analytics", "generator"]
+    },
+    {
+      "id": 655,
+      "name": "Color Palette Extractor",
+      "description": "Upload image and extract color palette. Get hex codes, RGB values, and export to various formats.",
+      "revenue_model": "Free with ads + $2.99 one-time premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Design",
+      "tags": ["tool", "colors", "design", "palette", "extraction"]
+    },
+    {
+      "id": 656,
+      "name": "Markdown to HTML Converter",
+      "description": "Convert Markdown files to clean HTML with syntax highlighting and custom CSS support.",
+      "revenue_model": "Free open source + $5/month hosted version",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "Markdown", "HTML", "converter", "developer"]
+    },
+    {
+      "id": 657,
+      "name": "File Compression Tool",
+      "description": "Compress files and folders with maximum compression. Supports ZIP, RAR, 7Z formats.",
+      "revenue_model": "$9.99 one-time purchase",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "compression", "files", "utility", "storage"]
+    },
+    {
+      "id": 658,
+      "name": "Duplicate File Finder",
+      "description": "Scan computer for duplicate files and safely remove them to free up space. Preview before deletion.",
+      "revenue_model": "$14.99 one-time purchase",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "duplicate", "files", "cleanup", "storage"]
+    },
+    {
+      "id": 659,
+      "name": "Screen Recording Tool",
+      "description": "Lightweight screen recorder with webcam overlay, annotations, and instant sharing.",
+      "revenue_model": "Free basic + $7.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Video",
+      "tags": ["tool", "screen recording", "video", "tutorial", "capture"]
+    },
+    {
+      "id": 660,
+      "name": "Regex Tester & Builder",
+      "description": "Visual regex builder with real-time testing, explanations, and common pattern library.",
+      "revenue_model": "Free with ads + $3.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "regex", "developer", "testing", "patterns"]
+    },
+    {
+      "id": 661,
+      "name": "PDF Merger & Splitter",
+      "description": "Merge multiple PDFs or split large PDFs into smaller files. Drag-and-drop interface.",
+      "revenue_model": "Free basic + $4.99/month unlimited",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Document Processing",
+      "tags": ["tool", "PDF", "merge", "split", "documents"]
+    },
+    {
+      "id": 662,
+      "name": "Cron Expression Generator",
+      "description": "Visual cron expression builder with human-readable descriptions and testing.",
+      "revenue_model": "Free with optional donations",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "cron", "scheduling", "developer", "automation"]
+    },
+    {
+      "id": 663,
+      "name": "Lorem Ipsum Generator",
+      "description": "Generate placeholder text in multiple languages. Custom length, paragraphs, and formats.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Design",
+      "tags": ["tool", "lorem ipsum", "placeholder", "text", "design"]
+    },
+    {
+      "id": 664,
+      "name": "Gradient Generator",
+      "description": "Create beautiful CSS gradients with visual editor. Copy code or download as image.",
+      "revenue_model": "Free with optional premium gradients ($1.99/month)",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Design",
+      "tags": ["tool", "gradient", "CSS", "design", "colors"]
+    },
+    {
+      "id": 665,
+      "name": "Base64 Encoder/Decoder",
+      "description": "Encode and decode Base64 strings. Support for files, images, and text.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "Base64", "encoding", "developer", "conversion"]
+    },
+    {
+      "id": 666,
+      "name": "Hash Generator",
+      "description": "Generate MD5, SHA-1, SHA-256 hashes for text and files. Verify file integrity.",
+      "revenue_model": "Free open source",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Security",
+      "tags": ["tool", "hash", "security", "encryption", "verification"]
+    },
+    {
+      "id": 667,
+      "name": "URL Shortener with Analytics",
+      "description": "Shorten URLs with custom aliases and track clicks, locations, and referrers.",
+      "revenue_model": "Free basic + $9.99/month premium analytics",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Marketing",
+      "tags": ["tool", "URL shortener", "analytics", "tracking", "links"]
+    },
+    {
+      "id": 668,
+      "name": "Favicon Generator",
+      "description": "Generate favicons in all required sizes from single image. Includes ICO, PNG, and SVG formats.",
+      "revenue_model": "Free with ads + $1.99 one-time ad removal",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Web Development",
+      "tags": ["tool", "favicon", "web development", "icons", "generator"]
+    },
+    {
+      "id": 669,
+      "name": "CSS Minifier",
+      "description": "Minify CSS files to reduce size and improve load times. Beautify option included.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "CSS", "minify", "optimization", "web development"]
+    },
+    {
+      "id": 670,
+      "name": "JavaScript Obfuscator",
+      "description": "Obfuscate JavaScript code to protect intellectual property. Multiple obfuscation levels.",
+      "revenue_model": "Free basic + $14.99/month advanced features",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "JavaScript", "obfuscation", "security", "code protection"]
+    },
+    {
+      "id": 671,
+      "name": "Image to Text (OCR)",
+      "description": "Extract text from images using OCR technology. Supports multiple languages.",
+      "revenue_model": "Free 10/day + $6.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Image Processing",
+      "tags": ["tool", "OCR", "text extraction", "images", "AI"]
+    },
+    {
+      "id": 672,
+      "name": "Background Remover",
+      "description": "Remove image backgrounds automatically using AI. Download transparent PNG.",
+      "revenue_model": "Free 5/month + $9.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Image Processing",
+      "tags": ["tool", "background removal", "AI", "images", "editing"]
+    },
+    {
+      "id": 673,
+      "name": "SVG to PNG Converter",
+      "description": "Convert SVG files to PNG with custom dimensions and transparent backgrounds.",
+      "revenue_model": "Free with ads + $2.99/month ad-free",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Image Processing",
+      "tags": ["tool", "SVG", "PNG", "conversion", "images"]
+    },
+    {
+      "id": 674,
+      "name": "Word Counter Tool",
+      "description": "Count words, characters, sentences, and paragraphs. Reading time estimation included.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "word count", "writing", "text analysis", "productivity"]
+    },
+    {
+      "id": 675,
+      "name": "Diff Checker",
+      "description": "Compare two text files or code snippets and highlight differences. Side-by-side view.",
+      "revenue_model": "Free with ads + $3.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "diff", "comparison", "code", "text"]
+    },
+    {
+      "id": 676,
+      "name": "Timestamp Converter",
+      "description": "Convert between Unix timestamps and human-readable dates. Multiple timezone support.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "timestamp", "date", "conversion", "timezone"]
+    },
+    {
+      "id": 677,
+      "name": "IP Address Lookup",
+      "description": "Look up IP address information including location, ISP, and organization.",
+      "revenue_model": "Free basic + $7.99/month API access",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Network",
+      "tags": ["tool", "IP address", "lookup", "geolocation", "network"]
+    },
+    {
+      "id": 678,
+      "name": "DNS Lookup Tool",
+      "description": "Query DNS records (A, MX, TXT, CNAME) for any domain. Bulk lookup available.",
+      "revenue_model": "Free basic + $9.99/month bulk features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Network",
+      "tags": ["tool", "DNS", "lookup", "domain", "network"]
+    },
+    {
+      "id": 679,
+      "name": "SSL Certificate Checker",
+      "description": "Check SSL certificate validity, expiration, and configuration. Get alerts before expiry.",
+      "revenue_model": "Free basic + $12.99/month monitoring",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Security",
+      "tags": ["tool", "SSL", "certificate", "security", "monitoring"]
+    },
+    {
+      "id": 680,
+      "name": "Ping & Traceroute Tool",
+      "description": "Test network connectivity with ping and traceroute from multiple locations.",
+      "revenue_model": "Free with ads + $5.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Network",
+      "tags": ["tool", "ping", "traceroute", "network", "diagnostics"]
+    },
+    {
+      "id": 681,
+      "name": "Port Scanner",
+      "description": "Scan open ports on any IP address or domain. Security and network diagnostics.",
+      "revenue_model": "Free basic + $14.99/month advanced scans",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Security",
+      "tags": ["tool", "port scanner", "security", "network", "diagnostics"]
+    },
+    {
+      "id": 682,
+      "name": "Website Speed Test",
+      "description": "Test website loading speed from multiple locations. Get optimization suggestions.",
+      "revenue_model": "Free basic + $19.99/month monitoring",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Web Performance",
+      "tags": ["tool", "speed test", "performance", "website", "optimization"]
+    },
+    {
+      "id": 683,
+      "name": "Meta Tag Generator",
+      "description": "Generate SEO-optimized meta tags for websites. Preview how they appear in search results.",
+      "revenue_model": "Free with ads + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "meta tags", "SEO", "web development", "optimization"]
+    },
+    {
+      "id": 684,
+      "name": "Robots.txt Generator",
+      "description": "Create robots.txt files for websites with visual editor and validation.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "robots.txt", "SEO", "web development", "crawling"]
+    },
+    {
+      "id": 685,
+      "name": "Sitemap Generator",
+      "description": "Generate XML sitemaps for websites automatically. Submit to search engines.",
+      "revenue_model": "Free up to 500 pages + $9.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "sitemap", "SEO", "XML", "search engines"]
+    },
+    {
+      "id": 686,
+      "name": "Broken Link Checker",
+      "description": "Scan websites for broken links and get detailed reports. Schedule regular checks.",
+      "revenue_model": "Free basic + $14.99/month monitoring",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "broken links", "SEO", "website", "monitoring"]
+    },
+    {
+      "id": 687,
+      "name": "Keyword Density Checker",
+      "description": "Analyze keyword density in content for SEO optimization. Get improvement suggestions.",
+      "revenue_model": "Free with ads + $6.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "keyword density", "SEO", "content", "analysis"]
+    },
+    {
+      "id": 688,
+      "name": "Backlink Checker",
+      "description": "Check backlinks pointing to any website. Domain authority and anchor text analysis.",
+      "revenue_model": "Free 10 checks/day + $29.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "SEO",
+      "tags": ["tool", "backlinks", "SEO", "analysis", "domain authority"]
+    },
+    {
+      "id": 689,
+      "name": "Email Validator",
+      "description": "Validate email addresses in bulk. Check syntax, domain, and mailbox existence.",
+      "revenue_model": "Free 100/month + $19.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Email",
+      "tags": ["tool", "email validation", "verification", "bulk", "marketing"]
+    },
+    {
+      "id": 690,
+      "name": "Email Header Analyzer",
+      "description": "Analyze email headers to trace origin, detect spam, and verify authenticity.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Email",
+      "tags": ["tool", "email headers", "analysis", "security", "spam"]
+    },
+    {
+      "id": 691,
+      "name": "WHOIS Lookup",
+      "description": "Look up domain registration information, owner details, and expiration dates.",
+      "revenue_model": "Free basic + $9.99/month monitoring",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Domain",
+      "tags": ["tool", "WHOIS", "domain", "lookup", "registration"]
+    },
+    {
+      "id": 692,
+      "name": "Domain Availability Checker",
+      "description": "Check domain name availability across multiple TLDs. Get alternative suggestions.",
+      "revenue_model": "Free with affiliate commissions",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Domain",
+      "tags": ["tool", "domain", "availability", "search", "registration"]
+    },
+    {
+      "id": 693,
+      "name": "Bulk Domain Checker",
+      "description": "Check availability of hundreds of domain names at once. Export results to CSV.",
+      "revenue_model": "Free 50/day + $14.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Domain",
+      "tags": ["tool", "domain", "bulk check", "availability", "batch"]
+    },
+    {
+      "id": 694,
+      "name": "YouTube Thumbnail Downloader",
+      "description": "Download YouTube video thumbnails in all available resolutions.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "YouTube",
+      "tags": ["tool", "YouTube", "thumbnail", "download", "video"]
+    },
+    {
+      "id": 695,
+      "name": "YouTube Tag Extractor",
+      "description": "Extract tags from any YouTube video for SEO research and optimization.",
+      "revenue_model": "Free with ads + $3.99/month bulk extraction",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "YouTube",
+      "tags": ["tool", "YouTube", "tags", "SEO", "extraction"]
+    },
+    {
+      "id": 696,
+      "name": "Instagram Hashtag Generator",
+      "description": "Generate relevant hashtags for Instagram posts based on keywords and niche.",
+      "revenue_model": "Free basic + $7.99/month premium hashtags",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "Instagram", "hashtags", "social media", "generator"]
+    },
+    {
+      "id": 697,
+      "name": "Twitter Thread Unroller",
+      "description": "Unroll Twitter threads into readable format. Export to PDF or share link.",
+      "revenue_model": "Free with ads + $2.99/month ad-free",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "Twitter", "threads", "unroll", "reading"]
+    },
+    {
+      "id": 698,
+      "name": "Social Media Image Resizer",
+      "description": "Resize images for all social media platforms with optimal dimensions.",
+      "revenue_model": "Free basic + $5.99/month batch processing",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "social media", "image resize", "optimization", "dimensions"]
+    },
+    {
+      "id": 699,
+      "name": "Caption Generator AI",
+      "description": "Generate engaging social media captions using AI. Multiple tone options.",
+      "revenue_model": "Free 10/day + $9.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "AI", "captions", "social media", "content"]
+    },
+    {
+      "id": 700,
+      "name": "Bio Link Tool",
+      "description": "Create custom landing page with multiple links for Instagram bio. Analytics included.",
+      "revenue_model": "Free basic + $6.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "bio link", "Instagram", "landing page", "links"]
+    },
+    {
+      "id": 701,
+      "name": "Pomodoro Timer App",
+      "description": "Productivity timer using Pomodoro technique. Track sessions and breaks with statistics.",
+      "revenue_model": "Free with ads + $3.99 one-time premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "Pomodoro", "timer", "productivity", "focus"]
+    },
+    {
+      "id": 702,
+      "name": "Habit Tracker",
+      "description": "Track daily habits with streaks, reminders, and progress visualization.",
+      "revenue_model": "Free basic + $4.99/month premium analytics",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "habit tracking", "productivity", "goals", "streaks"]
+    },
+    {
+      "id": 703,
+      "name": "Time Zone Converter",
+      "description": "Convert times between multiple time zones. Schedule meeting finder included.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "time zone", "converter", "scheduling", "meetings"]
+    },
+    {
+      "id": 704,
+      "name": "Random Name Generator",
+      "description": "Generate random names for characters, businesses, or projects. Multiple categories.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Generator",
+      "tags": ["tool", "name generator", "random", "creative", "naming"]
+    },
+    {
+      "id": 705,
+      "name": "Random Number Generator",
+      "description": "Generate random numbers with custom ranges. Lottery number generator included.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Generator",
+      "tags": ["tool", "random numbers", "generator", "lottery", "utility"]
+    },
+    {
+      "id": 706,
+      "name": "Dice Roller Simulator",
+      "description": "Roll virtual dice for games. Support for D4, D6, D8, D10, D12, D20, D100.",
+      "revenue_model": "Free with ads + $0.99 ad removal",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Gaming",
+      "tags": ["tool", "dice", "gaming", "simulator", "random"]
+    },
+    {
+      "id": 707,
+      "name": "Coin Flip Simulator",
+      "description": "Flip virtual coins with statistics tracking. Multiple coins at once.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "coin flip", "random", "decision", "simulator"]
+    },
+    {
+      "id": 708,
+      "name": "Decision Maker Wheel",
+      "description": "Spin wheel to make random decisions. Custom options and colors.",
+      "revenue_model": "Free with ads + $1.99 premium wheels",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "decision maker", "wheel", "random", "choices"]
+    },
+    {
+      "id": 709,
+      "name": "Age Calculator",
+      "description": "Calculate exact age in years, months, days, hours. Next birthday countdown.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Calculator",
+      "tags": ["tool", "age calculator", "date", "birthday", "utility"]
+    },
+    {
+      "id": 710,
+      "name": "BMI Calculator",
+      "description": "Calculate Body Mass Index with health recommendations. Track progress over time.",
+      "revenue_model": "Free with ads + $2.99/month premium tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "BMI", "health", "calculator", "fitness"]
+    },
+    {
+      "id": 711,
+      "name": "Calorie Calculator",
+      "description": "Calculate daily calorie needs based on activity level and goals.",
+      "revenue_model": "Free with ads + $4.99/month meal plans",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "calories", "health", "nutrition", "calculator"]
+    },
+    {
+      "id": 712,
+      "name": "Loan Calculator",
+      "description": "Calculate loan payments, interest, and amortization schedules.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "loan calculator", "finance", "mortgage", "interest"]
+    },
+    {
+      "id": 713,
+      "name": "Mortgage Calculator",
+      "description": "Calculate monthly mortgage payments with taxes and insurance. Comparison tools.",
+      "revenue_model": "Free with ads + lender partnerships",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "mortgage", "calculator", "real estate", "finance"]
+    },
+    {
+      "id": 714,
+      "name": "Tip Calculator",
+      "description": "Calculate tips and split bills among multiple people. Custom tip percentages.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "tip calculator", "bill split", "dining", "utility"]
+    },
+    {
+      "id": 715,
+      "name": "Currency Converter",
+      "description": "Convert between 150+ currencies with real-time exchange rates. Historical data.",
+      "revenue_model": "Free with ads + $3.99/month premium features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "currency", "converter", "exchange rate", "finance"]
+    },
+    {
+      "id": 716,
+      "name": "Unit Converter",
+      "description": "Convert between units of length, weight, temperature, volume, and more.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "unit converter", "measurement", "conversion", "utility"]
+    },
+    {
+      "id": 717,
+      "name": "Percentage Calculator",
+      "description": "Calculate percentages, percentage increase/decrease, and percentage of total.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Calculator",
+      "tags": ["tool", "percentage", "calculator", "math", "utility"]
+    },
+    {
+      "id": 718,
+      "name": "Scientific Calculator",
+      "description": "Advanced calculator with scientific functions, graphing, and equation solver.",
+      "revenue_model": "Free basic + $4.99 one-time advanced features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Calculator",
+      "tags": ["tool", "scientific calculator", "math", "equations", "graphing"]
+    },
+    {
+      "id": 719,
+      "name": "Date Calculator",
+      "description": "Calculate days between dates, add/subtract days, and find future/past dates.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "date calculator", "calendar", "days", "utility"]
+    },
+    {
+      "id": 720,
+      "name": "Roman Numeral Converter",
+      "description": "Convert between Arabic numbers and Roman numerals. Validation included.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Converter",
+      "tags": ["tool", "Roman numerals", "converter", "numbers", "utility"]
+    },
+    {
+      "id": 721,
+      "name": "Binary Converter",
+      "description": "Convert between binary, decimal, hexadecimal, and octal number systems.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Developer Tools",
+      "tags": ["tool", "binary", "converter", "hexadecimal", "programming"]
+    },
+    {
+      "id": 722,
+      "name": "ASCII Art Generator",
+      "description": "Convert images to ASCII art. Customizable character sets and sizes.",
+      "revenue_model": "Free with ads + $2.99 premium characters",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Creative",
+      "tags": ["tool", "ASCII art", "generator", "images", "creative"]
+    },
+    {
+      "id": 723,
+      "name": "Barcode Generator",
+      "description": "Generate barcodes in multiple formats (UPC, EAN, Code 128). Download as image.",
+      "revenue_model": "Free basic + $7.99/month bulk generation",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "barcode", "generator", "UPC", "business"]
+    },
+    {
+      "id": 724,
+      "name": "Invoice Number Generator",
+      "description": "Generate sequential invoice numbers with custom prefixes and formats.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "invoice", "numbers", "generator", "business"]
+    },
+    {
+      "id": 725,
+      "name": "Business Name Generator",
+      "description": "Generate creative business names with domain availability check.",
+      "revenue_model": "Free with domain affiliate commissions",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "business name", "generator", "branding", "domain"]
+    },
+    {
+      "id": 726,
+      "name": "Slogan Generator",
+      "description": "Generate catchy slogans and taglines for businesses using AI.",
+      "revenue_model": "Free 10/day + $6.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Marketing",
+      "tags": ["tool", "slogan", "generator", "AI", "marketing"]
+    },
+    {
+      "id": 727,
+      "name": "Email Signature Generator",
+      "description": "Create professional email signatures with social links and contact info.",
+      "revenue_model": "Free basic + $4.99/month premium templates",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "email signature", "generator", "professional", "branding"]
+    },
+    {
+      "id": 728,
+      "name": "Privacy Policy Generator",
+      "description": "Generate GDPR-compliant privacy policies for websites and apps.",
+      "revenue_model": "Free basic + $29 one-time custom policy",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Legal",
+      "tags": ["tool", "privacy policy", "GDPR", "legal", "compliance"]
+    },
+    {
+      "id": 729,
+      "name": "Terms of Service Generator",
+      "description": "Create terms of service agreements for websites and online businesses.",
+      "revenue_model": "Free basic + $29 one-time custom terms",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Legal",
+      "tags": ["tool", "terms of service", "legal", "agreements", "compliance"]
+    },
+    {
+      "id": 730,
+      "name": "Cookie Consent Banner",
+      "description": "Add GDPR-compliant cookie consent banner to websites. Customizable design.",
+      "revenue_model": "Free basic + $9.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Legal",
+      "tags": ["tool", "cookie consent", "GDPR", "privacy", "compliance"]
+    },
+    {
+      "id": 731,
+      "name": "Plagiarism Checker",
+      "description": "Check content for plagiarism against billions of web pages. Similarity score.",
+      "revenue_model": "Free 1000 words/month + $14.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "plagiarism", "checker", "content", "writing"]
+    },
+    {
+      "id": 732,
+      "name": "Grammar Checker",
+      "description": "Check grammar, spelling, and punctuation errors. Style suggestions included.",
+      "revenue_model": "Free basic + $11.99/month premium",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "grammar", "checker", "writing", "editing"]
+    },
+    {
+      "id": 733,
+      "name": "Paraphrasing Tool",
+      "description": "Rewrite text while maintaining meaning. Multiple rewriting modes.",
+      "revenue_model": "Free 500 words/day + $9.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "paraphrasing", "rewriting", "AI", "content"]
+    },
+    {
+      "id": 734,
+      "name": "Article Summarizer",
+      "description": "Summarize long articles into key points using AI. Adjustable summary length.",
+      "revenue_model": "Free 5/day + $7.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "summarizer", "AI", "articles", "reading"]
+    },
+    {
+      "id": 735,
+      "name": "Readability Checker",
+      "description": "Analyze text readability with Flesch-Kincaid and other scores. Improvement tips.",
+      "revenue_model": "Free with ads + $5.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Writing",
+      "tags": ["tool", "readability", "checker", "writing", "analysis"]
+    },
+    {
+      "id": 736,
+      "name": "Headline Analyzer",
+      "description": "Analyze headline effectiveness for SEO and engagement. Get improvement suggestions.",
+      "revenue_model": "Free basic + $8.99/month advanced analysis",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Marketing",
+      "tags": ["tool", "headline", "analyzer", "SEO", "copywriting"]
+    },
+    {
+      "id": 737,
+      "name": "Email Subject Line Tester",
+      "description": "Test email subject lines for spam triggers and engagement potential.",
+      "revenue_model": "Free basic + $6.99/month premium insights",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Email Marketing",
+      "tags": ["tool", "email", "subject lines", "testing", "marketing"]
+    },
+    {
+      "id": 738,
+      "name": "A/B Test Calculator",
+      "description": "Calculate statistical significance of A/B test results. Sample size calculator.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Marketing",
+      "tags": ["tool", "A/B testing", "statistics", "calculator", "conversion"]
+    },
+    {
+      "id": 739,
+      "name": "ROI Calculator",
+      "description": "Calculate return on investment for marketing campaigns and business projects.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "ROI", "calculator", "business", "finance"]
+    },
+    {
+      "id": 740,
+      "name": "Break-Even Calculator",
+      "description": "Calculate break-even point for products and services. Profit margin analysis.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "break-even", "calculator", "business", "finance"]
+    },
+    {
+      "id": 741,
+      "name": "Profit Margin Calculator",
+      "description": "Calculate profit margins, markup, and pricing for products.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "profit margin", "calculator", "pricing", "business"]
+    },
+    {
+      "id": 742,
+      "name": "Discount Calculator",
+      "description": "Calculate discounts, sale prices, and savings percentages.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Shopping",
+      "tags": ["tool", "discount", "calculator", "shopping", "savings"]
+    },
+    {
+      "id": 743,
+      "name": "Sales Tax Calculator",
+      "description": "Calculate sales tax for different states and countries. Reverse calculation.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "sales tax", "calculator", "finance", "business"]
+    },
+    {
+      "id": 744,
+      "name": "Compound Interest Calculator",
+      "description": "Calculate compound interest for investments and savings. Visual growth chart.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "compound interest", "calculator", "investment", "savings"]
+    },
+    {
+      "id": 745,
+      "name": "Retirement Calculator",
+      "description": "Calculate retirement savings needs and monthly contributions required.",
+      "revenue_model": "Free with ads + $9.99/month premium planning",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "retirement", "calculator", "savings", "planning"]
+    },
+    {
+      "id": 746,
+      "name": "Debt Payoff Calculator",
+      "description": "Calculate debt payoff timeline with snowball and avalanche methods.",
+      "revenue_model": "Free with ads + $4.99/month tracking",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Finance",
+      "tags": ["tool", "debt", "calculator", "payoff", "finance"]
+    },
+    {
+      "id": 747,
+      "name": "GPA Calculator",
+      "description": "Calculate GPA with weighted and unweighted options. Semester and cumulative.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Education",
+      "tags": ["tool", "GPA", "calculator", "education", "grades"]
+    },
+    {
+      "id": 748,
+      "name": "Grade Calculator",
+      "description": "Calculate final grades based on assignments, tests, and weighted categories.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Education",
+      "tags": ["tool", "grade", "calculator", "education", "students"]
+    },
+    {
+      "id": 749,
+      "name": "Study Time Calculator",
+      "description": "Calculate optimal study time distribution for multiple subjects and exams.",
+      "revenue_model": "Free with ads + $3.99/month study planner",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Education",
+      "tags": ["tool", "study time", "calculator", "education", "planning"]
+    },
+    {
+      "id": 750,
+      "name": "Ovulation Calculator",
+      "description": "Calculate fertile window and ovulation dates for family planning.",
+      "revenue_model": "Free with ads + $6.99/month premium tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "ovulation", "calculator", "health", "fertility"]
+    },
+    {
+      "id": 751,
+      "name": "Pregnancy Calculator",
+      "description": "Calculate due date, trimester milestones, and baby development stages.",
+      "revenue_model": "Free with ads + $7.99/month premium content",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "pregnancy", "calculator", "health", "baby"]
+    },
+    {
+      "id": 752,
+      "name": "Water Intake Calculator",
+      "description": "Calculate daily water intake needs based on weight, activity, and climate.",
+      "revenue_model": "Free with ads + $2.99/month tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "water intake", "calculator", "health", "hydration"]
+    },
+    {
+      "id": 753,
+      "name": "Protein Calculator",
+      "description": "Calculate daily protein needs based on goals, weight, and activity level.",
+      "revenue_model": "Free with ads + $4.99/month meal planning",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "protein", "calculator", "nutrition", "fitness"]
+    },
+    {
+      "id": 754,
+      "name": "Macro Calculator",
+      "description": "Calculate macronutrient ratios for weight loss, maintenance, or muscle gain.",
+      "revenue_model": "Free with ads + $5.99/month tracking",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "macros", "calculator", "nutrition", "diet"]
+    },
+    {
+      "id": 755,
+      "name": "TDEE Calculator",
+      "description": "Calculate Total Daily Energy Expenditure for accurate calorie planning.",
+      "revenue_model": "Free with ads + $4.99/month premium features",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "TDEE", "calculator", "calories", "fitness"]
+    },
+    {
+      "id": 756,
+      "name": "One Rep Max Calculator",
+      "description": "Calculate one-rep max for weightlifting exercises. Training percentage calculator.",
+      "revenue_model": "Free with ads + $3.99/month workout tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Fitness",
+      "tags": ["tool", "one rep max", "calculator", "weightlifting", "strength"]
+    },
+    {
+      "id": 757,
+      "name": "Pace Calculator",
+      "description": "Calculate running pace, finish time, and distance for races and training.",
+      "revenue_model": "Free with ads + $2.99/month training plans",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Fitness",
+      "tags": ["tool", "pace", "calculator", "running", "training"]
+    },
+    {
+      "id": 758,
+      "name": "Heart Rate Zone Calculator",
+      "description": "Calculate heart rate training zones for optimal cardio workouts.",
+      "revenue_model": "Free with ads + $3.99/month tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Fitness",
+      "tags": ["tool", "heart rate", "calculator", "cardio", "training"]
+    },
+    {
+      "id": 759,
+      "name": "Body Fat Calculator",
+      "description": "Estimate body fat percentage using multiple measurement methods.",
+      "revenue_model": "Free with ads + $4.99/month progress tracking",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "body fat", "calculator", "health", "fitness"]
+    },
+    {
+      "id": 760,
+      "name": "Ideal Weight Calculator",
+      "description": "Calculate ideal weight range based on height, age, and body frame.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "ideal weight", "calculator", "health", "BMI"]
+    },
+    {
+      "id": 761,
+      "name": "Sleep Calculator",
+      "description": "Calculate optimal bedtime and wake time based on sleep cycles.",
+      "revenue_model": "Free with ads + $2.99/month sleep tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "sleep", "calculator", "health", "wellness"]
+    },
+    {
+      "id": 762,
+      "name": "Blood Alcohol Calculator",
+      "description": "Estimate blood alcohol content and time to sober up. Educational purposes.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "BAC", "calculator", "alcohol", "safety"]
+    },
+    {
+      "id": 763,
+      "name": "Caffeine Calculator",
+      "description": "Track caffeine intake and calculate when it leaves your system.",
+      "revenue_model": "Free with ads + $1.99/month tracking",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "caffeine", "calculator", "health", "tracking"]
+    },
+    {
+      "id": 764,
+      "name": "Smoking Cost Calculator",
+      "description": "Calculate money spent on smoking and potential savings from quitting.",
+      "revenue_model": "Free with ads + $3.99/month quit support",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Health",
+      "tags": ["tool", "smoking", "calculator", "health", "savings"]
+    },
+    {
+      "id": 765,
+      "name": "Carbon Footprint Calculator",
+      "description": "Calculate personal carbon footprint and get reduction suggestions.",
+      "revenue_model": "Free with ads + $4.99/month tracking",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Environment",
+      "tags": ["tool", "carbon footprint", "calculator", "environment", "sustainability"]
+    },
+    {
+      "id": 766,
+      "name": "Fuel Cost Calculator",
+      "description": "Calculate trip fuel costs based on distance, MPG, and gas prices.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Travel",
+      "tags": ["tool", "fuel cost", "calculator", "travel", "gas"]
+    },
+    {
+      "id": 767,
+      "name": "Travel Time Calculator",
+      "description": "Calculate travel time between locations with traffic and route options.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Travel",
+      "tags": ["tool", "travel time", "calculator", "navigation", "routes"]
+    },
+    {
+      "id": 768,
+      "name": "Flight Time Calculator",
+      "description": "Calculate flight duration between airports including layovers.",
+      "revenue_model": "Free with ads",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Travel",
+      "tags": ["tool", "flight time", "calculator", "travel", "aviation"]
+    },
+    {
+      "id": 769,
+      "name": "Packing List Generator",
+      "description": "Generate customized packing lists for trips based on destination and duration.",
+      "revenue_model": "Free with ads + $2.99/month premium lists",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Travel",
+      "tags": ["tool", "packing list", "generator", "travel", "planning"]
+    },
+    {
+      "id": 770,
+      "name": "Timezone Meeting Planner",
+      "description": "Find best meeting times across multiple timezones. Calendar integration.",
+      "revenue_model": "Free basic + $6.99/month premium features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "timezone", "meetings", "scheduling", "collaboration"]
+    },
+    {
+      "id": 771,
+      "name": "Invoice Template Generator",
+      "description": "Create professional invoice templates with custom branding and fields.",
+      "revenue_model": "Free basic + $9.99/month premium templates",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "invoice", "template", "business", "billing"]
+    },
+    {
+      "id": 772,
+      "name": "Receipt Maker",
+      "description": "Generate professional receipts for sales and services. Customizable templates.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "receipt", "generator", "business", "sales"]
+    },
+    {
+      "id": 773,
+      "name": "Quote Generator",
+      "description": "Create professional quotes and estimates for clients. Track acceptance.",
+      "revenue_model": "Free basic + $12.99/month premium features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "quote", "generator", "business", "estimates"]
+    },
+    {
+      "id": 774,
+      "name": "Contract Generator",
+      "description": "Generate customizable business contracts and agreements. Legal templates.",
+      "revenue_model": "Free basic + $29/month premium templates",
+      "difficulty": "Hard",
+      "sector": "Tool",
+      "category": "Legal",
+      "tags": ["tool", "contract", "generator", "legal", "business"]
+    },
+    {
+      "id": 775,
+      "name": "NDA Generator",
+      "description": "Create non-disclosure agreements for business relationships. Customizable.",
+      "revenue_model": "Free basic + $19 one-time custom NDA",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Legal",
+      "tags": ["tool", "NDA", "generator", "legal", "confidentiality"]
+    },
+    {
+      "id": 776,
+      "name": "Meeting Agenda Template",
+      "description": "Generate structured meeting agendas with time allocations and action items.",
+      "revenue_model": "Free with ads + $3.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "meeting agenda", "template", "productivity", "business"]
+    },
+    {
+      "id": 777,
+      "name": "Project Timeline Generator",
+      "description": "Create visual project timelines and Gantt charts. Export to various formats.",
+      "revenue_model": "Free basic + $14.99/month premium features",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Project Management",
+      "tags": ["tool", "timeline", "Gantt chart", "project management", "planning"]
+    },
+    {
+      "id": 778,
+      "name": "SWOT Analysis Template",
+      "description": "Create SWOT analysis diagrams for business planning and strategy.",
+      "revenue_model": "Free with ads + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "SWOT", "analysis", "business", "strategy"]
+    },
+    {
+      "id": 779,
+      "name": "Org Chart Maker",
+      "description": "Create organizational charts with drag-and-drop interface. Export options.",
+      "revenue_model": "Free basic + $9.99/month unlimited",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Business",
+      "tags": ["tool", "org chart", "organizational", "business", "hierarchy"]
+    },
+    {
+      "id": 780,
+      "name": "Flowchart Maker",
+      "description": "Create flowcharts and process diagrams with templates and shapes library.",
+      "revenue_model": "Free basic + $7.99/month premium shapes",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "flowchart", "diagram", "process", "visualization"]
+    },
+    {
+      "id": 781,
+      "name": "Mind Map Creator",
+      "description": "Create mind maps for brainstorming and idea organization. Collaboration features.",
+      "revenue_model": "Free basic + $8.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "mind map", "brainstorming", "ideas", "visualization"]
+    },
+    {
+      "id": 782,
+      "name": "Wireframe Tool",
+      "description": "Create website and app wireframes with drag-and-drop components.",
+      "revenue_model": "Free basic + $12.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Design",
+      "tags": ["tool", "wireframe", "design", "UX", "prototyping"]
+    },
+    {
+      "id": 783,
+      "name": "Mockup Generator",
+      "description": "Create product mockups for presentations and marketing. Device frames included.",
+      "revenue_model": "Free 5/month + $9.99/month unlimited",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Design",
+      "tags": ["tool", "mockup", "generator", "design", "presentation"]
+    },
+    {
+      "id": 784,
+      "name": "Screenshot Annotator",
+      "description": "Annotate screenshots with arrows, text, shapes, and blur sensitive info.",
+      "revenue_model": "Free basic + $4.99/month premium tools",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "screenshot", "annotation", "productivity", "communication"]
+    },
+    {
+      "id": 785,
+      "name": "GIF Maker",
+      "description": "Create GIFs from videos or images. Add text, stickers, and effects.",
+      "revenue_model": "Free with watermark + $5.99/month no watermark",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Media",
+      "tags": ["tool", "GIF", "maker", "animation", "video"]
+    },
+    {
+      "id": 786,
+      "name": "Meme Generator",
+      "description": "Create memes with popular templates or upload custom images. Text editor.",
+      "revenue_model": "Free with ads + $2.99/month ad-free",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Social Media",
+      "tags": ["tool", "meme", "generator", "social media", "humor"]
+    },
+    {
+      "id": 787,
+      "name": "Video Trimmer",
+      "description": "Trim videos online without re-encoding. Fast and lossless cutting.",
+      "revenue_model": "Free up to 500MB + $6.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Video",
+      "tags": ["tool", "video", "trimmer", "editing", "cutting"]
+    },
+    {
+      "id": 788,
+      "name": "Audio Trimmer",
+      "description": "Trim audio files online. Support for MP3, WAV, and other formats.",
+      "revenue_model": "Free with ads + $3.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Audio",
+      "tags": ["tool", "audio", "trimmer", "editing", "music"]
+    },
+    {
+      "id": 789,
+      "name": "Video to GIF Converter",
+      "description": "Convert video clips to GIF animations. Customize frame rate and quality.",
+      "revenue_model": "Free basic + $4.99/month HD quality",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Video",
+      "tags": ["tool", "video to GIF", "converter", "animation", "media"]
+    },
+    {
+      "id": 790,
+      "name": "Audio Converter",
+      "description": "Convert audio files between formats (MP3, WAV, FLAC, AAC, OGG).",
+      "revenue_model": "Free basic + $5.99/month batch conversion",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Audio",
+      "tags": ["tool", "audio", "converter", "format", "music"]
+    },
+    {
+      "id": 791,
+      "name": "Video Compressor",
+      "description": "Compress video files to reduce size while maintaining quality.",
+      "revenue_model": "Free up to 100MB + $7.99/month unlimited",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Video",
+      "tags": ["tool", "video", "compressor", "compression", "optimization"]
+    },
+    {
+      "id": 792,
+      "name": "Image Compressor",
+      "description": "Compress images (JPG, PNG) without visible quality loss. Batch processing.",
+      "revenue_model": "Free basic + $4.99/month unlimited",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Image Processing",
+      "tags": ["tool", "image", "compressor", "optimization", "web"]
+    },
+    {
+      "id": 793,
+      "name": "Reverse Image Search",
+      "description": "Find similar images and sources across the web. Multiple search engines.",
+      "revenue_model": "Free with ads + $6.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Search",
+      "tags": ["tool", "reverse image", "search", "images", "lookup"]
+    },
+    {
+      "id": 794,
+      "name": "Duplicate Photo Finder",
+      "description": "Find and remove duplicate photos from computer or cloud storage.",
+      "revenue_model": "$9.99 one-time purchase",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "duplicate", "photos", "cleanup", "storage"]
+    },
+    {
+      "id": 795,
+      "name": "Batch Rename Tool",
+      "description": "Rename multiple files at once with patterns, numbering, and find-replace.",
+      "revenue_model": "$7.99 one-time purchase",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "batch rename", "files", "organization", "utility"]
+    },
+    {
+      "id": 796,
+      "name": "File Splitter",
+      "description": "Split large files into smaller parts for easier sharing and storage.",
+      "revenue_model": "Free with ads + $4.99 one-time premium",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "file splitter", "split", "files", "utility"]
+    },
+    {
+      "id": 797,
+      "name": "Clipboard Manager",
+      "description": "Save clipboard history and quickly access previously copied items.",
+      "revenue_model": "Free basic + $5.99 one-time premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "clipboard", "manager", "productivity", "utility"]
+    },
+    {
+      "id": 798,
+      "name": "Text Expander",
+      "description": "Create shortcuts for frequently typed text. Boost typing productivity.",
+      "revenue_model": "Free basic + $6.99/month unlimited snippets",
+      "difficulty": "Easy",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "text expander", "shortcuts", "productivity", "typing"]
+    },
+    {
+      "id": 799,
+      "name": "Window Manager",
+      "description": "Organize and snap windows with keyboard shortcuts. Multi-monitor support.",
+      "revenue_model": "$12.99 one-time purchase",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Productivity",
+      "tags": ["tool", "window manager", "productivity", "desktop", "organization"]
+    },
+    {
+      "id": 800,
+      "name": "System Monitor Widget",
+      "description": "Monitor CPU, RAM, disk, and network usage in real-time. Customizable widgets.",
+      "revenue_model": "Free with ads + $3.99 one-time premium",
+      "difficulty": "Medium",
+      "sector": "Tool",
+      "category": "Utility",
+      "tags": ["tool", "system monitor", "performance", "widgets", "diagnostics"]
+    }
+  ]
+}
