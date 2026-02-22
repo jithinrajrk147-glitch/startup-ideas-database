@@ -1,0 +1,1508 @@
+{
+  "batch": "3-part2",
+  "ideas_range": "951-1100",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 951,
+      "name": "NFT Marketplace for Artists",
+      "description": "Curated NFT marketplace focusing on digital art with lower fees and artist-friendly terms.",
+      "revenue_model": "2.5% transaction fee (vs 10-15% competitors)",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "NFT",
+      "tags": ["blockchain", "NFT", "art", "marketplace", "crypto"]
+    },
+    {
+      "id": 952,
+      "name": "Decentralized Cloud Storage",
+      "description": "Blockchain-based cloud storage where users rent out unused storage space. Cheaper and more secure.",
+      "revenue_model": "$5-50/month based on storage + token economics",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Storage",
+      "tags": ["blockchain", "storage", "decentralized", "cloud", "Web3"]
+    },
+    {
+      "id": 953,
+      "name": "Crypto Portfolio Tracker",
+      "description": "Track crypto holdings across multiple wallets and exchanges with tax reporting.",
+      "revenue_model": "Free basic + $9.99-49.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Blockchain",
+      "category": "Finance",
+      "tags": ["crypto", "portfolio", "tracking", "tax", "finance"]
+    },
+    {
+      "id": 954,
+      "name": "DAO Management Platform",
+      "description": "Tools for creating and managing DAOs - voting, treasury, proposals, and member management.",
+      "revenue_model": "$99-999/month based on DAO size",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Governance",
+      "tags": ["DAO", "blockchain", "governance", "Web3", "management"]
+    },
+    {
+      "id": 955,
+      "name": "Smart Contract Auditing Service",
+      "description": "Automated and manual smart contract security audits for DeFi projects.",
+      "revenue_model": "$5,000-50,000 per audit",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Security",
+      "tags": ["blockchain", "smart contracts", "security", "audit", "DeFi"]
+    },
+    {
+      "id": 956,
+      "name": "Crypto Payment Gateway",
+      "description": "Accept cryptocurrency payments on websites with instant fiat conversion.",
+      "revenue_model": "1-2% transaction fee",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Payments",
+      "tags": ["crypto", "payments", "gateway", "e-commerce", "blockchain"]
+    },
+    {
+      "id": 957,
+      "name": "NFT Rental Platform",
+      "description": "Rent NFTs for gaming, metaverse access, or utility without buying them.",
+      "revenue_model": "10-15% commission on rentals",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "NFT",
+      "tags": ["NFT", "rental", "gaming", "metaverse", "blockchain"]
+    },
+    {
+      "id": 958,
+      "name": "Blockchain Domain Registrar",
+      "description": "Register and manage blockchain domains (.crypto, .eth, .nft) with easy DNS management.",
+      "revenue_model": "$10-100 per domain + renewal fees",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Infrastructure",
+      "tags": ["blockchain", "domains", "Web3", "DNS", "crypto"]
+    },
+    {
+      "id": 959,
+      "name": "DeFi Yield Aggregator",
+      "description": "Automatically move funds between DeFi protocols to maximize yield.",
+      "revenue_model": "10-20% performance fee on profits",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "DeFi",
+      "tags": ["DeFi", "yield", "crypto", "automation", "finance"]
+    },
+    {
+      "id": 960,
+      "name": "Crypto Tax Software",
+      "description": "Calculate crypto taxes automatically from exchange and wallet transactions.",
+      "revenue_model": "$49-299/year based on transactions",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Finance",
+      "tags": ["crypto", "tax", "accounting", "compliance", "finance"]
+    },
+    {
+      "id": 961,
+      "name": "Web3 Analytics Platform",
+      "description": "Analytics for dApps and smart contracts - user behavior, transactions, and engagement.",
+      "revenue_model": "$99-999/month based on data volume",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Analytics",
+      "tags": ["Web3", "analytics", "dApps", "blockchain", "data"]
+    },
+    {
+      "id": 962,
+      "name": "Tokenization Platform",
+      "description": "Tokenize real-world assets (real estate, art, collectibles) on blockchain.",
+      "revenue_model": "2-5% of tokenized value + platform fees",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Tokenization",
+      "tags": ["tokenization", "blockchain", "assets", "RWA", "Web3"]
+    },
+    {
+      "id": 963,
+      "name": "Crypto Wallet Recovery Service",
+      "description": "Help recover lost crypto wallets and passwords using advanced techniques.",
+      "revenue_model": "20-30% of recovered funds",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Security",
+      "tags": ["crypto", "wallet", "recovery", "security", "service"]
+    },
+    {
+      "id": 964,
+      "name": "Blockchain Identity Verification",
+      "description": "Decentralized identity verification for KYC/AML compliance.",
+      "revenue_model": "$1-5 per verification",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Identity",
+      "tags": ["blockchain", "identity", "KYC", "verification", "compliance"]
+    },
+    {
+      "id": 965,
+      "name": "Metaverse Real Estate Platform",
+      "description": "Buy, sell, and rent virtual land across multiple metaverse platforms.",
+      "revenue_model": "3-5% commission on transactions",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Metaverse",
+      "tags": ["metaverse", "real estate", "virtual land", "NFT", "Web3"]
+    },
+    {
+      "id": 966,
+      "name": "Play-to-Earn Game Platform",
+      "description": "Gaming platform where players earn cryptocurrency by playing games.",
+      "revenue_model": "10-15% of in-game transactions",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Gaming",
+      "tags": ["gaming", "play-to-earn", "crypto", "NFT", "blockchain"]
+    },
+    {
+      "id": 967,
+      "name": "Decentralized Social Network",
+      "description": "Social media platform where users own their data and content on blockchain.",
+      "revenue_model": "Token economics + premium features",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Social Media",
+      "tags": ["social media", "decentralized", "Web3", "blockchain", "privacy"]
+    },
+    {
+      "id": 968,
+      "name": "Crypto Lending Platform",
+      "description": "Peer-to-peer crypto lending with collateral management and automated liquidation.",
+      "revenue_model": "1-3% origination fee + interest spread",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "DeFi",
+      "tags": ["crypto", "lending", "DeFi", "finance", "P2P"]
+    },
+    {
+      "id": 969,
+      "name": "NFT Fractionalization Platform",
+      "description": "Split expensive NFTs into fractional shares for collective ownership.",
+      "revenue_model": "2-5% fractionalization fee + trading fees",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "NFT",
+      "tags": ["NFT", "fractionalization", "DeFi", "ownership", "blockchain"]
+    },
+    {
+      "id": 970,
+      "name": "Blockchain Supply Chain Tracker",
+      "description": "Track products through supply chain using blockchain for transparency and authenticity.",
+      "revenue_model": "$0.10-1.00 per item tracked",
+      "difficulty": "Hard",
+      "sector": "Blockchain",
+      "category": "Supply Chain",
+      "tags": ["blockchain", "supply chain", "tracking", "transparency", "enterprise"]
+    },
+    {
+      "id": 971,
+      "name": "Carbon Credit Marketplace",
+      "description": "Buy, sell, and retire carbon credits with blockchain verification and transparency.",
+      "revenue_model": "5-10% commission on trades",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Carbon Credits",
+      "tags": ["climate", "carbon credits", "sustainability", "marketplace", "blockchain"]
+    },
+    {
+      "id": 972,
+      "name": "Solar Panel Marketplace",
+      "description": "Connect homeowners with solar installers. Compare quotes and financing options.",
+      "revenue_model": "$500-2000 per installation referral",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Solar Energy",
+      "tags": ["solar", "renewable energy", "climate", "marketplace", "green"]
+    },
+    {
+      "id": 973,
+      "name": "EV Charging Network",
+      "description": "Network of electric vehicle charging stations with app for finding and paying.",
+      "revenue_model": "Markup on electricity + subscription plans",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Transportation",
+      "tags": ["EV", "charging", "electric vehicles", "climate", "infrastructure"]
+    },
+    {
+      "id": 974,
+      "name": "Sustainable Product Marketplace",
+      "description": "E-commerce platform exclusively for verified sustainable and eco-friendly products.",
+      "revenue_model": "15-20% commission on sales",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "E-commerce",
+      "tags": ["sustainable", "eco-friendly", "marketplace", "climate", "green"]
+    },
+    {
+      "id": 975,
+      "name": "Energy Monitoring System",
+      "description": "Smart home energy monitoring with AI recommendations to reduce consumption.",
+      "revenue_model": "$99-299 hardware + $9.99/month software",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Energy",
+      "tags": ["energy", "monitoring", "smart home", "climate", "IoT"]
+    },
+    {
+      "id": 976,
+      "name": "Composting Service",
+      "description": "Pickup and composting service for food waste with compost delivery back to customers.",
+      "revenue_model": "$15-30/month per household",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Waste Management",
+      "tags": ["composting", "waste", "sustainability", "climate", "service"]
+    },
+    {
+      "id": 977,
+      "name": "Reusable Packaging Platform",
+      "description": "Reusable packaging system for e-commerce with return logistics.",
+      "revenue_model": "$0.50-2.00 per package + deposits",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Packaging",
+      "tags": ["packaging", "reusable", "sustainability", "climate", "circular economy"]
+    },
+    {
+      "id": 978,
+      "name": "Green Building Certification",
+      "description": "Platform to help buildings get LEED or other green certifications with consulting.",
+      "revenue_model": "$5,000-50,000 per certification",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Construction",
+      "tags": ["green building", "LEED", "certification", "climate", "sustainability"]
+    },
+    {
+      "id": 979,
+      "name": "Water Conservation System",
+      "description": "Smart irrigation and water monitoring for homes and businesses to reduce water waste.",
+      "revenue_model": "$199-999 hardware + $14.99/month software",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Water",
+      "tags": ["water", "conservation", "smart", "climate", "IoT"]
+    },
+    {
+      "id": 980,
+      "name": "Sustainable Fashion Marketplace",
+      "description": "Platform for buying and selling sustainable, ethical, and second-hand fashion.",
+      "revenue_model": "15-20% commission on sales",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Fashion",
+      "tags": ["fashion", "sustainable", "marketplace", "climate", "circular economy"]
+    },
+    {
+      "id": 981,
+      "name": "Climate Risk Assessment Tool",
+      "description": "Assess climate risks for real estate, businesses, and investments.",
+      "revenue_model": "$99-999 per assessment",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Risk Assessment",
+      "tags": ["climate", "risk", "assessment", "analytics", "insurance"]
+    },
+    {
+      "id": 982,
+      "name": "Renewable Energy Trading Platform",
+      "description": "P2P platform for trading renewable energy credits and certificates.",
+      "revenue_model": "2-5% commission on trades",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Energy Trading",
+      "tags": ["renewable energy", "trading", "climate", "marketplace", "green"]
+    },
+    {
+      "id": 983,
+      "name": "Electric Bike Sharing",
+      "description": "Dockless e-bike sharing service for urban transportation.",
+      "revenue_model": "$1 unlock + $0.15-0.30 per minute",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Transportation",
+      "tags": ["e-bikes", "sharing", "transportation", "climate", "mobility"]
+    },
+    {
+      "id": 984,
+      "name": "Green Investment Platform",
+      "description": "Invest in climate-focused companies and projects with impact tracking.",
+      "revenue_model": "0.5-1% AUM + performance fees",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Finance",
+      "tags": ["investment", "climate", "green", "ESG", "finance"]
+    },
+    {
+      "id": 985,
+      "name": "Plastic-Free Store",
+      "description": "Zero-waste store selling products without plastic packaging.",
+      "revenue_model": "30-50% markup on products",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Retail",
+      "tags": ["plastic-free", "zero waste", "climate", "retail", "sustainable"]
+    },
+    {
+      "id": 986,
+      "name": "Urban Farming Platform",
+      "description": "Connect urban farmers with resources, education, and marketplace for produce.",
+      "revenue_model": "10-15% commission + subscription plans",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Agriculture",
+      "tags": ["urban farming", "agriculture", "climate", "food", "sustainable"]
+    },
+    {
+      "id": 987,
+      "name": "Eco-Tourism Booking Platform",
+      "description": "Book sustainable and eco-friendly travel experiences and accommodations.",
+      "revenue_model": "10-15% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Travel",
+      "tags": ["eco-tourism", "travel", "sustainable", "climate", "booking"]
+    },
+    {
+      "id": 988,
+      "name": "Green Delivery Service",
+      "description": "Last-mile delivery using electric vehicles and bikes with carbon-neutral shipping.",
+      "revenue_model": "$5-15 per delivery + subscriptions",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Logistics",
+      "tags": ["delivery", "green", "electric", "climate", "logistics"]
+    },
+    {
+      "id": 989,
+      "name": "Sustainable Packaging Supplier",
+      "description": "Manufacture and sell biodegradable and compostable packaging materials.",
+      "revenue_model": "40-80% markup on materials",
+      "difficulty": "Hard",
+      "sector": "Climate Tech",
+      "category": "Manufacturing",
+      "tags": ["packaging", "sustainable", "biodegradable", "climate", "materials"]
+    },
+    {
+      "id": 990,
+      "name": "Climate Education Platform",
+      "description": "Online courses and certifications on climate change, sustainability, and green careers.",
+      "revenue_model": "$49-299 per course + subscriptions",
+      "difficulty": "Medium",
+      "sector": "Climate Tech",
+      "category": "Education",
+      "tags": ["education", "climate", "sustainability", "courses", "learning"]
+    },
+    {
+      "id": 991,
+      "name": "Telemedicine Platform",
+      "description": "Video consultations with doctors, prescription delivery, and health records management.",
+      "revenue_model": "$29-79 per consultation + subscriptions",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Telehealth",
+      "tags": ["telemedicine", "healthcare", "telehealth", "doctors", "medical"]
+    },
+    {
+      "id": 992,
+      "name": "Mental Health App",
+      "description": "Therapy sessions, meditation, mood tracking, and mental health resources.",
+      "revenue_model": "$14.99-49.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Mental Health",
+      "tags": ["mental health", "therapy", "wellness", "healthcare", "app"]
+    },
+    {
+      "id": 993,
+      "name": "Prescription Delivery Service",
+      "description": "Same-day prescription delivery from pharmacies with medication reminders.",
+      "revenue_model": "$5-10 delivery fee + pharmacy partnerships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Pharmacy",
+      "tags": ["pharmacy", "delivery", "prescriptions", "healthcare", "service"]
+    },
+    {
+      "id": 994,
+      "name": "Health Records Platform",
+      "description": "Centralized personal health records accessible to patients and authorized providers.",
+      "revenue_model": "$4.99-14.99/month per user",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Health IT",
+      "tags": ["health records", "EHR", "healthcare", "data", "HIPAA"]
+    },
+    {
+      "id": 995,
+      "name": "Fitness Coaching App",
+      "description": "Personalized workout plans, nutrition tracking, and virtual coaching.",
+      "revenue_model": "$9.99-29.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Fitness",
+      "tags": ["fitness", "coaching", "workout", "health", "app"]
+    },
+    {
+      "id": 996,
+      "name": "Nutrition Tracking App",
+      "description": "Track meals, calories, macros with barcode scanning and restaurant database.",
+      "revenue_model": "Free basic + $6.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Nutrition",
+      "tags": ["nutrition", "tracking", "diet", "health", "calories"]
+    },
+    {
+      "id": 997,
+      "name": "Medical Appointment Booking",
+      "description": "Find and book appointments with doctors, dentists, and specialists online.",
+      "revenue_model": "$5-15 per booking from providers",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Scheduling",
+      "tags": ["appointments", "booking", "doctors", "healthcare", "scheduling"]
+    },
+    {
+      "id": 998,
+      "name": "Home Health Care Marketplace",
+      "description": "Connect patients with home health aides, nurses, and caregivers.",
+      "revenue_model": "15-20% commission on bookings",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Home Care",
+      "tags": ["home care", "caregivers", "healthcare", "marketplace", "elderly"]
+    },
+    {
+      "id": 999,
+      "name": "Medical Equipment Rental",
+      "description": "Rent medical equipment like wheelchairs, hospital beds, and mobility aids.",
+      "revenue_model": "$50-500/month per item",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Equipment",
+      "tags": ["medical equipment", "rental", "healthcare", "mobility", "service"]
+    },
+    {
+      "id": 1000,
+      "name": "Symptom Checker App",
+      "description": "AI-powered symptom checker with doctor recommendations. Not a replacement for medical advice.",
+      "revenue_model": "Free with ads + $4.99/month ad-free",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Diagnostics",
+      "tags": ["symptoms", "AI", "healthcare", "diagnostics", "app"]
+    },
+    {
+      "id": 1001,
+      "name": "Medication Reminder App",
+      "description": "Medication tracking with reminders, refill alerts, and drug interaction warnings.",
+      "revenue_model": "Free basic + $2.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Medication",
+      "tags": ["medication", "reminders", "healthcare", "adherence", "app"]
+    },
+    {
+      "id": 1002,
+      "name": "Dental Practice Management",
+      "description": "Software for dental practices - scheduling, billing, patient records, and imaging.",
+      "revenue_model": "$199-499/month per practice",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Dental",
+      "tags": ["dental", "practice management", "healthcare", "software", "SaaS"]
+    },
+    {
+      "id": 1003,
+      "name": "Medical Billing Software",
+      "description": "Automated medical billing and insurance claims processing for healthcare providers.",
+      "revenue_model": "$99-499/month + per claim fees",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Billing",
+      "tags": ["medical billing", "insurance", "healthcare", "claims", "software"]
+    },
+    {
+      "id": 1004,
+      "name": "Patient Engagement Platform",
+      "description": "Improve patient engagement with reminders, education, and communication tools.",
+      "revenue_model": "$3-8/patient/month",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Patient Engagement",
+      "tags": ["patient engagement", "healthcare", "communication", "education", "platform"]
+    },
+    {
+      "id": 1005,
+      "name": "Medical Transcription Service",
+      "description": "AI-powered medical transcription for doctor notes and patient records.",
+      "revenue_model": "$0.50-2.00 per audio minute",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Transcription",
+      "tags": ["transcription", "medical", "AI", "healthcare", "documentation"]
+    },
+    {
+      "id": 1006,
+      "name": "Clinical Trial Matching",
+      "description": "Match patients with relevant clinical trials based on conditions and eligibility.",
+      "revenue_model": "$500-5000 per patient enrollment",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Clinical Trials",
+      "tags": ["clinical trials", "matching", "healthcare", "research", "patients"]
+    },
+    {
+      "id": 1007,
+      "name": "Medical Imaging Analysis",
+      "description": "AI-powered analysis of X-rays, MRIs, and CT scans to assist radiologists.",
+      "revenue_model": "$10-50 per scan analyzed",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Radiology",
+      "tags": ["medical imaging", "AI", "radiology", "diagnostics", "healthcare"]
+    },
+    {
+      "id": 1008,
+      "name": "Chronic Disease Management",
+      "description": "Platform for managing chronic conditions like diabetes with tracking and coaching.",
+      "revenue_model": "$19.99-49.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Disease Management",
+      "tags": ["chronic disease", "diabetes", "healthcare", "management", "tracking"]
+    },
+    {
+      "id": 1009,
+      "name": "Fertility Tracking App",
+      "description": "Track ovulation, periods, and fertility with predictions and health insights.",
+      "revenue_model": "Free basic + $9.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Women's Health",
+      "tags": ["fertility", "women's health", "tracking", "healthcare", "app"]
+    },
+    {
+      "id": 1010,
+      "name": "Pregnancy Tracking App",
+      "description": "Week-by-week pregnancy tracking with health tips, appointment reminders, and community.",
+      "revenue_model": "Free with ads + $4.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Women's Health",
+      "tags": ["pregnancy", "tracking", "women's health", "healthcare", "app"]
+    },
+    {
+      "id": 1011,
+      "name": "Sleep Tracking App",
+      "description": "Monitor sleep quality, patterns, and get personalized improvement recommendations.",
+      "revenue_model": "Free basic + $6.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Sleep",
+      "tags": ["sleep", "tracking", "health", "wellness", "app"]
+    },
+    {
+      "id": 1012,
+      "name": "Addiction Recovery App",
+      "description": "Support for addiction recovery with tracking, community, and professional resources.",
+      "revenue_model": "$9.99-29.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Mental Health",
+      "tags": ["addiction", "recovery", "mental health", "healthcare", "support"]
+    },
+    {
+      "id": 1013,
+      "name": "Medical Alert System",
+      "description": "Wearable medical alert device with fall detection and emergency response.",
+      "revenue_model": "$29.99-49.99/month + device cost",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Safety",
+      "tags": ["medical alert", "safety", "elderly", "healthcare", "wearable"]
+    },
+    {
+      "id": 1014,
+      "name": "Health Insurance Comparison",
+      "description": "Compare health insurance plans and help users choose the best coverage.",
+      "revenue_model": "Commission from insurance providers",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Insurance",
+      "tags": ["health insurance", "comparison", "healthcare", "marketplace", "benefits"]
+    },
+    {
+      "id": 1015,
+      "name": "Medical Tourism Platform",
+      "description": "Connect patients with affordable medical procedures abroad with travel coordination.",
+      "revenue_model": "10-20% commission on procedures",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Medical Tourism",
+      "tags": ["medical tourism", "healthcare", "travel", "procedures", "international"]
+    },
+    {
+      "id": 1016,
+      "name": "Veterinary Telemedicine",
+      "description": "Video consultations with veterinarians for pet health concerns.",
+      "revenue_model": "$29-59 per consultation",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Veterinary",
+      "tags": ["veterinary", "telemedicine", "pets", "healthcare", "animals"]
+    },
+    {
+      "id": 1017,
+      "name": "Pet Health Records",
+      "description": "Digital health records for pets with vaccination tracking and vet appointment reminders.",
+      "revenue_model": "$2.99-9.99/month per pet",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Veterinary",
+      "tags": ["pets", "health records", "veterinary", "tracking", "app"]
+    },
+    {
+      "id": 1018,
+      "name": "Genetic Testing Service",
+      "description": "At-home genetic testing for ancestry, health risks, and personalized health insights.",
+      "revenue_model": "$99-299 per test kit",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Genetics",
+      "tags": ["genetic testing", "DNA", "health", "ancestry", "personalized"]
+    },
+    {
+      "id": 1019,
+      "name": "Wellness Retreat Booking",
+      "description": "Book wellness retreats, spa getaways, and health-focused vacations.",
+      "revenue_model": "10-15% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["wellness", "retreats", "spa", "health", "travel"]
+    },
+    {
+      "id": 1020,
+      "name": "Massage Therapy Marketplace",
+      "description": "Book massage therapists for home or office visits with scheduling and payments.",
+      "revenue_model": "20-25% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["massage", "therapy", "wellness", "marketplace", "booking"]
+    },
+    {
+      "id": 1021,
+      "name": "Yoga Class Platform",
+      "description": "Live and on-demand yoga classes with various styles and difficulty levels.",
+      "revenue_model": "$14.99-29.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Fitness",
+      "tags": ["yoga", "fitness", "wellness", "classes", "streaming"]
+    },
+    {
+      "id": 1022,
+      "name": "Meditation App",
+      "description": "Guided meditations, breathing exercises, and mindfulness training.",
+      "revenue_model": "Free basic + $9.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Mental Health",
+      "tags": ["meditation", "mindfulness", "mental health", "wellness", "app"]
+    },
+    {
+      "id": 1023,
+      "name": "Posture Correction App",
+      "description": "Use phone camera to analyze and improve posture with exercises and reminders.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["posture", "health", "wellness", "exercises", "app"]
+    },
+    {
+      "id": 1024,
+      "name": "Hydration Reminder App",
+      "description": "Track water intake with smart reminders based on activity and weather.",
+      "revenue_model": "Free with ads + $1.99 ad removal",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["hydration", "water", "health", "tracking", "app"]
+    },
+    {
+      "id": 1025,
+      "name": "Ergonomic Assessment Service",
+      "description": "Virtual ergonomic assessments for home offices with product recommendations.",
+      "revenue_model": "$49-149 per assessment",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Occupational Health",
+      "tags": ["ergonomics", "health", "office", "assessment", "remote work"]
+    },
+    {
+      "id": 1026,
+      "name": "Corporate Wellness Platform",
+      "description": "Employee wellness programs with challenges, rewards, and health tracking.",
+      "revenue_model": "$5-15/employee/month",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Corporate Wellness",
+      "tags": ["corporate wellness", "employee health", "benefits", "platform", "engagement"]
+    },
+    {
+      "id": 1027,
+      "name": "Health Coaching Platform",
+      "description": "Connect clients with certified health coaches for personalized wellness plans.",
+      "revenue_model": "20-30% commission on sessions",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Coaching",
+      "tags": ["health coaching", "wellness", "nutrition", "fitness", "marketplace"]
+    },
+    {
+      "id": 1028,
+      "name": "Meal Prep for Medical Diets",
+      "description": "Prepared meals for specific medical diets (diabetic, renal, cardiac, etc.).",
+      "revenue_model": "$10-15 per meal + delivery",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Nutrition",
+      "tags": ["meal prep", "medical diets", "nutrition", "health", "delivery"]
+    },
+    {
+      "id": 1029,
+      "name": "Supplement Subscription Box",
+      "description": "Personalized vitamin and supplement subscriptions based on health goals.",
+      "revenue_model": "$29-79/month per subscriber",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Supplements",
+      "tags": ["supplements", "vitamins", "subscription", "health", "personalized"]
+    },
+    {
+      "id": 1030,
+      "name": "Blood Pressure Monitoring App",
+      "description": "Track blood pressure readings with trends, medication reminders, and doctor sharing.",
+      "revenue_model": "Free basic + $3.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Monitoring",
+      "tags": ["blood pressure", "monitoring", "health", "tracking", "app"]
+    },
+    {
+      "id": 1031,
+      "name": "Diabetes Management App",
+      "description": "Track blood sugar, carbs, insulin with AI-powered insights and predictions.",
+      "revenue_model": "Free basic + $9.99/month premium",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Disease Management",
+      "tags": ["diabetes", "blood sugar", "health", "tracking", "AI"]
+    },
+    {
+      "id": 1032,
+      "name": "Allergy Tracking App",
+      "description": "Track allergies, symptoms, and triggers with pollen forecasts and alerts.",
+      "revenue_model": "Free with ads + $4.99/month premium",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Allergies",
+      "tags": ["allergies", "tracking", "health", "symptoms", "app"]
+    },
+    {
+      "id": 1033,
+      "name": "Migraine Tracker",
+      "description": "Track migraines, triggers, and treatments with pattern analysis.",
+      "revenue_model": "Free basic + $5.99/month premium",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Pain Management",
+      "tags": ["migraine", "headache", "tracking", "health", "app"]
+    },
+    {
+      "id": 1034,
+      "name": "Physical Therapy App",
+      "description": "Guided physical therapy exercises with video demonstrations and progress tracking.",
+      "revenue_model": "$9.99-24.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Physical Therapy",
+      "tags": ["physical therapy", "exercises", "rehabilitation", "health", "app"]
+    },
+    {
+      "id": 1035,
+      "name": "Hearing Test App",
+      "description": "At-home hearing tests with results and recommendations for professional care.",
+      "revenue_model": "Free basic test + $9.99 detailed report",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Audiology",
+      "tags": ["hearing", "test", "audiology", "health", "app"]
+    },
+    {
+      "id": 1036,
+      "name": "Vision Test App",
+      "description": "Basic vision screening tests with recommendations for eye exams.",
+      "revenue_model": "Free with ads + $2.99 ad-free",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Ophthalmology",
+      "tags": ["vision", "eye test", "health", "screening", "app"]
+    },
+    {
+      "id": 1037,
+      "name": "First Aid Guide App",
+      "description": "Step-by-step first aid instructions with emergency contact integration.",
+      "revenue_model": "Free with ads + $4.99 offline access",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Emergency",
+      "tags": ["first aid", "emergency", "health", "safety", "app"]
+    },
+    {
+      "id": 1038,
+      "name": "CPR Training Platform",
+      "description": "Online CPR and first aid certification courses with video training.",
+      "revenue_model": "$29-79 per certification",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Training",
+      "tags": ["CPR", "training", "certification", "first aid", "education"]
+    },
+    {
+      "id": 1039,
+      "name": "Medical Terminology Course",
+      "description": "Learn medical terminology for healthcare careers or personal knowledge.",
+      "revenue_model": "$49-149 per course",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Education",
+      "tags": ["medical terminology", "education", "healthcare", "course", "learning"]
+    },
+    {
+      "id": 1040,
+      "name": "Healthcare Job Board",
+      "description": "Specialized job board for healthcare professionals - nurses, doctors, technicians.",
+      "revenue_model": "$199-999 per job posting",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Recruitment",
+      "tags": ["jobs", "healthcare", "recruitment", "careers", "marketplace"]
+    },
+    {
+      "id": 1041,
+      "name": "Medical Scrubs E-commerce",
+      "description": "Online store for medical scrubs and healthcare apparel with customization.",
+      "revenue_model": "40-80% markup on products",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "E-commerce",
+      "tags": ["scrubs", "medical apparel", "healthcare", "e-commerce", "uniforms"]
+    },
+    {
+      "id": 1042,
+      "name": "Healthcare Staffing Agency",
+      "description": "Connect healthcare facilities with temporary and permanent staff.",
+      "revenue_model": "20-40% markup on hourly rates",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Staffing",
+      "tags": ["staffing", "healthcare", "recruitment", "nurses", "agency"]
+    },
+    {
+      "id": 1043,
+      "name": "Medical Waste Disposal",
+      "description": "Compliant medical waste pickup and disposal service for healthcare facilities.",
+      "revenue_model": "$100-1000/month per facility",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Waste Management",
+      "tags": ["medical waste", "disposal", "healthcare", "compliance", "service"]
+    },
+    {
+      "id": 1044,
+      "name": "Healthcare Compliance Software",
+      "description": "Help healthcare organizations maintain HIPAA and regulatory compliance.",
+      "revenue_model": "$199-999/month based on organization size",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Compliance",
+      "tags": ["compliance", "HIPAA", "healthcare", "software", "regulations"]
+    },
+    {
+      "id": 1045,
+      "name": "Medical Device Marketplace",
+      "description": "B2B marketplace for buying and selling new and refurbished medical equipment.",
+      "revenue_model": "5-10% commission on sales",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Equipment",
+      "tags": ["medical devices", "equipment", "marketplace", "healthcare", "B2B"]
+    },
+    {
+      "id": 1046,
+      "name": "Pharmacy Management System",
+      "description": "Software for pharmacy operations - inventory, prescriptions, billing, and compliance.",
+      "revenue_model": "$299-999/month per pharmacy",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Pharmacy",
+      "tags": ["pharmacy", "management", "software", "healthcare", "SaaS"]
+    },
+    {
+      "id": 1047,
+      "name": "Lab Results Portal",
+      "description": "Patient portal for accessing lab results with explanations and trends.",
+      "revenue_model": "$2-5 per patient per month",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Lab Services",
+      "tags": ["lab results", "portal", "healthcare", "patients", "diagnostics"]
+    },
+    {
+      "id": 1048,
+      "name": "Medical Coding Service",
+      "description": "Outsourced medical coding for healthcare providers with certified coders.",
+      "revenue_model": "$2-8 per chart coded",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Billing",
+      "tags": ["medical coding", "billing", "healthcare", "service", "outsourcing"]
+    },
+    {
+      "id": 1049,
+      "name": "Healthcare Chatbot",
+      "description": "AI chatbot for patient triage, appointment scheduling, and basic health questions.",
+      "revenue_model": "$99-499/month based on conversations",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "AI",
+      "tags": ["chatbot", "AI", "healthcare", "patient engagement", "automation"]
+    },
+    {
+      "id": 1050,
+      "name": "Remote Patient Monitoring",
+      "description": "IoT devices and platform for monitoring patients remotely with alerts to providers.",
+      "revenue_model": "$50-200/patient/month",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Remote Monitoring",
+      "tags": ["remote monitoring", "IoT", "healthcare", "patients", "telehealth"]
+    },
+    {
+      "id": 1051,
+      "name": "Hospital Bed Management",
+      "description": "Software to optimize hospital bed allocation and patient flow.",
+      "revenue_model": "$5,000-20,000/month per hospital",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Hospital Operations",
+      "tags": ["hospital", "bed management", "healthcare", "operations", "software"]
+    },
+    {
+      "id": 1052,
+      "name": "Medical Interpreter Service",
+      "description": "On-demand medical interpreters via video or phone for healthcare facilities.",
+      "revenue_model": "$2-5 per minute of interpretation",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Language Services",
+      "tags": ["interpretation", "language", "healthcare", "medical", "service"]
+    },
+    {
+      "id": 1053,
+      "name": "Healthcare Marketing Agency",
+      "description": "Specialized marketing services for healthcare providers and medical practices.",
+      "revenue_model": "$2,000-10,000/month retainers",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Marketing",
+      "tags": ["marketing", "healthcare", "agency", "medical", "digital"]
+    },
+    {
+      "id": 1054,
+      "name": "Medical Photography Service",
+      "description": "Professional medical photography for documentation, education, and publications.",
+      "revenue_model": "$200-1000 per session",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Photography",
+      "tags": ["photography", "medical", "healthcare", "documentation", "service"]
+    },
+    {
+      "id": 1055,
+      "name": "Healthcare Podcast Network",
+      "description": "Network of healthcare-focused podcasts with advertising and sponsorship opportunities.",
+      "revenue_model": "Ad revenue + sponsorships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Media",
+      "tags": ["podcast", "healthcare", "media", "education", "content"]
+    },
+    {
+      "id": 1056,
+      "name": "Medical Animation Studio",
+      "description": "Create medical animations for education, patient communication, and marketing.",
+      "revenue_model": "$5,000-50,000 per animation",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Animation",
+      "tags": ["animation", "medical", "healthcare", "education", "3D"]
+    },
+    {
+      "id": 1057,
+      "name": "Healthcare Data Analytics",
+      "description": "Advanced analytics for healthcare organizations to improve outcomes and reduce costs.",
+      "revenue_model": "$10,000-100,000/month based on data volume",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Analytics",
+      "tags": ["analytics", "data", "healthcare", "insights", "AI"]
+    },
+    {
+      "id": 1058,
+      "name": "Medical Research Platform",
+      "description": "Platform connecting researchers with participants for clinical studies.",
+      "revenue_model": "$1,000-10,000 per study posted",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Research",
+      "tags": ["research", "clinical trials", "healthcare", "platform", "participants"]
+    },
+    {
+      "id": 1059,
+      "name": "Healthcare Cybersecurity",
+      "description": "Specialized cybersecurity services for healthcare organizations and HIPAA compliance.",
+      "revenue_model": "$5,000-50,000/month based on size",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Security",
+      "tags": ["cybersecurity", "healthcare", "HIPAA", "security", "compliance"]
+    },
+    {
+      "id": 1060,
+      "name": "Medical Legal Consulting",
+      "description": "Expert medical testimony and consulting for legal cases.",
+      "revenue_model": "$300-800 per hour",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Legal",
+      "tags": ["medical legal", "consulting", "expert witness", "healthcare", "testimony"]
+    },
+    {
+      "id": 1061,
+      "name": "Healthcare Real Estate",
+      "description": "Specialize in buying, selling, and leasing medical office spaces.",
+      "revenue_model": "5-6% commission on transactions",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Real Estate",
+      "tags": ["real estate", "healthcare", "medical offices", "commercial", "leasing"]
+    },
+    {
+      "id": 1062,
+      "name": "Medical Practice Consulting",
+      "description": "Help medical practices improve operations, billing, and patient satisfaction.",
+      "revenue_model": "$5,000-25,000 per engagement",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Consulting",
+      "tags": ["consulting", "medical practice", "healthcare", "operations", "management"]
+    },
+    {
+      "id": 1063,
+      "name": "Healthcare Credentialing Service",
+      "description": "Handle provider credentialing and enrollment with insurance networks.",
+      "revenue_model": "$500-2000 per provider",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Credentialing",
+      "tags": ["credentialing", "healthcare", "providers", "insurance", "service"]
+    },
+    {
+      "id": 1064,
+      "name": "Medical Answering Service",
+      "description": "24/7 answering service specifically for medical practices with HIPAA compliance.",
+      "revenue_model": "$200-1000/month per practice",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Answering Service",
+      "tags": ["answering service", "medical", "healthcare", "HIPAA", "24/7"]
+    },
+    {
+      "id": 1065,
+      "name": "Healthcare Laundry Service",
+      "description": "Commercial laundry service for hospitals, clinics, and medical facilities.",
+      "revenue_model": "$0.50-2.00 per pound",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Laundry",
+      "tags": ["laundry", "healthcare", "medical", "commercial", "service"]
+    },
+    {
+      "id": 1066,
+      "name": "Medical Courier Service",
+      "description": "Specialized courier for medical specimens, documents, and supplies.",
+      "revenue_model": "$10-50 per delivery",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Logistics",
+      "tags": ["courier", "medical", "healthcare", "delivery", "logistics"]
+    },
+    {
+      "id": 1067,
+      "name": "Healthcare Vending Machines",
+      "description": "Smart vending machines for hospitals with healthy snacks and medical supplies.",
+      "revenue_model": "40-60% markup on products",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Vending",
+      "tags": ["vending machines", "healthcare", "hospital", "snacks", "supplies"]
+    },
+    {
+      "id": 1068,
+      "name": "Medical Uniform Rental",
+      "description": "Rental and cleaning service for medical scrubs and lab coats.",
+      "revenue_model": "$15-30/month per employee",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Uniform Rental",
+      "tags": ["uniform rental", "scrubs", "healthcare", "medical", "service"]
+    },
+    {
+      "id": 1069,
+      "name": "Healthcare Furniture Supplier",
+      "description": "Specialized furniture for medical facilities - exam tables, waiting room, etc.",
+      "revenue_model": "30-60% markup on furniture",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Furniture",
+      "tags": ["furniture", "healthcare", "medical", "equipment", "supplier"]
+    },
+    {
+      "id": 1070,
+      "name": "Medical Simulation Training",
+      "description": "VR/AR medical training simulations for healthcare professionals.",
+      "revenue_model": "$10,000-100,000 per license",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Training",
+      "tags": ["simulation", "VR", "training", "healthcare", "medical education"]
+    },
+    {
+      "id": 1071,
+      "name": "Healthcare Podcast Production",
+      "description": "Produce podcasts for healthcare organizations and medical professionals.",
+      "revenue_model": "$2,000-10,000 per episode",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Media Production",
+      "tags": ["podcast", "production", "healthcare", "medical", "content"]
+    },
+    {
+      "id": 1072,
+      "name": "Medical Conference Organizer",
+      "description": "Organize medical conferences, CME events, and healthcare symposiums.",
+      "revenue_model": "Ticket sales + sponsorships",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Events",
+      "tags": ["conferences", "events", "healthcare", "medical", "CME"]
+    },
+    {
+      "id": 1073,
+      "name": "Healthcare Newsletter",
+      "description": "Curated newsletter for healthcare professionals with industry news and insights.",
+      "revenue_model": "Sponsorships + premium subscriptions",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Media",
+      "tags": ["newsletter", "healthcare", "medical", "news", "content"]
+    },
+    {
+      "id": 1074,
+      "name": "Medical Illustration Service",
+      "description": "Create medical illustrations for textbooks, journals, and patient education.",
+      "revenue_model": "$500-5000 per illustration",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Illustration",
+      "tags": ["illustration", "medical", "healthcare", "art", "education"]
+    },
+    {
+      "id": 1075,
+      "name": "Healthcare Grant Writing",
+      "description": "Write grant proposals for healthcare organizations and research institutions.",
+      "revenue_model": "$5,000-25,000 per grant + success fee",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Grant Writing",
+      "tags": ["grant writing", "healthcare", "funding", "research", "nonprofit"]
+    },
+    {
+      "id": 1076,
+      "name": "Medical Device Repair",
+      "description": "Repair and maintenance service for medical equipment and devices.",
+      "revenue_model": "$100-1000 per repair + service contracts",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Equipment Repair",
+      "tags": ["repair", "medical devices", "healthcare", "equipment", "service"]
+    },
+    {
+      "id": 1077,
+      "name": "Healthcare Interior Design",
+      "description": "Specialized interior design for medical offices, clinics, and hospitals.",
+      "revenue_model": "$5,000-100,000 per project",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Interior Design",
+      "tags": ["interior design", "healthcare", "medical offices", "clinics", "design"]
+    },
+    {
+      "id": 1078,
+      "name": "Medical Spa Services",
+      "description": "Medical spa offering cosmetic treatments, Botox, fillers, and laser treatments.",
+      "revenue_model": "$200-2000 per treatment",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Medical Spa",
+      "tags": ["medical spa", "cosmetic", "aesthetics", "healthcare", "beauty"]
+    },
+    {
+      "id": 1079,
+      "name": "IV Therapy Service",
+      "description": "Mobile IV hydration and vitamin therapy for wellness and recovery.",
+      "revenue_model": "$100-300 per session",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["IV therapy", "hydration", "wellness", "mobile", "healthcare"]
+    },
+    {
+      "id": 1080,
+      "name": "Cryotherapy Studio",
+      "description": "Whole body cryotherapy for recovery, wellness, and athletic performance.",
+      "revenue_model": "$40-80 per session + memberships",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["cryotherapy", "wellness", "recovery", "fitness", "healthcare"]
+    },
+    {
+      "id": 1081,
+      "name": "Float Therapy Center",
+      "description": "Sensory deprivation float tanks for relaxation and stress relief.",
+      "revenue_model": "$50-100 per session + memberships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["float therapy", "wellness", "relaxation", "spa", "mental health"]
+    },
+    {
+      "id": 1082,
+      "name": "Infrared Sauna Studio",
+      "description": "Infrared sauna sessions for detox, relaxation, and health benefits.",
+      "revenue_model": "$30-60 per session + memberships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["sauna", "infrared", "wellness", "detox", "health"]
+    },
+    {
+      "id": 1083,
+      "name": "Oxygen Bar",
+      "description": "Recreational oxygen therapy with aromatherapy for energy and wellness.",
+      "revenue_model": "$15-30 per session",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["oxygen bar", "wellness", "aromatherapy", "health", "relaxation"]
+    },
+    {
+      "id": 1084,
+      "name": "Compression Therapy Studio",
+      "description": "Pneumatic compression therapy for recovery and circulation.",
+      "revenue_model": "$30-60 per session + memberships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Recovery",
+      "tags": ["compression therapy", "recovery", "wellness", "fitness", "circulation"]
+    },
+    {
+      "id": 1085,
+      "name": "Red Light Therapy Center",
+      "description": "Red light therapy for skin health, pain relief, and anti-aging.",
+      "revenue_model": "$25-50 per session + memberships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["red light therapy", "wellness", "skin", "anti-aging", "health"]
+    },
+    {
+      "id": 1086,
+      "name": "Halotherapy Salt Room",
+      "description": "Salt therapy rooms for respiratory health and skin conditions.",
+      "revenue_model": "$30-50 per session + memberships",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["halotherapy", "salt therapy", "wellness", "respiratory", "health"]
+    },
+    {
+      "id": 1087,
+      "name": "Cupping Therapy Service",
+      "description": "Traditional cupping therapy for pain relief and muscle recovery.",
+      "revenue_model": "$50-100 per session",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["cupping", "therapy", "alternative medicine", "pain relief", "wellness"]
+    },
+    {
+      "id": 1088,
+      "name": "Acupuncture Clinic",
+      "description": "Traditional acupuncture services for pain management and wellness.",
+      "revenue_model": "$60-120 per session",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["acupuncture", "alternative medicine", "pain management", "wellness", "TCM"]
+    },
+    {
+      "id": 1089,
+      "name": "Chiropractic Software",
+      "description": "Practice management software specifically for chiropractors.",
+      "revenue_model": "$149-399/month per practice",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Software",
+      "tags": ["chiropractic", "software", "practice management", "healthcare", "SaaS"]
+    },
+    {
+      "id": 1090,
+      "name": "Naturopathic Clinic",
+      "description": "Natural medicine clinic offering holistic health treatments and consultations.",
+      "revenue_model": "$100-200 per consultation",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["naturopathic", "alternative medicine", "holistic", "wellness", "natural"]
+    },
+    {
+      "id": 1091,
+      "name": "Functional Medicine Practice",
+      "description": "Root-cause focused medical practice with comprehensive testing and personalized treatment.",
+      "revenue_model": "$300-500 initial + $150-300 follow-ups",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Functional Medicine",
+      "tags": ["functional medicine", "healthcare", "holistic", "personalized", "wellness"]
+    },
+    {
+      "id": 1092,
+      "name": "Integrative Medicine Center",
+      "description": "Combine conventional and alternative medicine approaches for comprehensive care.",
+      "revenue_model": "$150-300 per visit",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Integrative Medicine",
+      "tags": ["integrative medicine", "healthcare", "holistic", "alternative", "wellness"]
+    },
+    {
+      "id": 1093,
+      "name": "Ayurvedic Wellness Center",
+      "description": "Traditional Ayurvedic treatments, consultations, and wellness programs.",
+      "revenue_model": "$80-200 per session",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["Ayurveda", "alternative medicine", "wellness", "holistic", "traditional"]
+    },
+    {
+      "id": 1094,
+      "name": "Reiki Healing Practice",
+      "description": "Energy healing sessions and Reiki training courses.",
+      "revenue_model": "$60-120 per session + course fees",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["Reiki", "energy healing", "alternative medicine", "wellness", "spiritual"]
+    },
+    {
+      "id": 1095,
+      "name": "Sound Healing Studio",
+      "description": "Sound bath sessions using singing bowls, gongs, and other instruments for healing.",
+      "revenue_model": "$30-60 per session + private sessions",
+      "difficulty": "Easy",
+      "sector": "Healthcare",
+      "category": "Alternative Medicine",
+      "tags": ["sound healing", "wellness", "meditation", "alternative medicine", "relaxation"]
+    },
+    {
+      "id": 1096,
+      "name": "Breathwork Facilitator",
+      "description": "Guided breathwork sessions for stress relief, trauma healing, and wellness.",
+      "revenue_model": "$40-100 per session + workshops",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Wellness",
+      "tags": ["breathwork", "wellness", "stress relief", "healing", "meditation"]
+    },
+    {
+      "id": 1097,
+      "name": "Hypnotherapy Practice",
+      "description": "Clinical hypnotherapy for smoking cessation, weight loss, anxiety, and phobias.",
+      "revenue_model": "$100-250 per session",
+      "difficulty": "Medium",
+      "sector": "Healthcare",
+      "category": "Mental Health",
+      "tags": ["hypnotherapy", "mental health", "therapy", "wellness", "alternative"]
+    },
+    {
+      "id": 1098,
+      "name": "Art Therapy Practice",
+      "description": "Use art as therapeutic tool for mental health and emotional healing.",
+      "revenue_model": "$80-150 per session",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Mental Health",
+      "tags": ["art therapy", "mental health", "therapy", "creative", "healing"]
+    },
+    {
+      "id": 1099,
+      "name": "Music Therapy Service",
+      "description": "Therapeutic music sessions for mental health, autism, and neurological conditions.",
+      "revenue_model": "$70-140 per session",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Therapy",
+      "tags": ["music therapy", "mental health", "therapy", "autism", "neurological"]
+    },
+    {
+      "id": 1100,
+      "name": "Equine Therapy Program",
+      "description": "Horse-assisted therapy for mental health, trauma, and developmental disorders.",
+      "revenue_model": "$100-200 per session",
+      "difficulty": "Hard",
+      "sector": "Healthcare",
+      "category": "Therapy",
+      "tags": ["equine therapy", "mental health", "therapy", "horses", "trauma"]
+    }
+  ]
+}
