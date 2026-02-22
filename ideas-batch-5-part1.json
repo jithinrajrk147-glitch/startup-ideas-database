@@ -1,0 +1,1508 @@
+{
+  "batch": "5-part1",
+  "ideas_range": "1401-1550",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 1401,
+      "name": "Social Media Management",
+      "description": "Manage social media accounts for small businesses - content creation, posting, engagement.",
+      "revenue_model": "$300-2000/month per client",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Social Media",
+      "tags": ["zero investment", "social media", "freelance", "marketing", "remote"]
+    },
+    {
+      "id": 1402,
+      "name": "Virtual Assistant Services",
+      "description": "Provide administrative support remotely - email, scheduling, data entry, research.",
+      "revenue_model": "$15-50/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Virtual Assistant",
+      "tags": ["zero investment", "VA", "remote", "freelance", "admin"]
+    },
+    {
+      "id": 1403,
+      "name": "Freelance Writing",
+      "description": "Write blog posts, articles, website copy, and marketing content for clients.",
+      "revenue_model": "$0.05-0.50 per word or $50-500 per article",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Writing",
+      "tags": ["zero investment", "writing", "freelance", "content", "remote"]
+    },
+    {
+      "id": 1404,
+      "name": "Resume Writing Service",
+      "description": "Write professional resumes and cover letters for job seekers.",
+      "revenue_model": "$50-300 per resume",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Career Services",
+      "tags": ["zero investment", "resume", "writing", "career", "freelance"]
+    },
+    {
+      "id": 1405,
+      "name": "Online Tutoring",
+      "description": "Tutor students online in subjects you're knowledgeable about.",
+      "revenue_model": "$20-80/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Tutoring",
+      "tags": ["zero investment", "tutoring", "education", "online", "teaching"]
+    },
+    {
+      "id": 1406,
+      "name": "Language Translation",
+      "description": "Translate documents and content between languages you're fluent in.",
+      "revenue_model": "$0.05-0.25 per word",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Translation",
+      "tags": ["zero investment", "translation", "language", "freelance", "remote"]
+    },
+    {
+      "id": 1407,
+      "name": "Proofreading & Editing",
+      "description": "Proofread and edit documents, books, articles, and academic papers.",
+      "revenue_model": "$20-50/hour or per project",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Editing",
+      "tags": ["zero investment", "proofreading", "editing", "freelance", "writing"]
+    },
+    {
+      "id": 1408,
+      "name": "Transcription Services",
+      "description": "Transcribe audio and video files to text for clients.",
+      "revenue_model": "$15-30/audio hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Transcription",
+      "tags": ["zero investment", "transcription", "freelance", "remote", "typing"]
+    },
+    {
+      "id": 1409,
+      "name": "Data Entry Services",
+      "description": "Provide data entry services for businesses needing digital organization.",
+      "revenue_model": "$10-25/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Data Entry",
+      "tags": ["zero investment", "data entry", "freelance", "remote", "admin"]
+    },
+    {
+      "id": 1410,
+      "name": "Email Marketing Consultant",
+      "description": "Help businesses create and manage email marketing campaigns.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Email Marketing",
+      "tags": ["zero investment", "email marketing", "consulting", "freelance", "digital marketing"]
+    },
+    {
+      "id": 1411,
+      "name": "SEO Consulting",
+      "description": "Help businesses improve their search engine rankings and organic traffic.",
+      "revenue_model": "$500-5000/month per client",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "SEO",
+      "tags": ["zero investment", "SEO", "consulting", "digital marketing", "freelance"]
+    },
+    {
+      "id": 1412,
+      "name": "YouTube Channel Consulting",
+      "description": "Help YouTubers grow their channels with strategy, optimization, and content ideas.",
+      "revenue_model": "$300-2000/month per client",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "YouTube",
+      "tags": ["zero investment", "YouTube", "consulting", "content", "video"]
+    },
+    {
+      "id": 1413,
+      "name": "Podcast Editing",
+      "description": "Edit podcasts for creators - audio cleanup, music, show notes.",
+      "revenue_model": "$50-200 per episode",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Podcast",
+      "tags": ["zero investment", "podcast", "editing", "audio", "freelance"]
+    },
+    {
+      "id": 1414,
+      "name": "Graphic Design Freelancing",
+      "description": "Create logos, social media graphics, and marketing materials using free tools.",
+      "revenue_model": "$50-500 per project",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Graphic Design",
+      "tags": ["low investment", "graphic design", "freelance", "creative", "remote"]
+    },
+    {
+      "id": 1415,
+      "name": "Canva Template Creator",
+      "description": "Create and sell Canva templates for social media, presentations, and marketing.",
+      "revenue_model": "$5-50 per template",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Templates",
+      "tags": ["zero investment", "Canva", "templates", "design", "passive income"]
+    },
+    {
+      "id": 1416,
+      "name": "Notion Template Seller",
+      "description": "Create and sell Notion templates for productivity, planning, and organization.",
+      "revenue_model": "$5-100 per template",
+      "difficulty": "Easy",
+      "sector": "Productivity",
+      "category": "Templates",
+      "tags": ["zero investment", "Notion", "templates", "productivity", "passive income"]
+    },
+    {
+      "id": 1417,
+      "name": "Online Course Creator",
+      "description": "Create and sell online courses on platforms like Udemy, Teachable, or Gumroad.",
+      "revenue_model": "$10-200 per course sale",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Online Courses",
+      "tags": ["low investment", "online courses", "education", "passive income", "teaching"]
+    },
+    {
+      "id": 1418,
+      "name": "eBook Author",
+      "description": "Write and self-publish eBooks on Amazon Kindle or other platforms.",
+      "revenue_model": "$2.99-9.99 per book sale",
+      "difficulty": "Medium",
+      "sector": "Publishing",
+      "category": "eBooks",
+      "tags": ["zero investment", "ebook", "writing", "self-publishing", "passive income"]
+    },
+    {
+      "id": 1419,
+      "name": "Affiliate Marketing Blog",
+      "description": "Create a niche blog and earn commissions promoting products through affiliate links.",
+      "revenue_model": "5-30% commission on sales",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Affiliate Marketing",
+      "tags": ["low investment", "affiliate marketing", "blogging", "passive income", "content"]
+    },
+    {
+      "id": 1420,
+      "name": "YouTube Content Creator",
+      "description": "Create YouTube videos and monetize through ads, sponsorships, and affiliate links.",
+      "revenue_model": "$3-10 per 1000 views + sponsorships",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "YouTube",
+      "tags": ["zero investment", "YouTube", "content creation", "video", "monetization"]
+    },
+    {
+      "id": 1421,
+      "name": "TikTok Content Creator",
+      "description": "Create viral TikTok content and monetize through Creator Fund and brand deals.",
+      "revenue_model": "$0.02-0.04 per 1000 views + brand deals",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "TikTok",
+      "tags": ["zero investment", "TikTok", "content creation", "social media", "viral"]
+    },
+    {
+      "id": 1422,
+      "name": "Instagram Theme Page",
+      "description": "Build niche Instagram pages and monetize through shoutouts and affiliate marketing.",
+      "revenue_model": "$50-500 per sponsored post",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Instagram",
+      "tags": ["zero investment", "Instagram", "theme page", "social media", "monetization"]
+    },
+    {
+      "id": 1423,
+      "name": "Pinterest Marketing Service",
+      "description": "Help businesses grow on Pinterest with pin design and strategy.",
+      "revenue_model": "$300-1500/month per client",
+      "difficulty": "Easy",
+      "sector": "Marketing",
+      "category": "Pinterest",
+      "tags": ["zero investment", "Pinterest", "marketing", "social media", "freelance"]
+    },
+    {
+      "id": 1424,
+      "name": "LinkedIn Ghostwriting",
+      "description": "Write LinkedIn posts and articles for executives and professionals.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Ghostwriting",
+      "tags": ["zero investment", "LinkedIn", "ghostwriting", "content", "B2B"]
+    },
+    {
+      "id": 1425,
+      "name": "Twitter Thread Writer",
+      "description": "Create engaging Twitter threads for brands and thought leaders.",
+      "revenue_model": "$50-300 per thread",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Twitter",
+      "tags": ["zero investment", "Twitter", "threads", "content", "social media"]
+    },
+    {
+      "id": 1426,
+      "name": "Newsletter Writer",
+      "description": "Write newsletters for businesses and creators on Substack or other platforms.",
+      "revenue_model": "$300-2000/month per client",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Newsletter",
+      "tags": ["zero investment", "newsletter", "writing", "content", "email"]
+    },
+    {
+      "id": 1427,
+      "name": "Substack Newsletter",
+      "description": "Start a paid newsletter on Substack about your area of expertise.",
+      "revenue_model": "$5-20/month per subscriber",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Newsletter",
+      "tags": ["zero investment", "Substack", "newsletter", "writing", "subscription"]
+    },
+    {
+      "id": 1428,
+      "name": "Medium Writer",
+      "description": "Write articles on Medium and earn through the Partner Program.",
+      "revenue_model": "$0.01-0.10 per read",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Writing",
+      "tags": ["zero investment", "Medium", "writing", "blogging", "passive income"]
+    },
+    {
+      "id": 1429,
+      "name": "Quora Partner",
+      "description": "Answer questions on Quora and earn through the Partner Program.",
+      "revenue_model": "$0.10-5.00 per question",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Q&A",
+      "tags": ["zero investment", "Quora", "writing", "answers", "monetization"]
+    },
+    {
+      "id": 1430,
+      "name": "Reddit Community Manager",
+      "description": "Manage Reddit communities for brands and businesses.",
+      "revenue_model": "$300-1500/month per client",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Reddit",
+      "tags": ["zero investment", "Reddit", "community", "social media", "management"]
+    },
+    {
+      "id": 1431,
+      "name": "Discord Community Manager",
+      "description": "Build and manage Discord communities for brands, creators, and projects.",
+      "revenue_model": "$500-2000/month per community",
+      "difficulty": "Easy",
+      "sector": "Community",
+      "category": "Discord",
+      "tags": ["zero investment", "Discord", "community", "management", "moderation"]
+    },
+    {
+      "id": 1432,
+      "name": "Telegram Channel Manager",
+      "description": "Grow and monetize Telegram channels through ads and premium content.",
+      "revenue_model": "$100-1000/month from ads",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Telegram",
+      "tags": ["zero investment", "Telegram", "channel", "social media", "monetization"]
+    },
+    {
+      "id": 1433,
+      "name": "WhatsApp Business Consultant",
+      "description": "Help businesses set up and optimize WhatsApp Business for customer service.",
+      "revenue_model": "$200-1000 per setup + monthly retainer",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "WhatsApp",
+      "tags": ["zero investment", "WhatsApp", "consulting", "business", "customer service"]
+    },
+    {
+      "id": 1434,
+      "name": "Online Community Builder",
+      "description": "Build and grow online communities for brands on various platforms.",
+      "revenue_model": "$1000-5000/month per client",
+      "difficulty": "Medium",
+      "sector": "Community",
+      "category": "Community Building",
+      "tags": ["zero investment", "community", "building", "engagement", "social"]
+    },
+    {
+      "id": 1435,
+      "name": "Podcast Show Notes Writer",
+      "description": "Write detailed show notes and summaries for podcast episodes.",
+      "revenue_model": "$25-100 per episode",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Podcast",
+      "tags": ["zero investment", "podcast", "show notes", "writing", "freelance"]
+    },
+    {
+      "id": 1436,
+      "name": "Video Subtitle Creator",
+      "description": "Create subtitles and captions for YouTube videos and social media content.",
+      "revenue_model": "$5-20 per video",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Video",
+      "tags": ["zero investment", "subtitles", "captions", "video", "freelance"]
+    },
+    {
+      "id": 1437,
+      "name": "Thumbnail Designer",
+      "description": "Design eye-catching thumbnails for YouTube videos and social media.",
+      "revenue_model": "$10-50 per thumbnail",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Thumbnails",
+      "tags": ["low investment", "thumbnails", "design", "YouTube", "freelance"]
+    },
+    {
+      "id": 1438,
+      "name": "Stock Photo Contributor",
+      "description": "Take photos with your phone and sell them on stock photo websites.",
+      "revenue_model": "$0.25-5.00 per download",
+      "difficulty": "Easy",
+      "sector": "Photography",
+      "category": "Stock Photos",
+      "tags": ["zero investment", "photography", "stock photos", "passive income", "creative"]
+    },
+    {
+      "id": 1439,
+      "name": "Print-on-Demand Designer",
+      "description": "Design t-shirts, mugs, and products for print-on-demand platforms.",
+      "revenue_model": "$2-10 profit per sale",
+      "difficulty": "Easy",
+      "sector": "E-commerce",
+      "category": "Print-on-Demand",
+      "tags": ["zero investment", "POD", "design", "e-commerce", "passive income"]
+    },
+    {
+      "id": 1440,
+      "name": "Etsy Digital Products",
+      "description": "Sell digital products like planners, printables, and templates on Etsy.",
+      "revenue_model": "$3-50 per product",
+      "difficulty": "Easy",
+      "sector": "E-commerce",
+      "category": "Digital Products",
+      "tags": ["low investment", "Etsy", "digital products", "printables", "passive income"]
+    },
+    {
+      "id": 1441,
+      "name": "Gumroad Creator",
+      "description": "Sell digital products, courses, and memberships on Gumroad.",
+      "revenue_model": "$5-500 per product",
+      "difficulty": "Easy",
+      "sector": "E-commerce",
+      "category": "Digital Products",
+      "tags": ["zero investment", "Gumroad", "digital products", "creator", "passive income"]
+    },
+    {
+      "id": 1442,
+      "name": "Patreon Creator",
+      "description": "Create exclusive content for paying subscribers on Patreon.",
+      "revenue_model": "$3-50/month per patron",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Membership",
+      "tags": ["zero investment", "Patreon", "membership", "content", "subscription"]
+    },
+    {
+      "id": 1443,
+      "name": "Ko-fi Creator",
+      "description": "Receive tips and sell digital products through Ko-fi.",
+      "revenue_model": "$3-100 per supporter",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Tips",
+      "tags": ["zero investment", "Ko-fi", "tips", "creator", "monetization"]
+    },
+    {
+      "id": 1444,
+      "name": "Buy Me a Coffee Creator",
+      "description": "Accept one-time tips and monthly memberships from supporters.",
+      "revenue_model": "$3-50 per supporter",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Tips",
+      "tags": ["zero investment", "Buy Me a Coffee", "tips", "creator", "support"]
+    },
+    {
+      "id": 1445,
+      "name": "Twitch Streamer",
+      "description": "Stream gaming or creative content on Twitch and earn through subs and donations.",
+      "revenue_model": "$2.50-5.00 per sub + donations",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Streaming",
+      "tags": ["zero investment", "Twitch", "streaming", "gaming", "live"]
+    },
+    {
+      "id": 1446,
+      "name": "Facebook Group Monetization",
+      "description": "Build a Facebook group and monetize through subscriptions and partnerships.",
+      "revenue_model": "$4.99-29.99/month per member",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Facebook",
+      "tags": ["zero investment", "Facebook", "groups", "community", "monetization"]
+    },
+    {
+      "id": 1447,
+      "name": "Clubhouse Moderator",
+      "description": "Host and moderate Clubhouse rooms for brands and thought leaders.",
+      "revenue_model": "$100-500 per room",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Audio",
+      "tags": ["zero investment", "Clubhouse", "audio", "moderation", "social"]
+    },
+    {
+      "id": 1448,
+      "name": "Twitter Spaces Host",
+      "description": "Host Twitter Spaces discussions and monetize through sponsorships.",
+      "revenue_model": "$100-1000 per sponsored space",
+      "difficulty": "Easy",
+      "sector": "Social Media",
+      "category": "Audio",
+      "tags": ["zero investment", "Twitter", "Spaces", "audio", "hosting"]
+    },
+    {
+      "id": 1449,
+      "name": "LinkedIn Newsletter Creator",
+      "description": "Create a LinkedIn newsletter and grow your professional audience.",
+      "revenue_model": "Lead generation + sponsorships",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Newsletter",
+      "tags": ["zero investment", "LinkedIn", "newsletter", "B2B", "content"]
+    },
+    {
+      "id": 1450,
+      "name": "Email List Building Service",
+      "description": "Help businesses build and grow their email lists.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Email Marketing",
+      "tags": ["zero investment", "email", "list building", "marketing", "consulting"]
+    },
+    {
+      "id": 1451,
+      "name": "Lead Magnet Creator",
+      "description": "Create lead magnets (PDFs, checklists, templates) for businesses.",
+      "revenue_model": "$100-500 per lead magnet",
+      "difficulty": "Easy",
+      "sector": "Marketing",
+      "category": "Lead Generation",
+      "tags": ["zero investment", "lead magnet", "marketing", "content", "freelance"]
+    },
+    {
+      "id": 1452,
+      "name": "Sales Funnel Consultant",
+      "description": "Design and optimize sales funnels for online businesses.",
+      "revenue_model": "$1000-5000 per funnel",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Sales Funnels",
+      "tags": ["zero investment", "sales funnel", "consulting", "marketing", "conversion"]
+    },
+    {
+      "id": 1453,
+      "name": "Landing Page Copywriter",
+      "description": "Write high-converting landing page copy for businesses.",
+      "revenue_model": "$300-2000 per page",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Copywriting",
+      "tags": ["zero investment", "copywriting", "landing page", "conversion", "freelance"]
+    },
+    {
+      "id": 1454,
+      "name": "Cold Email Outreach",
+      "description": "Write and manage cold email campaigns for B2B lead generation.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Email Outreach",
+      "tags": ["zero investment", "cold email", "outreach", "B2B", "lead generation"]
+    },
+    {
+      "id": 1455,
+      "name": "LinkedIn Lead Generation",
+      "description": "Generate B2B leads through LinkedIn outreach and networking.",
+      "revenue_model": "$500-3000/month per client",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Lead Generation",
+      "tags": ["zero investment", "LinkedIn", "lead generation", "B2B", "outreach"]
+    },
+    {
+      "id": 1456,
+      "name": "Business Name Generator",
+      "description": "Help entrepreneurs brainstorm and validate business names.",
+      "revenue_model": "$50-300 per naming project",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Branding",
+      "tags": ["zero investment", "naming", "branding", "consulting", "creative"]
+    },
+    {
+      "id": 1457,
+      "name": "Tagline & Slogan Writer",
+      "description": "Create catchy taglines and slogans for brands.",
+      "revenue_model": "$100-1000 per tagline",
+      "difficulty": "Easy",
+      "sector": "Marketing",
+      "category": "Copywriting",
+      "tags": ["zero investment", "tagline", "slogan", "copywriting", "branding"]
+    },
+    {
+      "id": 1458,
+      "name": "Product Description Writer",
+      "description": "Write compelling product descriptions for e-commerce stores.",
+      "revenue_model": "$10-50 per product",
+      "difficulty": "Easy",
+      "sector": "E-commerce",
+      "category": "Copywriting",
+      "tags": ["zero investment", "product description", "copywriting", "e-commerce", "freelance"]
+    },
+    {
+      "id": 1459,
+      "name": "Amazon Product Listing Optimizer",
+      "description": "Optimize Amazon product listings for better visibility and sales.",
+      "revenue_model": "$50-300 per listing",
+      "difficulty": "Medium",
+      "sector": "E-commerce",
+      "category": "Amazon",
+      "tags": ["zero investment", "Amazon", "SEO", "optimization", "e-commerce"]
+    },
+    {
+      "id": 1460,
+      "name": "Shopify Store Consultant",
+      "description": "Help entrepreneurs set up and optimize their Shopify stores.",
+      "revenue_model": "$500-3000 per project",
+      "difficulty": "Medium",
+      "sector": "E-commerce",
+      "category": "Shopify",
+      "tags": ["low investment", "Shopify", "consulting", "e-commerce", "setup"]
+    },
+    {
+      "id": 1461,
+      "name": "Dropshipping Consultant",
+      "description": "Advise on dropshipping business setup, suppliers, and marketing.",
+      "revenue_model": "$500-2000 per consultation",
+      "difficulty": "Medium",
+      "sector": "E-commerce",
+      "category": "Dropshipping",
+      "tags": ["zero investment", "dropshipping", "consulting", "e-commerce", "advice"]
+    },
+    {
+      "id": 1462,
+      "name": "Business Plan Writer",
+      "description": "Write professional business plans for startups and investors.",
+      "revenue_model": "$500-3000 per plan",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Business Planning",
+      "tags": ["zero investment", "business plan", "writing", "consulting", "startups"]
+    },
+    {
+      "id": 1463,
+      "name": "Pitch Deck Designer",
+      "description": "Create investor pitch decks for startups using free tools.",
+      "revenue_model": "$300-2000 per deck",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Pitch Decks",
+      "tags": ["low investment", "pitch deck", "design", "startups", "investors"]
+    },
+    {
+      "id": 1464,
+      "name": "Grant Writing Service",
+      "description": "Write grant proposals for nonprofits and small businesses.",
+      "revenue_model": "$1000-5000 per grant + success fee",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Grant Writing",
+      "tags": ["zero investment", "grant writing", "nonprofits", "funding", "writing"]
+    },
+    {
+      "id": 1465,
+      "name": "Crowdfunding Campaign Manager",
+      "description": "Manage Kickstarter and Indiegogo campaigns for creators.",
+      "revenue_model": "$1000-5000 + % of funds raised",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Crowdfunding",
+      "tags": ["zero investment", "crowdfunding", "Kickstarter", "campaign", "management"]
+    },
+    {
+      "id": 1466,
+      "name": "Online Research Service",
+      "description": "Conduct online research for businesses, students, and writers.",
+      "revenue_model": "$20-50/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Research",
+      "tags": ["zero investment", "research", "freelance", "remote", "data"]
+    },
+    {
+      "id": 1467,
+      "name": "Fact-Checking Service",
+      "description": "Verify facts and sources for journalists, authors, and content creators.",
+      "revenue_model": "$25-60/hour",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Fact-Checking",
+      "tags": ["zero investment", "fact-checking", "research", "journalism", "freelance"]
+    },
+    {
+      "id": 1468,
+      "name": "Online Survey Taker",
+      "description": "Complete paid surveys and market research studies online.",
+      "revenue_model": "$1-50 per survey",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Surveys",
+      "tags": ["zero investment", "surveys", "side hustle", "online", "easy money"]
+    },
+    {
+      "id": 1469,
+      "name": "User Testing Service",
+      "description": "Test websites and apps for usability and provide feedback.",
+      "revenue_model": "$10-60 per test",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "User Testing",
+      "tags": ["zero investment", "user testing", "UX", "feedback", "side hustle"]
+    },
+    {
+      "id": 1470,
+      "name": "Voice-Over Artist",
+      "description": "Provide voice-over services for videos, audiobooks, and commercials.",
+      "revenue_model": "$50-500 per project",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Voice-Over",
+      "tags": ["zero investment", "voice-over", "audio", "freelance", "creative"]
+    },
+    {
+      "id": 1471,
+      "name": "Audiobook Narrator",
+      "description": "Narrate audiobooks for authors and publishers.",
+      "revenue_model": "$100-300 per finished hour",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Audiobooks",
+      "tags": ["zero investment", "audiobook", "narration", "voice", "freelance"]
+    },
+    {
+      "id": 1472,
+      "name": "Online Moderator",
+      "description": "Moderate online forums, communities, and social media for brands.",
+      "revenue_model": "$15-40/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Moderation",
+      "tags": ["zero investment", "moderation", "community", "remote", "freelance"]
+    },
+    {
+      "id": 1473,
+      "name": "Customer Service Rep (Remote)",
+      "description": "Provide customer service remotely via chat, email, or phone.",
+      "revenue_model": "$12-25/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Customer Service",
+      "tags": ["zero investment", "customer service", "remote", "support", "freelance"]
+    },
+    {
+      "id": 1474,
+      "name": "Live Chat Support",
+      "description": "Provide live chat support for e-commerce and SaaS companies.",
+      "revenue_model": "$15-30/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Customer Support",
+      "tags": ["zero investment", "live chat", "support", "remote", "customer service"]
+    },
+    {
+      "id": 1475,
+      "name": "Email Support Specialist",
+      "description": "Handle customer email inquiries for online businesses.",
+      "revenue_model": "$15-30/hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Customer Support",
+      "tags": ["zero investment", "email support", "customer service", "remote", "freelance"]
+    },
+    {
+      "id": 1476,
+      "name": "Online Bookkeeper",
+      "description": "Provide bookkeeping services remotely for small businesses.",
+      "revenue_model": "$25-60/hour",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Bookkeeping",
+      "tags": ["low investment", "bookkeeping", "accounting", "remote", "freelance"]
+    },
+    {
+      "id": 1477,
+      "name": "Tax Preparation Service",
+      "description": "Prepare tax returns for individuals and small businesses remotely.",
+      "revenue_model": "$100-500 per return",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Tax",
+      "tags": ["low investment", "tax", "preparation", "accounting", "seasonal"]
+    },
+    {
+      "id": 1478,
+      "name": "Financial Planning Consultant",
+      "description": "Provide financial planning advice and budgeting help remotely.",
+      "revenue_model": "$100-300/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Financial Planning",
+      "tags": ["zero investment", "financial planning", "consulting", "finance", "advice"]
+    },
+    {
+      "id": 1479,
+      "name": "Debt Counseling Service",
+      "description": "Help individuals create debt payoff plans and budgets.",
+      "revenue_model": "$50-200 per session",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Debt Counseling",
+      "tags": ["zero investment", "debt counseling", "finance", "consulting", "budgeting"]
+    },
+    {
+      "id": 1480,
+      "name": "Life Coach",
+      "description": "Provide life coaching services to help clients achieve their goals.",
+      "revenue_model": "$50-300/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Life Coaching",
+      "tags": ["zero investment", "life coaching", "personal development", "consulting", "wellness"]
+    },
+    {
+      "id": 1481,
+      "name": "Career Coach",
+      "description": "Help professionals with career transitions, job search, and advancement.",
+      "revenue_model": "$75-250/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Career Coaching",
+      "tags": ["zero investment", "career coaching", "job search", "consulting", "professional"]
+    },
+    {
+      "id": 1482,
+      "name": "Business Coach",
+      "description": "Coach entrepreneurs and small business owners on growth strategies.",
+      "revenue_model": "$100-500/hour",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Business Coaching",
+      "tags": ["zero investment", "business coaching", "entrepreneurship", "consulting", "growth"]
+    },
+    {
+      "id": 1483,
+      "name": "Productivity Coach",
+      "description": "Help clients improve productivity, time management, and organization.",
+      "revenue_model": "$50-200/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Productivity",
+      "tags": ["zero investment", "productivity", "coaching", "time management", "consulting"]
+    },
+    {
+      "id": 1484,
+      "name": "Mindfulness Coach",
+      "description": "Teach mindfulness and meditation techniques for stress reduction.",
+      "revenue_model": "$40-150/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Mindfulness",
+      "tags": ["zero investment", "mindfulness", "meditation", "coaching", "wellness"]
+    },
+    {
+      "id": 1485,
+      "name": "Relationship Coach",
+      "description": "Provide relationship coaching for couples and individuals.",
+      "revenue_model": "$60-200/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Relationship",
+      "tags": ["zero investment", "relationship coaching", "couples", "counseling", "wellness"]
+    },
+    {
+      "id": 1486,
+      "name": "Parenting Coach",
+      "description": "Help parents with parenting strategies and child development.",
+      "revenue_model": "$50-150/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Parenting",
+      "tags": ["zero investment", "parenting", "coaching", "children", "family"]
+    },
+    {
+      "id": 1487,
+      "name": "Fitness Coach (Online)",
+      "description": "Provide online fitness coaching with workout plans and accountability.",
+      "revenue_model": "$50-200/month per client",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Fitness",
+      "tags": ["zero investment", "fitness", "coaching", "health", "online"]
+    },
+    {
+      "id": 1488,
+      "name": "Nutrition Coach",
+      "description": "Provide nutrition coaching and meal planning guidance online.",
+      "revenue_model": "$50-200/month per client",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Nutrition",
+      "tags": ["zero investment", "nutrition", "coaching", "health", "diet"]
+    },
+    {
+      "id": 1489,
+      "name": "Weight Loss Coach",
+      "description": "Help clients achieve weight loss goals with coaching and accountability.",
+      "revenue_model": "$100-300/month per client",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Weight Loss",
+      "tags": ["zero investment", "weight loss", "coaching", "health", "fitness"]
+    },
+    {
+      "id": 1490,
+      "name": "Sleep Coach",
+      "description": "Help clients improve sleep quality and establish healthy sleep habits.",
+      "revenue_model": "$50-150/hour",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Sleep",
+      "tags": ["zero investment", "sleep", "coaching", "health", "wellness"]
+    },
+    {
+      "id": 1491,
+      "name": "Habit Coach",
+      "description": "Help clients build good habits and break bad ones.",
+      "revenue_model": "$40-120/hour",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Habits",
+      "tags": ["zero investment", "habits", "coaching", "behavior", "personal development"]
+    },
+    {
+      "id": 1492,
+      "name": "Accountability Partner Service",
+      "description": "Provide accountability check-ins for people working on goals.",
+      "revenue_model": "$20-100/month per client",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Accountability",
+      "tags": ["zero investment", "accountability", "goals", "coaching", "support"]
+    },
+    {
+      "id": 1493,
+      "name": "Study Skills Tutor",
+      "description": "Teach students effective study techniques and time management.",
+      "revenue_model": "$25-60/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Study Skills",
+      "tags": ["zero investment", "study skills", "tutoring", "education", "students"]
+    },
+    {
+      "id": 1494,
+      "name": "Test Prep Tutor",
+      "description": "Tutor students for standardized tests like SAT, ACT, GRE, GMAT.",
+      "revenue_model": "$40-100/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Test Prep",
+      "tags": ["zero investment", "test prep", "tutoring", "education", "SAT"]
+    },
+    {
+      "id": 1495,
+      "name": "Music Lessons (Online)",
+      "description": "Teach music lessons online for various instruments.",
+      "revenue_model": "$25-80/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Music",
+      "tags": ["zero investment", "music", "lessons", "teaching", "online"]
+    },
+    {
+      "id": 1496,
+      "name": "Art Lessons (Online)",
+      "description": "Teach drawing, painting, or digital art online.",
+      "revenue_model": "$20-60/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Art",
+      "tags": ["zero investment", "art", "lessons", "teaching", "creative"]
+    },
+    {
+      "id": 1497,
+      "name": "Coding Tutor",
+      "description": "Teach programming and coding skills to beginners online.",
+      "revenue_model": "$30-100/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Coding",
+      "tags": ["zero investment", "coding", "tutoring", "programming", "tech"]
+    },
+    {
+      "id": 1498,
+      "name": "Math Tutor (Online)",
+      "description": "Provide online math tutoring for students of all levels.",
+      "revenue_model": "$25-75/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Math",
+      "tags": ["zero investment", "math", "tutoring", "education", "online"]
+    },
+    {
+      "id": 1499,
+      "name": "English Tutor (ESL)",
+      "description": "Teach English as a second language to students worldwide.",
+      "revenue_model": "$15-40/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "ESL",
+      "tags": ["zero investment", "ESL", "English", "tutoring", "teaching"]
+    },
+    {
+      "id": 1500,
+      "name": "Conversation Partner (Language)",
+      "description": "Practice conversation in your native language with learners.",
+      "revenue_model": "$10-30/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "conversation", "language", "practice", "teaching"]
+    },
+    {
+      "id": 1501,
+      "name": "Homework Helper",
+      "description": "Help students with homework across various subjects.",
+      "revenue_model": "$15-40/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Homework Help",
+      "tags": ["zero investment", "homework", "tutoring", "students", "education"]
+    },
+    {
+      "id": 1502,
+      "name": "College Essay Editor",
+      "description": "Edit and provide feedback on college application essays.",
+      "revenue_model": "$50-200 per essay",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Essay Editing",
+      "tags": ["zero investment", "essay", "editing", "college", "admissions"]
+    },
+    {
+      "id": 1503,
+      "name": "Academic Writing Tutor",
+      "description": "Teach academic writing skills to students and researchers.",
+      "revenue_model": "$30-80/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Writing",
+      "tags": ["zero investment", "academic writing", "tutoring", "education", "research"]
+    },
+    {
+      "id": 1504,
+      "name": "Thesis/Dissertation Editor",
+      "description": "Edit and proofread theses and dissertations for graduate students.",
+      "revenue_model": "$0.02-0.05 per word",
+      "difficulty": "Hard",
+      "sector": "Education",
+      "category": "Editing",
+      "tags": ["zero investment", "thesis", "dissertation", "editing", "academic"]
+    },
+    {
+      "id": 1505,
+      "name": "Research Paper Writer",
+      "description": "Help students with research paper structure and writing (ethical guidance only).",
+      "revenue_model": "$30-80/hour for tutoring",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Research",
+      "tags": ["zero investment", "research", "writing", "tutoring", "academic"]
+    },
+    {
+      "id": 1506,
+      "name": "Citation Formatter",
+      "description": "Format citations and bibliographies in APA, MLA, Chicago, etc.",
+      "revenue_model": "$20-50 per project",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Formatting",
+      "tags": ["zero investment", "citations", "formatting", "academic", "freelance"]
+    },
+    {
+      "id": 1507,
+      "name": "PowerPoint Designer",
+      "description": "Create professional PowerPoint presentations for businesses and students.",
+      "revenue_model": "$50-300 per presentation",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Presentations",
+      "tags": ["low investment", "PowerPoint", "design", "presentations", "freelance"]
+    },
+    {
+      "id": 1508,
+      "name": "Infographic Designer",
+      "description": "Design infographics for blogs, social media, and marketing.",
+      "revenue_model": "$50-300 per infographic",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Infographics",
+      "tags": ["low investment", "infographic", "design", "visual", "marketing"]
+    },
+    {
+      "id": 1509,
+      "name": "Social Media Graphics Designer",
+      "description": "Create social media graphics and templates for brands.",
+      "revenue_model": "$100-500/month per client",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Social Media",
+      "tags": ["low investment", "social media", "graphics", "design", "freelance"]
+    },
+    {
+      "id": 1510,
+      "name": "Logo Designer",
+      "description": "Design logos for small businesses and startups using free tools.",
+      "revenue_model": "$50-500 per logo",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Logo Design",
+      "tags": ["low investment", "logo", "design", "branding", "freelance"]
+    },
+    {
+      "id": 1511,
+      "name": "Brand Identity Designer",
+      "description": "Create complete brand identity packages (logo, colors, fonts, guidelines).",
+      "revenue_model": "$500-3000 per brand",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Branding",
+      "tags": ["low investment", "branding", "identity", "design", "freelance"]
+    },
+    {
+      "id": 1512,
+      "name": "Business Card Designer",
+      "description": "Design professional business cards for entrepreneurs and professionals.",
+      "revenue_model": "$25-100 per design",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Print Design",
+      "tags": ["low investment", "business cards", "design", "print", "freelance"]
+    },
+    {
+      "id": 1513,
+      "name": "Flyer Designer",
+      "description": "Design flyers and posters for events and businesses.",
+      "revenue_model": "$30-150 per design",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Print Design",
+      "tags": ["low investment", "flyer", "design", "marketing", "print"]
+    },
+    {
+      "id": 1514,
+      "name": "Menu Designer",
+      "description": "Design restaurant menus and food service materials.",
+      "revenue_model": "$100-500 per menu",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Print Design",
+      "tags": ["low investment", "menu", "design", "restaurant", "print"]
+    },
+    {
+      "id": 1515,
+      "name": "Book Cover Designer",
+      "description": "Design book covers for self-published authors.",
+      "revenue_model": "$100-500 per cover",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Book Design",
+      "tags": ["low investment", "book cover", "design", "publishing", "freelance"]
+    },
+    {
+      "id": 1516,
+      "name": "eBook Formatter",
+      "description": "Format manuscripts for Kindle and other eBook platforms.",
+      "revenue_model": "$50-200 per book",
+      "difficulty": "Easy",
+      "sector": "Publishing",
+      "category": "Formatting",
+      "tags": ["zero investment", "ebook", "formatting", "publishing", "Kindle"]
+    },
+    {
+      "id": 1517,
+      "name": "Podcast Cover Art Designer",
+      "description": "Design cover art for podcasts.",
+      "revenue_model": "$50-300 per design",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Podcast",
+      "tags": ["low investment", "podcast", "cover art", "design", "freelance"]
+    },
+    {
+      "id": 1518,
+      "name": "YouTube Banner Designer",
+      "description": "Design YouTube channel banners and profile images.",
+      "revenue_model": "$25-150 per design",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "YouTube",
+      "tags": ["low investment", "YouTube", "banner", "design", "freelance"]
+    },
+    {
+      "id": 1519,
+      "name": "Twitch Overlay Designer",
+      "description": "Design overlays and graphics for Twitch streamers.",
+      "revenue_model": "$50-300 per package",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Streaming",
+      "tags": ["low investment", "Twitch", "overlay", "design", "gaming"]
+    },
+    {
+      "id": 1520,
+      "name": "Discord Server Setup",
+      "description": "Set up and customize Discord servers for communities and brands.",
+      "revenue_model": "$50-300 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Discord",
+      "tags": ["zero investment", "Discord", "setup", "community", "service"]
+    },
+    {
+      "id": 1521,
+      "name": "Notion Workspace Designer",
+      "description": "Design custom Notion workspaces for individuals and teams.",
+      "revenue_model": "$100-500 per workspace",
+      "difficulty": "Medium",
+      "sector": "Productivity",
+      "category": "Notion",
+      "tags": ["zero investment", "Notion", "design", "productivity", "workspace"]
+    },
+    {
+      "id": 1522,
+      "name": "Airtable Base Designer",
+      "description": "Create custom Airtable bases for business workflows.",
+      "revenue_model": "$100-500 per base",
+      "difficulty": "Medium",
+      "sector": "Productivity",
+      "category": "Airtable",
+      "tags": ["zero investment", "Airtable", "database", "productivity", "workflow"]
+    },
+    {
+      "id": 1523,
+      "name": "Spreadsheet Consultant",
+      "description": "Create complex Excel or Google Sheets solutions for businesses.",
+      "revenue_model": "$50-200/hour",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Spreadsheets",
+      "tags": ["zero investment", "Excel", "Google Sheets", "consulting", "data"]
+    },
+    {
+      "id": 1524,
+      "name": "Google Workspace Setup",
+      "description": "Set up and configure Google Workspace for small businesses.",
+      "revenue_model": "$200-1000 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Google Workspace",
+      "tags": ["zero investment", "Google Workspace", "setup", "business", "consulting"]
+    },
+    {
+      "id": 1525,
+      "name": "Microsoft 365 Consultant",
+      "description": "Help businesses set up and optimize Microsoft 365.",
+      "revenue_model": "$50-150/hour",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Microsoft 365",
+      "tags": ["zero investment", "Microsoft 365", "consulting", "business", "productivity"]
+    },
+    {
+      "id": 1526,
+      "name": "Workflow Automation Consultant",
+      "description": "Set up automation workflows using Zapier, Make, or similar tools.",
+      "revenue_model": "$100-500 per workflow",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Automation",
+      "tags": ["low investment", "automation", "Zapier", "workflow", "consulting"]
+    },
+    {
+      "id": 1527,
+      "name": "No-Code App Builder",
+      "description": "Build apps using no-code platforms like Bubble, Adalo, or Glide.",
+      "revenue_model": "$500-5000 per app",
+      "difficulty": "Hard",
+      "sector": "Development",
+      "category": "No-Code",
+      "tags": ["low investment", "no-code", "app development", "Bubble", "freelance"]
+    },
+    {
+      "id": 1528,
+      "name": "Website Builder (No-Code)",
+      "description": "Build websites using Webflow, Wix, or Squarespace for clients.",
+      "revenue_model": "$500-3000 per website",
+      "difficulty": "Medium",
+      "sector": "Web Development",
+      "category": "No-Code",
+      "tags": ["low investment", "website", "no-code", "Webflow", "freelance"]
+    },
+    {
+      "id": 1529,
+      "name": "WordPress Website Setup",
+      "description": "Set up WordPress websites for small businesses and bloggers.",
+      "revenue_model": "$300-2000 per website",
+      "difficulty": "Medium",
+      "sector": "Web Development",
+      "category": "WordPress",
+      "tags": ["low investment", "WordPress", "website", "setup", "freelance"]
+    },
+    {
+      "id": 1530,
+      "name": "Website Maintenance Service",
+      "description": "Provide ongoing website maintenance and updates for clients.",
+      "revenue_model": "$50-300/month per site",
+      "difficulty": "Easy",
+      "sector": "Web Development",
+      "category": "Maintenance",
+      "tags": ["low investment", "website", "maintenance", "updates", "service"]
+    },
+    {
+      "id": 1531,
+      "name": "Website Speed Optimization",
+      "description": "Optimize website loading speed and performance.",
+      "revenue_model": "$200-1000 per website",
+      "difficulty": "Medium",
+      "sector": "Web Development",
+      "category": "Optimization",
+      "tags": ["low investment", "website", "speed", "optimization", "performance"]
+    },
+    {
+      "id": 1532,
+      "name": "Website Security Audit",
+      "description": "Audit websites for security vulnerabilities and provide fixes.",
+      "revenue_model": "$300-1500 per audit",
+      "difficulty": "Hard",
+      "sector": "Web Development",
+      "category": "Security",
+      "tags": ["low investment", "website", "security", "audit", "consulting"]
+    },
+    {
+      "id": 1533,
+      "name": "Website Accessibility Consultant",
+      "description": "Make websites accessible and ADA/WCAG compliant.",
+      "revenue_model": "$500-3000 per project",
+      "difficulty": "Medium",
+      "sector": "Web Development",
+      "category": "Accessibility",
+      "tags": ["low investment", "accessibility", "ADA", "WCAG", "consulting"]
+    },
+    {
+      "id": 1534,
+      "name": "Google Analytics Setup",
+      "description": "Set up and configure Google Analytics for businesses.",
+      "revenue_model": "$200-800 per setup",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Analytics",
+      "tags": ["zero investment", "Google Analytics", "setup", "analytics", "consulting"]
+    },
+    {
+      "id": 1535,
+      "name": "Google Tag Manager Setup",
+      "description": "Implement Google Tag Manager for tracking and analytics.",
+      "revenue_model": "$300-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Analytics",
+      "tags": ["zero investment", "Google Tag Manager", "GTM", "analytics", "tracking"]
+    },
+    {
+      "id": 1536,
+      "name": "Conversion Rate Optimization",
+      "description": "Analyze and improve website conversion rates.",
+      "revenue_model": "$1000-5000 per project",
+      "difficulty": "Hard",
+      "sector": "Marketing",
+      "category": "CRO",
+      "tags": ["zero investment", "CRO", "conversion", "optimization", "consulting"]
+    },
+    {
+      "id": 1537,
+      "name": "A/B Testing Consultant",
+      "description": "Set up and analyze A/B tests for websites and marketing campaigns.",
+      "revenue_model": "$500-3000 per project",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Testing",
+      "tags": ["zero investment", "A/B testing", "optimization", "analytics", "consulting"]
+    },
+    {
+      "id": 1538,
+      "name": "Heatmap Analysis Service",
+      "description": "Analyze website heatmaps to improve user experience.",
+      "revenue_model": "$300-1500 per analysis",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "UX",
+      "tags": ["zero investment", "heatmap", "analysis", "UX", "optimization"]
+    },
+    {
+      "id": 1539,
+      "name": "User Experience Consultant",
+      "description": "Improve website and app user experience through research and testing.",
+      "revenue_model": "$75-200/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "UX",
+      "tags": ["zero investment", "UX", "user experience", "consulting", "design"]
+    },
+    {
+      "id": 1540,
+      "name": "Customer Journey Mapping",
+      "description": "Map customer journeys and identify optimization opportunities.",
+      "revenue_model": "$1000-5000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Customer Experience",
+      "tags": ["zero investment", "customer journey", "mapping", "CX", "consulting"]
+    },
+    {
+      "id": 1541,
+      "name": "Online Community Consultant",
+      "description": "Help brands build and grow engaged online communities.",
+      "revenue_model": "$1000-5000/month per client",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Community",
+      "tags": ["zero investment", "community", "consulting", "engagement", "strategy"]
+    },
+    {
+      "id": 1542,
+      "name": "Influencer Marketing Consultant",
+      "description": "Connect brands with influencers and manage campaigns.",
+      "revenue_model": "$1000-5000 per campaign",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Influencer",
+      "tags": ["zero investment", "influencer", "marketing", "consulting", "campaigns"]
+    },
+    {
+      "id": 1543,
+      "name": "Brand Strategy Consultant",
+      "description": "Develop brand positioning and strategy for businesses.",
+      "revenue_model": "$2000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Branding",
+      "tags": ["zero investment", "brand strategy", "consulting", "positioning", "marketing"]
+    },
+    {
+      "id": 1544,
+      "name": "Content Strategy Consultant",
+      "description": "Create content strategies and editorial calendars for brands.",
+      "revenue_model": "$1000-5000 per strategy",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Content Strategy",
+      "tags": ["zero investment", "content strategy", "consulting", "planning", "marketing"]
+    },
+    {
+      "id": 1545,
+      "name": "Social Media Strategy Consultant",
+      "description": "Develop social media strategies for businesses.",
+      "revenue_model": "$1000-5000 per strategy",
+      "difficulty": "Medium",
+      "sector": "Marketing",
+      "category": "Social Media",
+      "tags": ["zero investment", "social media", "strategy", "consulting", "marketing"]
+    },
+    {
+      "id": 1546,
+      "name": "Growth Hacking Consultant",
+      "description": "Implement growth hacking strategies for startups.",
+      "revenue_model": "$2000-10000/month",
+      "difficulty": "Hard",
+      "sector": "Marketing",
+      "category": "Growth Hacking",
+      "tags": ["zero investment", "growth hacking", "consulting", "startups", "marketing"]
+    },
+    {
+      "id": 1547,
+      "name": "Product Launch Consultant",
+      "description": "Plan and execute product launches for businesses.",
+      "revenue_model": "$2000-10000 per launch",
+      "difficulty": "Hard",
+      "sector": "Marketing",
+      "category": "Product Launch",
+      "tags": ["zero investment", "product launch", "consulting", "marketing", "strategy"]
+    },
+    {
+      "id": 1548,
+      "name": "Market Research Consultant",
+      "description": "Conduct market research and competitive analysis for businesses.",
+      "revenue_model": "$1000-5000 per project",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Market Research",
+      "tags": ["zero investment", "market research", "consulting", "analysis", "competitive"]
+    },
+    {
+      "id": 1549,
+      "name": "Competitor Analysis Service",
+      "description": "Analyze competitors and provide strategic insights.",
+      "revenue_model": "$500-3000 per analysis",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Competitive Analysis",
+      "tags": ["zero investment", "competitor analysis", "research", "consulting", "strategy"]
+    },
+    {
+      "id": 1550,
+      "name": "SWOT Analysis Consultant",
+      "description": "Conduct SWOT analysis for businesses and strategic planning.",
+      "revenue_model": "$500-2000 per analysis",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Strategy",
+      "tags": ["zero investment", "SWOT", "analysis", "consulting", "strategy"]
+    }
+  ]
+}
