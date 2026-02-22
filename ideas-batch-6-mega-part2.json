@@ -1,0 +1,2509 @@
+{
+  "batch": "6-mega-part2",
+  "ideas_range": "1801-2050",
+  "total_ideas": 250,
+  "generated_date": "2026-02-22",
+  "note": "Part 2 of 1000 zero/low investment ideas mega batch",
+  "ideas": [
+    {
+      "id": 1801,
+      "name": "Plant-Based Recipe Creator",
+      "description": "Create plant-based recipes for blogs and brands.",
+      "revenue_model": "$50-400 per recipe",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "plant-based", "recipes", "vegan", "content"]
+    },
+    {
+      "id": 1802,
+      "name": "Gluten-Free Recipe Developer",
+      "description": "Develop gluten-free recipes and meal plans.",
+      "revenue_model": "$50-400 per recipe",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "gluten-free", "recipes", "nutrition", "content"]
+    },
+    {
+      "id": 1803,
+      "name": "Allergy-Friendly Meal Planner",
+      "description": "Create meal plans for people with food allergies.",
+      "revenue_model": "$50-250/month per client",
+      "difficulty": "Medium",
+      "sector": "Nutrition",
+      "category": "Meal Planning",
+      "tags": ["zero investment", "allergies", "meal planning", "nutrition", "health"]
+    },
+    {
+      "id": 1804,
+      "name": "Budget Meal Planner",
+      "description": "Create budget-friendly meal plans for families.",
+      "revenue_model": "$20-100/month per client",
+      "difficulty": "Easy",
+      "sector": "Nutrition",
+      "category": "Meal Planning",
+      "tags": ["zero investment", "budget", "meal planning", "frugal", "family"]
+    },
+    {
+      "id": 1805,
+      "name": "Batch Cooking Consultant",
+      "description": "Teach batch cooking strategies for meal prep.",
+      "revenue_model": "$50-200 per consultation",
+      "difficulty": "Easy",
+      "sector": "Nutrition",
+      "category": "Meal Prep",
+      "tags": ["zero investment", "batch cooking", "meal prep", "efficiency", "consulting"]
+    },
+    {
+      "id": 1806,
+      "name": "Freezer Meal Planner",
+      "description": "Create freezer meal plans and shopping lists.",
+      "revenue_model": "$30-150/month per client",
+      "difficulty": "Easy",
+      "sector": "Nutrition",
+      "category": "Meal Planning",
+      "tags": ["zero investment", "freezer meals", "meal planning", "convenience", "family"]
+    },
+    {
+      "id": 1807,
+      "name": "Slow Cooker Recipe Creator",
+      "description": "Develop slow cooker and crockpot recipes.",
+      "revenue_model": "$30-200 per recipe",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "slow cooker", "recipes", "cooking", "content"]
+    },
+    {
+      "id": 1808,
+      "name": "Instant Pot Recipe Developer",
+      "description": "Create Instant Pot and pressure cooker recipes.",
+      "revenue_model": "$30-200 per recipe",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "Instant Pot", "recipes", "cooking", "content"]
+    },
+    {
+      "id": 1809,
+      "name": "Air Fryer Recipe Creator",
+      "description": "Develop air fryer recipes for healthy cooking.",
+      "revenue_model": "$30-200 per recipe",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "air fryer", "recipes", "healthy", "content"]
+    },
+    {
+      "id": 1810,
+      "name": "One-Pot Meal Creator",
+      "description": "Create one-pot meal recipes for easy cleanup.",
+      "revenue_model": "$30-200 per recipe",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Food",
+      "tags": ["zero investment", "one-pot", "recipes", "easy", "content"]
+    },
+    {
+      "id": 1811,
+      "name": "30-Minute Meal Planner",
+      "description": "Create quick 30-minute meal plans for busy people.",
+      "revenue_model": "$30-150/month per client",
+      "difficulty": "Easy",
+      "sector": "Nutrition",
+      "category": "Meal Planning",
+      "tags": ["zero investment", "quick meals", "meal planning", "busy", "convenience"]
+    },
+    {
+      "id": 1812,
+      "name": "Leftover Makeover Consultant",
+      "description": "Help people creatively use leftovers to reduce waste.",
+      "revenue_model": "$20-100 per consultation",
+      "difficulty": "Easy",
+      "sector": "Nutrition",
+      "category": "Food Waste",
+      "tags": ["zero investment", "leftovers", "food waste", "sustainability", "consulting"]
+    },
+    {
+      "id": 1813,
+      "name": "Pantry Organization Consultant",
+      "description": "Advise on pantry organization and meal planning from pantry staples.",
+      "revenue_model": "$50-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Kitchen",
+      "tags": ["zero investment", "pantry", "organization", "kitchen", "consulting"]
+    },
+    {
+      "id": 1814,
+      "name": "Kitchen Organization Consultant",
+      "description": "Provide virtual kitchen organization advice.",
+      "revenue_model": "$50-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Kitchen",
+      "tags": ["zero investment", "kitchen", "organization", "home", "consulting"]
+    },
+    {
+      "id": 1815,
+      "name": "Home Organization Consultant",
+      "description": "Provide virtual home organization consulting.",
+      "revenue_model": "$50-300/hour",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Home",
+      "tags": ["zero investment", "home", "organization", "declutter", "consulting"]
+    },
+    {
+      "id": 1816,
+      "name": "Decluttering Coach",
+      "description": "Coach clients through decluttering their homes.",
+      "revenue_model": "$50-200/hour",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Decluttering",
+      "tags": ["zero investment", "decluttering", "coaching", "minimalism", "home"]
+    },
+    {
+      "id": 1817,
+      "name": "Minimalism Coach",
+      "description": "Help people transition to a minimalist lifestyle.",
+      "revenue_model": "$50-250/month per client",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Minimalism",
+      "tags": ["zero investment", "minimalism", "coaching", "lifestyle", "simplicity"]
+    },
+    {
+      "id": 1818,
+      "name": "Capsule Wardrobe Consultant",
+      "description": "Help clients create capsule wardrobes.",
+      "revenue_model": "$100-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Fashion",
+      "tags": ["zero investment", "capsule wardrobe", "fashion", "minimalism", "consulting"]
+    },
+    {
+      "id": 1819,
+      "name": "Virtual Closet Organizer",
+      "description": "Organize closets virtually through video calls.",
+      "revenue_model": "$50-300 per session",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Closet",
+      "tags": ["zero investment", "closet", "organization", "fashion", "virtual"]
+    },
+    {
+      "id": 1820,
+      "name": "Personal Stylist (Virtual)",
+      "description": "Provide virtual personal styling services.",
+      "revenue_model": "$100-500 per session",
+      "difficulty": "Medium",
+      "sector": "Fashion",
+      "category": "Styling",
+      "tags": ["zero investment", "styling", "fashion", "personal", "virtual"]
+    },
+    {
+      "id": 1821,
+      "name": "Color Analysis Consultant",
+      "description": "Provide color analysis for personal style.",
+      "revenue_model": "$50-300 per analysis",
+      "difficulty": "Medium",
+      "sector": "Fashion",
+      "category": "Color Analysis",
+      "tags": ["zero investment", "color analysis", "fashion", "styling", "consulting"]
+    },
+    {
+      "id": 1822,
+      "name": "Body Type Styling Consultant",
+      "description": "Advise on clothing for different body types.",
+      "revenue_model": "$75-400 per consultation",
+      "difficulty": "Medium",
+      "sector": "Fashion",
+      "category": "Styling",
+      "tags": ["zero investment", "body type", "styling", "fashion", "consulting"]
+    },
+    {
+      "id": 1823,
+      "name": "Sustainable Fashion Consultant",
+      "description": "Advise on building sustainable wardrobes.",
+      "revenue_model": "$75-400 per consultation",
+      "difficulty": "Medium",
+      "sector": "Fashion",
+      "category": "Sustainability",
+      "tags": ["zero investment", "sustainable fashion", "consulting", "eco-friendly", "ethical"]
+    },
+    {
+      "id": 1824,
+      "name": "Thrift Shopping Consultant",
+      "description": "Teach people how to shop secondhand effectively.",
+      "revenue_model": "$50-300 per session",
+      "difficulty": "Easy",
+      "sector": "Fashion",
+      "category": "Thrifting",
+      "tags": ["zero investment", "thrift shopping", "secondhand", "sustainable", "consulting"]
+    },
+    {
+      "id": 1825,
+      "name": "Wardrobe Audit Service",
+      "description": "Audit wardrobes and provide styling recommendations.",
+      "revenue_model": "$100-600 per audit",
+      "difficulty": "Easy",
+      "sector": "Fashion",
+      "category": "Styling",
+      "tags": ["zero investment", "wardrobe audit", "fashion", "styling", "consulting"]
+    },
+    {
+      "id": 1826,
+      "name": "Outfit Planning Service",
+      "description": "Plan outfits for clients for the week or month.",
+      "revenue_model": "$50-300/month per client",
+      "difficulty": "Easy",
+      "sector": "Fashion",
+      "category": "Styling",
+      "tags": ["zero investment", "outfit planning", "fashion", "styling", "service"]
+    },
+    {
+      "id": 1827,
+      "name": "Packing List Creator",
+      "description": "Create customized packing lists for travel.",
+      "revenue_model": "$20-100 per list",
+      "difficulty": "Easy",
+      "sector": "Travel",
+      "category": "Planning",
+      "tags": ["zero investment", "packing list", "travel", "planning", "organization"]
+    },
+    {
+      "id": 1828,
+      "name": "Travel Capsule Wardrobe Planner",
+      "description": "Plan capsule wardrobes for travel.",
+      "revenue_model": "$50-300 per trip",
+      "difficulty": "Easy",
+      "sector": "Travel",
+      "category": "Fashion",
+      "tags": ["zero investment", "travel", "capsule wardrobe", "packing", "planning"]
+    },
+    {
+      "id": 1829,
+      "name": "Travel Budget Planner",
+      "description": "Create travel budgets and cost estimates.",
+      "revenue_model": "$50-300 per trip",
+      "difficulty": "Easy",
+      "sector": "Travel",
+      "category": "Budgeting",
+      "tags": ["zero investment", "travel", "budget", "planning", "finance"]
+    },
+    {
+      "id": 1830,
+      "name": "Travel Research Service",
+      "description": "Research destinations and create travel guides.",
+      "revenue_model": "$100-800 per destination",
+      "difficulty": "Easy",
+      "sector": "Travel",
+      "category": "Research",
+      "tags": ["zero investment", "travel", "research", "planning", "guides"]
+    },
+    {
+      "id": 1831,
+      "name": "Custom Travel Guide Creator",
+      "description": "Create personalized travel guides for destinations.",
+      "revenue_model": "$100-800 per guide",
+      "difficulty": "Medium",
+      "sector": "Travel",
+      "category": "Guides",
+      "tags": ["zero investment", "travel guide", "custom", "planning", "content"]
+    },
+    {
+      "id": 1832,
+      "name": "Travel Itinerary Designer",
+      "description": "Design detailed day-by-day travel itineraries.",
+      "revenue_model": "$100-800 per itinerary",
+      "difficulty": "Medium",
+      "sector": "Travel",
+      "category": "Planning",
+      "tags": ["zero investment", "itinerary", "travel", "planning", "design"]
+    },
+    {
+      "id": 1833,
+      "name": "Road Trip Planner",
+      "description": "Plan road trips with routes, stops, and accommodations.",
+      "revenue_model": "$100-600 per trip",
+      "difficulty": "Easy",
+      "sector": "Travel",
+      "category": "Road Trips",
+      "tags": ["zero investment", "road trip", "planning", "travel", "routes"]
+    },
+    {
+      "id": 1834,
+      "name": "Digital Nomad Consultant",
+      "description": "Advise aspiring digital nomads on lifestyle and logistics.",
+      "revenue_model": "$100-500 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Digital Nomad",
+      "tags": ["zero investment", "digital nomad", "consulting", "remote work", "travel"]
+    },
+    {
+      "id": 1835,
+      "name": "Remote Work Setup Consultant",
+      "description": "Help people set up effective remote work environments.",
+      "revenue_model": "$75-400 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Remote Work",
+      "tags": ["zero investment", "remote work", "setup", "consulting", "productivity"]
+    },
+    {
+      "id": 1836,
+      "name": "Home Office Designer",
+      "description": "Design home office layouts and setups virtually.",
+      "revenue_model": "$100-800 per design",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Home Office",
+      "tags": ["low investment", "home office", "design", "remote work", "productivity"]
+    },
+    {
+      "id": 1837,
+      "name": "Ergonomics Consultant",
+      "description": "Provide ergonomic assessments for home offices.",
+      "revenue_model": "$75-400 per assessment",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Ergonomics",
+      "tags": ["zero investment", "ergonomics", "consulting", "health", "workspace"]
+    },
+    {
+      "id": 1838,
+      "name": "Desk Setup Optimizer",
+      "description": "Optimize desk setups for productivity and comfort.",
+      "revenue_model": "$50-300 per optimization",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "desk setup", "optimization", "productivity", "ergonomics"]
+    },
+    {
+      "id": 1839,
+      "name": "Cable Management Consultant",
+      "description": "Advise on cable management solutions for workspaces.",
+      "revenue_model": "$30-200 per consultation",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Workspace",
+      "tags": ["zero investment", "cable management", "organization", "workspace", "consulting"]
+    },
+    {
+      "id": 1840,
+      "name": "Digital File Organization",
+      "description": "Organize digital files and folders for individuals and businesses.",
+      "revenue_model": "$50-300 per project",
+      "difficulty": "Easy",
+      "sector": "Organization",
+      "category": "Digital",
+      "tags": ["zero investment", "digital", "file organization", "productivity", "consulting"]
+    },
+    {
+      "id": 1841,
+      "name": "Cloud Storage Consultant",
+      "description": "Help people choose and organize cloud storage solutions.",
+      "revenue_model": "$50-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Cloud Storage",
+      "tags": ["zero investment", "cloud storage", "consulting", "organization", "digital"]
+    },
+    {
+      "id": 1842,
+      "name": "Password Manager Setup",
+      "description": "Help people set up and use password managers.",
+      "revenue_model": "$30-200 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Security",
+      "tags": ["zero investment", "password manager", "security", "setup", "consulting"]
+    },
+    {
+      "id": 1843,
+      "name": "Digital Security Consultant",
+      "description": "Advise individuals on digital security best practices.",
+      "revenue_model": "$75-400 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "digital security", "consulting", "privacy", "cybersecurity"]
+    },
+    {
+      "id": 1844,
+      "name": "Privacy Audit Service",
+      "description": "Audit digital privacy settings and provide recommendations.",
+      "revenue_model": "$100-600 per audit",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Privacy",
+      "tags": ["zero investment", "privacy", "audit", "security", "consulting"]
+    },
+    {
+      "id": 1845,
+      "name": "Social Media Privacy Consultant",
+      "description": "Help people secure their social media privacy settings.",
+      "revenue_model": "$50-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Privacy",
+      "tags": ["zero investment", "social media", "privacy", "security", "consulting"]
+    },
+    {
+      "id": 1846,
+      "name": "Digital Detox Coach",
+      "description": "Coach people through digital detoxes and screen time reduction.",
+      "revenue_model": "$50-250/month per client",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "digital detox", "coaching", "wellness", "screen time"]
+    },
+    {
+      "id": 1847,
+      "name": "Screen Time Reduction Consultant",
+      "description": "Help people reduce screen time and improve digital wellness.",
+      "revenue_model": "$50-250 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "screen time", "digital wellness", "consulting", "health"]
+    },
+    {
+      "id": 1848,
+      "name": "App Blocker Setup Service",
+      "description": "Help people set up app blockers and focus tools.",
+      "revenue_model": "$30-150 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Productivity",
+      "tags": ["zero investment", "app blocker", "productivity", "focus", "setup"]
+    },
+    {
+      "id": 1849,
+      "name": "Digital Minimalism Coach",
+      "description": "Coach people on digital minimalism practices.",
+      "revenue_model": "$50-250/month per client",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Minimalism",
+      "tags": ["zero investment", "digital minimalism", "coaching", "simplicity", "wellness"]
+    },
+    {
+      "id": 1850,
+      "name": "Email Inbox Zero Consultant",
+      "description": "Help people achieve and maintain inbox zero.",
+      "revenue_model": "$50-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "inbox zero", "email", "productivity", "consulting"]
+    },
+    {
+      "id": 1851,
+      "name": "Email Management System Designer",
+      "description": "Design email management systems and workflows.",
+      "revenue_model": "$100-600 per system",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Email",
+      "tags": ["zero investment", "email management", "productivity", "workflow", "consulting"]
+    },
+    {
+      "id": 1852,
+      "name": "Email Filter Setup Service",
+      "description": "Set up email filters and rules for organization.",
+      "revenue_model": "$50-300 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Email",
+      "tags": ["zero investment", "email filters", "organization", "productivity", "setup"]
+    },
+    {
+      "id": 1853,
+      "name": "Email Unsubscribe Service",
+      "description": "Help people unsubscribe from unwanted emails.",
+      "revenue_model": "$30-150 per service",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Email",
+      "tags": ["zero investment", "email", "unsubscribe", "declutter", "service"]
+    },
+    {
+      "id": 1854,
+      "name": "Newsletter Curator",
+      "description": "Curate newsletters on specific topics for subscribers.",
+      "revenue_model": "$5-20/month per subscriber",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Newsletter",
+      "tags": ["zero investment", "newsletter", "curation", "content", "subscription"]
+    },
+    {
+      "id": 1855,
+      "name": "Link Roundup Creator",
+      "description": "Create weekly link roundups for specific niches.",
+      "revenue_model": "$5-15/month per subscriber",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Newsletter",
+      "tags": ["zero investment", "link roundup", "curation", "newsletter", "content"]
+    },
+    {
+      "id": 1856,
+      "name": "Resource List Compiler",
+      "description": "Compile and sell resource lists for various topics.",
+      "revenue_model": "$5-50 per list",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Resources",
+      "tags": ["zero investment", "resource list", "compilation", "content", "digital products"]
+    },
+    {
+      "id": 1857,
+      "name": "Tool Recommendation Service",
+      "description": "Recommend tools and software for specific needs.",
+      "revenue_model": "$20-150 per recommendation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Tools",
+      "tags": ["zero investment", "tools", "software", "recommendations", "consulting"]
+    },
+    {
+      "id": 1858,
+      "name": "Software Comparison Service",
+      "description": "Compare software options and provide recommendations.",
+      "revenue_model": "$50-400 per comparison",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Software",
+      "tags": ["zero investment", "software", "comparison", "analysis", "consulting"]
+    },
+    {
+      "id": 1859,
+      "name": "Tech Stack Consultant",
+      "description": "Advise startups on choosing their tech stack.",
+      "revenue_model": "$200-2000 per consultation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Technology",
+      "tags": ["zero investment", "tech stack", "consulting", "startups", "technology"]
+    },
+    {
+      "id": 1860,
+      "name": "No-Code Tool Consultant",
+      "description": "Help businesses choose and implement no-code tools.",
+      "revenue_model": "$100-800 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "No-Code",
+      "tags": ["zero investment", "no-code", "consulting", "tools", "automation"]
+    },
+    {
+      "id": 1861,
+      "name": "Automation Opportunity Finder",
+      "description": "Identify automation opportunities in businesses.",
+      "revenue_model": "$200-1500 per audit",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Automation",
+      "tags": ["zero investment", "automation", "consulting", "efficiency", "business"]
+    },
+    {
+      "id": 1862,
+      "name": "Process Documentation Service",
+      "description": "Document business processes and workflows.",
+      "revenue_model": "$100-800 per process",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "process", "documentation", "workflow", "business"]
+    },
+    {
+      "id": 1863,
+      "name": "Video Process Documentation",
+      "description": "Create video documentation of processes using screen recording.",
+      "revenue_model": "$100-800 per process",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Documentation",
+      "tags": ["zero investment", "video", "documentation", "process", "training"]
+    },
+    {
+      "id": 1864,
+      "name": "Loom Video Creator",
+      "description": "Create Loom videos for training and communication.",
+      "revenue_model": "$50-400 per video",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Video",
+      "tags": ["zero investment", "Loom", "video", "training", "communication"]
+    },
+    {
+      "id": 1865,
+      "name": "Screen Recording Service",
+      "description": "Create screen recordings for tutorials and demos.",
+      "revenue_model": "$50-400 per recording",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Video",
+      "tags": ["zero investment", "screen recording", "tutorial", "demo", "video"]
+    },
+    {
+      "id": 1866,
+      "name": "Tutorial Video Creator",
+      "description": "Create tutorial videos for software and tools.",
+      "revenue_model": "$100-800 per tutorial",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Video",
+      "tags": ["zero investment", "tutorial", "video", "education", "content"]
+    },
+    {
+      "id": 1867,
+      "name": "Software Demo Video Creator",
+      "description": "Create demo videos for software products.",
+      "revenue_model": "$200-1500 per demo",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Video",
+      "tags": ["zero investment", "demo", "video", "software", "marketing"]
+    },
+    {
+      "id": 1868,
+      "name": "Product Hunt Launch Consultant",
+      "description": "Help startups launch successfully on Product Hunt.",
+      "revenue_model": "$300-2000 per launch",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Product Launch",
+      "tags": ["zero investment", "Product Hunt", "launch", "consulting", "startups"]
+    },
+    {
+      "id": 1869,
+      "name": "Beta Tester Recruiter",
+      "description": "Recruit beta testers for new products.",
+      "revenue_model": "$200-1500 per campaign",
+      "difficulty": "Easy",
+      "sector": "Marketing",
+      "category": "Product Launch",
+      "tags": ["zero investment", "beta testing", "recruiting", "product launch", "marketing"]
+    },
+    {
+      "id": 1870,
+      "name": "Product Feedback Analyst",
+      "description": "Analyze product feedback and provide insights.",
+      "revenue_model": "$200-1500 per analysis",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Product",
+      "tags": ["zero investment", "feedback", "analysis", "product", "insights"]
+    },
+    {
+      "id": 1871,
+      "name": "Feature Prioritization Consultant",
+      "description": "Help product teams prioritize features.",
+      "revenue_model": "$300-2000 per session",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Product",
+      "tags": ["zero investment", "feature prioritization", "product", "consulting", "strategy"]
+    },
+    {
+      "id": 1872,
+      "name": "Product Roadmap Creator",
+      "description": "Create product roadmaps for startups.",
+      "revenue_model": "$500-3000 per roadmap",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Product",
+      "tags": ["zero investment", "roadmap", "product", "planning", "strategy"]
+    },
+    {
+      "id": 1873,
+      "name": "User Story Writer",
+      "description": "Write user stories for product development.",
+      "revenue_model": "$20-150 per story",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Product",
+      "tags": ["zero investment", "user stories", "product", "agile", "writing"]
+    },
+    {
+      "id": 1874,
+      "name": "Acceptance Criteria Writer",
+      "description": "Write acceptance criteria for user stories.",
+      "revenue_model": "$15-100 per story",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Product",
+      "tags": ["zero investment", "acceptance criteria", "product", "agile", "writing"]
+    },
+    {
+      "id": 1875,
+      "name": "Product Requirements Document Writer",
+      "description": "Write PRDs for product features.",
+      "revenue_model": "$200-1500 per PRD",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Product",
+      "tags": ["zero investment", "PRD", "product", "documentation", "writing"]
+    },
+    {
+      "id": 1876,
+      "name": "Technical Specification Writer",
+      "description": "Write technical specifications for development.",
+      "revenue_model": "$300-2000 per spec",
+      "difficulty": "Hard",
+      "sector": "Technical Writing",
+      "category": "Documentation",
+      "tags": ["zero investment", "technical spec", "documentation", "development", "writing"]
+    },
+    {
+      "id": 1877,
+      "name": "Bug Report Writer",
+      "description": "Write detailed bug reports for QA testing.",
+      "revenue_model": "$10-50 per report",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "QA",
+      "tags": ["zero investment", "bug report", "QA", "testing", "writing"]
+    },
+    {
+      "id": 1878,
+      "name": "QA Test Case Writer",
+      "description": "Write test cases for software QA.",
+      "revenue_model": "$20-150 per test case",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "QA",
+      "tags": ["zero investment", "test case", "QA", "testing", "writing"]
+    },
+    {
+      "id": 1879,
+      "name": "QA Testing Consultant",
+      "description": "Provide QA testing strategy and consulting.",
+      "revenue_model": "$75-300/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "QA",
+      "tags": ["zero investment", "QA", "testing", "consulting", "quality"]
+    },
+    {
+      "id": 1880,
+      "name": "Usability Testing Facilitator",
+      "description": "Facilitate usability testing sessions.",
+      "revenue_model": "$100-800 per session",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "UX",
+      "tags": ["zero investment", "usability testing", "UX", "research", "facilitation"]
+    },
+    {
+      "id": 1881,
+      "name": "User Interview Conductor",
+      "description": "Conduct user interviews for product research.",
+      "revenue_model": "$75-400 per interview",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "user interview", "research", "UX", "product"]
+    },
+    {
+      "id": 1882,
+      "name": "User Research Analyst",
+      "description": "Analyze user research data and provide insights.",
+      "revenue_model": "$200-1500 per analysis",
+      "difficulty": "Hard",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "user research", "analysis", "UX", "insights"]
+    },
+    {
+      "id": 1883,
+      "name": "Persona Creator",
+      "description": "Create user personas for product development.",
+      "revenue_model": "$100-800 per persona",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "persona", "user research", "UX", "product"]
+    },
+    {
+      "id": 1884,
+      "name": "Empathy Map Creator",
+      "description": "Create empathy maps for user understanding.",
+      "revenue_model": "$75-600 per map",
+      "difficulty": "Easy",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "empathy map", "UX", "research", "user"]
+    },
+    {
+      "id": 1885,
+      "name": "Jobs-to-be-Done Researcher",
+      "description": "Conduct JTBD research for products.",
+      "revenue_model": "$300-2000 per research",
+      "difficulty": "Hard",
+      "sector": "Research",
+      "category": "Product",
+      "tags": ["zero investment", "JTBD", "research", "product", "strategy"]
+    },
+    {
+      "id": 1886,
+      "name": "Voice of Customer Analyst",
+      "description": "Analyze voice of customer data.",
+      "revenue_model": "$200-1500 per analysis",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "Customer",
+      "tags": ["zero investment", "voice of customer", "analysis", "research", "insights"]
+    },
+    {
+      "id": 1887,
+      "name": "Customer Interview Transcriber",
+      "description": "Transcribe customer interviews for analysis.",
+      "revenue_model": "$15-40/audio hour",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Transcription",
+      "tags": ["zero investment", "transcription", "customer", "interview", "research"]
+    },
+    {
+      "id": 1888,
+      "name": "Focus Group Moderator",
+      "description": "Moderate online focus groups.",
+      "revenue_model": "$150-1000 per session",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "Focus Groups",
+      "tags": ["zero investment", "focus group", "moderation", "research", "facilitation"]
+    },
+    {
+      "id": 1889,
+      "name": "Survey Response Analyst",
+      "description": "Analyze survey responses and provide insights.",
+      "revenue_model": "$100-800 per analysis",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "Surveys",
+      "tags": ["zero investment", "survey", "analysis", "research", "insights"]
+    },
+    {
+      "id": 1890,
+      "name": "Data Visualization Creator",
+      "description": "Create data visualizations from datasets.",
+      "revenue_model": "$100-800 per visualization",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "data visualization", "design", "analytics", "charts"]
+    },
+    {
+      "id": 1891,
+      "name": "Chart and Graph Designer",
+      "description": "Design professional charts and graphs.",
+      "revenue_model": "$50-400 per chart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "charts", "graphs", "design", "data"]
+    },
+    {
+      "id": 1892,
+      "name": "Dashboard Designer",
+      "description": "Design data dashboards for businesses.",
+      "revenue_model": "$300-2000 per dashboard",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "dashboard", "design", "data", "analytics"]
+    },
+    {
+      "id": 1893,
+      "name": "Report Designer",
+      "description": "Design professional reports and presentations.",
+      "revenue_model": "$100-800 per report",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Reports",
+      "tags": ["low investment", "report", "design", "presentation", "business"]
+    },
+    {
+      "id": 1894,
+      "name": "Annual Report Designer",
+      "description": "Design annual reports for companies.",
+      "revenue_model": "$500-5000 per report",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Reports",
+      "tags": ["low investment", "annual report", "design", "corporate", "business"]
+    },
+    {
+      "id": 1895,
+      "name": "White Paper Designer",
+      "description": "Design and layout white papers.",
+      "revenue_model": "$300-2000 per white paper",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Documents",
+      "tags": ["low investment", "white paper", "design", "layout", "B2B"]
+    },
+    {
+      "id": 1896,
+      "name": "eBook Designer",
+      "description": "Design and format eBooks for publishing.",
+      "revenue_model": "$100-800 per eBook",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Publishing",
+      "tags": ["low investment", "ebook", "design", "formatting", "publishing"]
+    },
+    {
+      "id": 1897,
+      "name": "Lead Magnet Designer",
+      "description": "Design lead magnets like PDFs and guides.",
+      "revenue_model": "$100-600 per lead magnet",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "lead magnet", "design", "PDF", "marketing"]
+    },
+    {
+      "id": 1898,
+      "name": "One-Pager Designer",
+      "description": "Design one-page marketing materials.",
+      "revenue_model": "$50-400 per one-pager",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "one-pager", "design", "marketing", "sales"]
+    },
+    {
+      "id": 1899,
+      "name": "Sell Sheet Designer",
+      "description": "Design product sell sheets for sales teams.",
+      "revenue_model": "$75-600 per sheet",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Sales",
+      "tags": ["low investment", "sell sheet", "design", "sales", "marketing"]
+    },
+    {
+      "id": 1900,
+      "name": "Brochure Designer",
+      "description": "Design digital and print brochures.",
+      "revenue_model": "$100-800 per brochure",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "brochure", "design", "marketing", "print"]
+    },
+    {
+      "id": 1901,
+      "name": "Catalog Designer",
+      "description": "Design product catalogs for businesses.",
+      "revenue_model": "$300-3000 per catalog",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "catalog", "design", "products", "e-commerce"]
+    },
+    {
+      "id": 1902,
+      "name": "Lookbook Designer",
+      "description": "Design fashion lookbooks for brands.",
+      "revenue_model": "$300-2000 per lookbook",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Fashion",
+      "tags": ["low investment", "lookbook", "design", "fashion", "branding"]
+    },
+    {
+      "id": 1903,
+      "name": "Portfolio Designer",
+      "description": "Design professional portfolios for creatives.",
+      "revenue_model": "$200-1500 per portfolio",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Portfolio",
+      "tags": ["low investment", "portfolio", "design", "creative", "professional"]
+    },
+    {
+      "id": 1904,
+      "name": "Resume Designer",
+      "description": "Design visually appealing resumes.",
+      "revenue_model": "$50-300 per resume",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Career",
+      "tags": ["low investment", "resume", "design", "career", "job search"]
+    },
+    {
+      "id": 1905,
+      "name": "CV Designer",
+      "description": "Design academic and professional CVs.",
+      "revenue_model": "$75-400 per CV",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Career",
+      "tags": ["low investment", "CV", "design", "academic", "professional"]
+    },
+    {
+      "id": 1906,
+      "name": "Cover Letter Designer",
+      "description": "Design formatted cover letters.",
+      "revenue_model": "$30-200 per letter",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Career",
+      "tags": ["low investment", "cover letter", "design", "career", "job search"]
+    },
+    {
+      "id": 1907,
+      "name": "LinkedIn Banner Designer",
+      "description": "Design LinkedIn profile banners.",
+      "revenue_model": "$20-150 per banner",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "LinkedIn",
+      "tags": ["low investment", "LinkedIn", "banner", "design", "professional"]
+    },
+    {
+      "id": 1908,
+      "name": "Twitter Header Designer",
+      "description": "Design Twitter profile headers.",
+      "revenue_model": "$15-100 per header",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Twitter",
+      "tags": ["low investment", "Twitter", "header", "design", "social media"]
+    },
+    {
+      "id": 1909,
+      "name": "Facebook Cover Designer",
+      "description": "Design Facebook page covers.",
+      "revenue_model": "$20-150 per cover",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Facebook",
+      "tags": ["low investment", "Facebook", "cover", "design", "social media"]
+    },
+    {
+      "id": 1910,
+      "name": "YouTube Channel Art Designer",
+      "description": "Design complete YouTube channel art packages.",
+      "revenue_model": "$50-400 per package",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "YouTube",
+      "tags": ["low investment", "YouTube", "channel art", "design", "branding"]
+    },
+    {
+      "id": 1911,
+      "name": "Twitch Panel Designer",
+      "description": "Design Twitch channel panels and graphics.",
+      "revenue_model": "$50-400 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Twitch",
+      "tags": ["low investment", "Twitch", "panels", "design", "streaming"]
+    },
+    {
+      "id": 1912,
+      "name": "Stream Alert Designer",
+      "description": "Design custom stream alerts for streamers.",
+      "revenue_model": "$30-300 per set",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Streaming",
+      "tags": ["low investment", "stream alerts", "design", "Twitch", "streaming"]
+    },
+    {
+      "id": 1913,
+      "name": "Emote Designer",
+      "description": "Design custom emotes for Twitch and Discord.",
+      "revenue_model": "$20-150 per emote",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Streaming",
+      "tags": ["low investment", "emotes", "design", "Twitch", "Discord"]
+    },
+    {
+      "id": 1914,
+      "name": "Badge Designer",
+      "description": "Design subscriber badges for streaming platforms.",
+      "revenue_model": "$30-200 per set",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Streaming",
+      "tags": ["low investment", "badges", "design", "Twitch", "streaming"]
+    },
+    {
+      "id": 1915,
+      "name": "Discord Server Icon Designer",
+      "description": "Design custom Discord server icons.",
+      "revenue_model": "$20-150 per icon",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Discord",
+      "tags": ["low investment", "Discord", "icon", "design", "server"]
+    },
+    {
+      "id": 1916,
+      "name": "Discord Banner Designer",
+      "description": "Design Discord server banners.",
+      "revenue_model": "$30-200 per banner",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Discord",
+      "tags": ["low investment", "Discord", "banner", "design", "server"]
+    },
+    {
+      "id": 1917,
+      "name": "Discord Role Icon Designer",
+      "description": "Design custom role icons for Discord servers.",
+      "revenue_model": "$15-100 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Discord",
+      "tags": ["low investment", "Discord", "role icons", "design", "server"]
+    },
+    {
+      "id": 1918,
+      "name": "App Icon Designer",
+      "description": "Design app icons for mobile applications.",
+      "revenue_model": "$100-800 per icon",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "App Design",
+      "tags": ["low investment", "app icon", "design", "mobile", "branding"]
+    },
+    {
+      "id": 1919,
+      "name": "Favicon Designer",
+      "description": "Design favicons for websites.",
+      "revenue_model": "$20-150 per favicon",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "favicon", "design", "website", "branding"]
+    },
+    {
+      "id": 1920,
+      "name": "Loading Animation Designer",
+      "description": "Design loading animations for websites and apps.",
+      "revenue_model": "$50-400 per animation",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Animation",
+      "tags": ["low investment", "loading animation", "design", "UX", "web"]
+    },
+    {
+      "id": 1921,
+      "name": "Micro-Interaction Designer",
+      "description": "Design micro-interactions for apps and websites.",
+      "revenue_model": "$75-600 per interaction",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "micro-interactions", "design", "UX", "animation"]
+    },
+    {
+      "id": 1922,
+      "name": "Button Designer",
+      "description": "Design custom button sets for websites and apps.",
+      "revenue_model": "$30-300 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UI",
+      "tags": ["low investment", "buttons", "design", "UI", "web"]
+    },
+    {
+      "id": 1923,
+      "name": "Form Designer",
+      "description": "Design user-friendly forms for websites.",
+      "revenue_model": "$50-400 per form",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "forms", "design", "UX", "web"]
+    },
+    {
+      "id": 1924,
+      "name": "Modal Designer",
+      "description": "Design modal windows and popups.",
+      "revenue_model": "$40-300 per modal",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UI",
+      "tags": ["low investment", "modal", "design", "UI", "web"]
+    },
+    {
+      "id": 1925,
+      "name": "Notification Designer",
+      "description": "Design notification UI elements.",
+      "revenue_model": "$30-250 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UI",
+      "tags": ["low investment", "notifications", "design", "UI", "UX"]
+    },
+    {
+      "id": 1926,
+      "name": "Empty State Designer",
+      "description": "Design empty state screens for apps.",
+      "revenue_model": "$50-400 per state",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "empty state", "design", "UX", "app"]
+    },
+    {
+      "id": 1927,
+      "name": "Error State Designer",
+      "description": "Design error state screens and messages.",
+      "revenue_model": "$50-400 per state",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "error state", "design", "UX", "app"]
+    },
+    {
+      "id": 1928,
+      "name": "Success State Designer",
+      "description": "Design success confirmation screens.",
+      "revenue_model": "$40-300 per state",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "success state", "design", "UX", "app"]
+    },
+    {
+      "id": 1929,
+      "name": "Onboarding Screen Designer",
+      "description": "Design app onboarding screens.",
+      "revenue_model": "$200-1500 per flow",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "onboarding", "design", "UX", "app"]
+    },
+    {
+      "id": 1930,
+      "name": "Splash Screen Designer",
+      "description": "Design app splash screens.",
+      "revenue_model": "$50-400 per screen",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "App Design",
+      "tags": ["low investment", "splash screen", "design", "app", "branding"]
+    },
+    {
+      "id": 1931,
+      "name": "Tab Bar Designer",
+      "description": "Design mobile app tab bars.",
+      "revenue_model": "$75-600 per tab bar",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "App Design",
+      "tags": ["low investment", "tab bar", "design", "mobile", "UI"]
+    },
+    {
+      "id": 1932,
+      "name": "Navigation Menu Designer",
+      "description": "Design website and app navigation menus.",
+      "revenue_model": "$100-800 per menu",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UI",
+      "tags": ["low investment", "navigation", "design", "UI", "UX"]
+    },
+    {
+      "id": 1933,
+      "name": "Footer Designer",
+      "description": "Design website footers.",
+      "revenue_model": "$50-400 per footer",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "footer", "design", "website", "UI"]
+    },
+    {
+      "id": 1934,
+      "name": "Header Designer",
+      "description": "Design website headers.",
+      "revenue_model": "$75-600 per header",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "header", "design", "website", "UI"]
+    },
+    {
+      "id": 1935,
+      "name": "Hero Section Designer",
+      "description": "Design website hero sections.",
+      "revenue_model": "$100-800 per section",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "hero section", "design", "website", "landing page"]
+    },
+    {
+      "id": 1936,
+      "name": "CTA Button Optimizer",
+      "description": "Optimize call-to-action buttons for conversions.",
+      "revenue_model": "$50-400 per optimization",
+      "difficulty": "Easy",
+      "sector": "Marketing",
+      "category": "CRO",
+      "tags": ["zero investment", "CTA", "optimization", "conversion", "marketing"]
+    },
+    {
+      "id": 1937,
+      "name": "Pricing Page Designer",
+      "description": "Design pricing pages for SaaS and products.",
+      "revenue_model": "$200-1500 per page",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "pricing page", "design", "SaaS", "conversion"]
+    },
+    {
+      "id": 1938,
+      "name": "Comparison Table Designer",
+      "description": "Design product comparison tables.",
+      "revenue_model": "$75-600 per table",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "comparison table", "design", "product", "marketing"]
+    },
+    {
+      "id": 1939,
+      "name": "Feature List Designer",
+      "description": "Design feature lists for product pages.",
+      "revenue_model": "$50-400 per list",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "feature list", "design", "product", "marketing"]
+    },
+    {
+      "id": 1940,
+      "name": "Testimonial Section Designer",
+      "description": "Design testimonial sections for websites.",
+      "revenue_model": "$75-600 per section",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web Design",
+      "tags": ["low investment", "testimonials", "design", "social proof", "marketing"]
+    },
+    {
+      "id": 1941,
+      "name": "Trust Badge Designer",
+      "description": "Design trust badges and security seals.",
+      "revenue_model": "$30-250 per badge",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "trust badge", "design", "e-commerce", "conversion"]
+    },
+    {
+      "id": 1942,
+      "name": "Guarantee Badge Designer",
+      "description": "Design money-back guarantee badges.",
+      "revenue_model": "$30-250 per badge",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "guarantee", "badge", "design", "conversion"]
+    },
+    {
+      "id": 1943,
+      "name": "Shipping Badge Designer",
+      "description": "Design free shipping and delivery badges.",
+      "revenue_model": "$25-200 per badge",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "shipping", "badge", "design", "e-commerce"]
+    },
+    {
+      "id": 1944,
+      "name": "Sale Badge Designer",
+      "description": "Design sale and discount badges.",
+      "revenue_model": "$20-150 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "sale badge", "design", "e-commerce", "promotion"]
+    },
+    {
+      "id": 1945,
+      "name": "Product Label Designer",
+      "description": "Design product labels and tags.",
+      "revenue_model": "$30-250 per label",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "product label", "design", "e-commerce", "branding"]
+    },
+    {
+      "id": 1946,
+      "name": "Size Chart Designer",
+      "description": "Design size charts for clothing and products.",
+      "revenue_model": "$50-400 per chart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "E-commerce",
+      "tags": ["low investment", "size chart", "design", "e-commerce", "fashion"]
+    },
+    {
+      "id": 1947,
+      "name": "Product Image Editor",
+      "description": "Edit and enhance product images for e-commerce.",
+      "revenue_model": "$5-50 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "E-commerce",
+      "tags": ["low investment", "product images", "editing", "e-commerce", "photography"]
+    },
+    {
+      "id": 1948,
+      "name": "Background Removal Service",
+      "description": "Remove backgrounds from product images.",
+      "revenue_model": "$2-20 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "background removal", "editing", "e-commerce", "images"]
+    },
+    {
+      "id": 1949,
+      "name": "Image Retouching Service",
+      "description": "Retouch and enhance photos.",
+      "revenue_model": "$10-100 per image",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "retouching", "editing", "photography", "images"]
+    },
+    {
+      "id": 1950,
+      "name": "Photo Color Correction",
+      "description": "Color correct and grade photos.",
+      "revenue_model": "$10-80 per image",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "color correction", "editing", "photography", "images"]
+    },
+    {
+      "id": 1951,
+      "name": "Photo Restoration Service",
+      "description": "Restore old and damaged photos.",
+      "revenue_model": "$20-200 per photo",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "photo restoration", "editing", "vintage", "family"]
+    },
+    {
+      "id": 1952,
+      "name": "Photo Colorization Service",
+      "description": "Colorize black and white photos.",
+      "revenue_model": "$15-150 per photo",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "colorization", "editing", "vintage", "photos"]
+    },
+    {
+      "id": 1953,
+      "name": "Image Resizing Service",
+      "description": "Resize images for various platforms and uses.",
+      "revenue_model": "$2-15 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "image resizing", "editing", "optimization", "web"]
+    },
+    {
+      "id": 1954,
+      "name": "Image Compression Service",
+      "description": "Compress images for web optimization.",
+      "revenue_model": "$2-15 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "image compression", "optimization", "web", "speed"]
+    },
+    {
+      "id": 1955,
+      "name": "Image Format Converter",
+      "description": "Convert images between formats (JPG, PNG, WebP, etc.).",
+      "revenue_model": "$1-10 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "image conversion", "format", "web", "optimization"]
+    },
+    {
+      "id": 1956,
+      "name": "Watermark Removal Service",
+      "description": "Remove watermarks from images (with permission).",
+      "revenue_model": "$10-80 per image",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["low investment", "watermark removal", "editing", "images", "cleanup"]
+    },
+    {
+      "id": 1957,
+      "name": "Watermark Addition Service",
+      "description": "Add watermarks to protect images.",
+      "revenue_model": "$2-20 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "watermark", "protection", "images", "branding"]
+    },
+    {
+      "id": 1958,
+      "name": "Batch Image Processing",
+      "description": "Process multiple images in batch (resize, compress, convert).",
+      "revenue_model": "$0.50-5 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "batch processing", "images", "automation", "efficiency"]
+    },
+    {
+      "id": 1959,
+      "name": "Image Metadata Editor",
+      "description": "Edit image metadata and EXIF data.",
+      "revenue_model": "$2-15 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Image Editing",
+      "tags": ["zero investment", "metadata", "EXIF", "images", "SEO"]
+    },
+    {
+      "id": 1960,
+      "name": "Alt Text Writer for Images",
+      "description": "Write alt text for images for SEO and accessibility.",
+      "revenue_model": "$2-10 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "SEO",
+      "tags": ["zero investment", "alt text", "SEO", "accessibility", "images"]
+    },
+    {
+      "id": 1961,
+      "name": "Image SEO Optimizer",
+      "description": "Optimize images for SEO (filename, alt text, compression).",
+      "revenue_model": "$5-30 per image",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "SEO",
+      "tags": ["zero investment", "image SEO", "optimization", "search", "web"]
+    },
+    {
+      "id": 1962,
+      "name": "Screenshot Service",
+      "description": "Take screenshots of websites for portfolios and documentation.",
+      "revenue_model": "$5-30 per screenshot",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Web",
+      "tags": ["zero investment", "screenshot", "website", "documentation", "portfolio"]
+    },
+    {
+      "id": 1963,
+      "name": "Website Mockup Creator",
+      "description": "Create website mockups in device frames.",
+      "revenue_model": "$10-80 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "website", "presentation", "design"]
+    },
+    {
+      "id": 1964,
+      "name": "App Mockup Creator",
+      "description": "Create app mockups in phone/tablet frames.",
+      "revenue_model": "$10-80 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "app", "presentation", "design"]
+    },
+    {
+      "id": 1965,
+      "name": "Product Mockup Creator",
+      "description": "Create product mockups (t-shirts, mugs, books, etc.).",
+      "revenue_model": "$10-80 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "product", "presentation", "e-commerce"]
+    },
+    {
+      "id": 1966,
+      "name": "Book Cover Mockup Creator",
+      "description": "Create book cover mockups for authors.",
+      "revenue_model": "$10-60 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "book cover", "publishing", "design"]
+    },
+    {
+      "id": 1967,
+      "name": "Business Card Mockup Creator",
+      "description": "Create business card mockups.",
+      "revenue_model": "$5-40 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "business card", "presentation", "design"]
+    },
+    {
+      "id": 1968,
+      "name": "Packaging Mockup Creator",
+      "description": "Create product packaging mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "packaging", "product", "design"]
+    },
+    {
+      "id": 1969,
+      "name": "Social Media Mockup Creator",
+      "description": "Create social media post mockups.",
+      "revenue_model": "$5-40 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "social media", "presentation", "design"]
+    },
+    {
+      "id": 1970,
+      "name": "Billboard Mockup Creator",
+      "description": "Create billboard and outdoor advertising mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "billboard", "advertising", "design"]
+    },
+    {
+      "id": 1971,
+      "name": "Signage Mockup Creator",
+      "description": "Create signage and storefront mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "signage", "storefront", "design"]
+    },
+    {
+      "id": 1972,
+      "name": "Vehicle Wrap Mockup Creator",
+      "description": "Create vehicle wrap mockups for businesses.",
+      "revenue_model": "$20-150 per mockup",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "vehicle wrap", "advertising", "design"]
+    },
+    {
+      "id": 1973,
+      "name": "T-Shirt Design Mockup",
+      "description": "Create t-shirt design mockups.",
+      "revenue_model": "$5-40 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "t-shirt", "apparel", "design"]
+    },
+    {
+      "id": 1974,
+      "name": "Apparel Mockup Creator",
+      "description": "Create mockups for various apparel items.",
+      "revenue_model": "$10-80 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "apparel", "fashion", "design"]
+    },
+    {
+      "id": 1975,
+      "name": "Mug Mockup Creator",
+      "description": "Create coffee mug mockups for designs.",
+      "revenue_model": "$5-40 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "mug", "product", "design"]
+    },
+    {
+      "id": 1976,
+      "name": "Poster Mockup Creator",
+      "description": "Create poster and print mockups.",
+      "revenue_model": "$10-60 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "poster", "print", "design"]
+    },
+    {
+      "id": 1977,
+      "name": "Frame Mockup Creator",
+      "description": "Create framed art mockups.",
+      "revenue_model": "$10-60 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "frame", "art", "design"]
+    },
+    {
+      "id": 1978,
+      "name": "Canvas Print Mockup",
+      "description": "Create canvas print mockups.",
+      "revenue_model": "$10-60 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "canvas", "print", "art"]
+    },
+    {
+      "id": 1979,
+      "name": "Magazine Mockup Creator",
+      "description": "Create magazine cover and spread mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "magazine", "publishing", "design"]
+    },
+    {
+      "id": 1980,
+      "name": "Newspaper Mockup Creator",
+      "description": "Create newspaper mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "newspaper", "publishing", "design"]
+    },
+    {
+      "id": 1981,
+      "name": "Stationery Mockup Creator",
+      "description": "Create stationery mockups (letterhead, envelopes, etc.).",
+      "revenue_model": "$10-80 per set",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "stationery", "branding", "design"]
+    },
+    {
+      "id": 1982,
+      "name": "Workspace Mockup Creator",
+      "description": "Create workspace scene mockups.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "workspace", "scene", "design"]
+    },
+    {
+      "id": 1983,
+      "name": "Lifestyle Mockup Creator",
+      "description": "Create lifestyle scene mockups for products.",
+      "revenue_model": "$15-100 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "lifestyle", "product", "design"]
+    },
+    {
+      "id": 1984,
+      "name": "Flat Lay Mockup Creator",
+      "description": "Create flat lay mockups for products.",
+      "revenue_model": "$10-80 per mockup",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "flat lay", "product", "design"]
+    },
+    {
+      "id": 1985,
+      "name": "3D Mockup Creator",
+      "description": "Create 3D product mockups.",
+      "revenue_model": "$20-200 per mockup",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "3D",
+      "tags": ["medium investment", "mockup", "3D", "product", "design"]
+    },
+    {
+      "id": 1986,
+      "name": "Animated Mockup Creator",
+      "description": "Create animated product mockups.",
+      "revenue_model": "$30-300 per mockup",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Animation",
+      "tags": ["medium investment", "mockup", "animation", "product", "design"]
+    },
+    {
+      "id": 1987,
+      "name": "Video Mockup Creator",
+      "description": "Create video mockups showing products in use.",
+      "revenue_model": "$50-500 per mockup",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Video",
+      "tags": ["medium investment", "mockup", "video", "product", "design"]
+    },
+    {
+      "id": 1988,
+      "name": "AR Mockup Creator",
+      "description": "Create augmented reality product mockups.",
+      "revenue_model": "$100-1000 per mockup",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "AR",
+      "tags": ["hard investment", "mockup", "AR", "product", "technology"]
+    },
+    {
+      "id": 1989,
+      "name": "Custom Mockup Service",
+      "description": "Create custom mockups based on client specifications.",
+      "revenue_model": "$50-500 per mockup",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "mockup", "custom", "design", "service"]
+    },
+    {
+      "id": 1990,
+      "name": "Mockup Template Creator",
+      "description": "Create mockup templates for others to use.",
+      "revenue_model": "$10-100 per template",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Templates",
+      "tags": ["low investment", "mockup", "template", "design", "passive income"]
+    },
+    {
+      "id": 1991,
+      "name": "Scene Creator for Mockups",
+      "description": "Create custom scenes for product mockups.",
+      "revenue_model": "$20-200 per scene",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Mockups",
+      "tags": ["low investment", "scene", "mockup", "design", "product"]
+    },
+    {
+      "id": 1992,
+      "name": "Mockup Bundle Creator",
+      "description": "Create mockup bundles to sell.",
+      "revenue_model": "$30-300 per bundle",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Digital Products",
+      "tags": ["low investment", "mockup", "bundle", "design", "passive income"]
+    },
+    {
+      "id": 1993,
+      "name": "Before/After Image Creator",
+      "description": "Create before/after comparison images.",
+      "revenue_model": "$10-80 per image",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "before after", "comparison", "design", "marketing"]
+    },
+    {
+      "id": 1994,
+      "name": "Comparison Image Creator",
+      "description": "Create side-by-side comparison images.",
+      "revenue_model": "$10-80 per image",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "comparison", "image", "design", "marketing"]
+    },
+    {
+      "id": 1995,
+      "name": "Feature Highlight Creator",
+      "description": "Create images highlighting product features.",
+      "revenue_model": "$15-100 per image",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "feature", "highlight", "design", "product"]
+    },
+    {
+      "id": 1996,
+      "name": "Step-by-Step Visual Creator",
+      "description": "Create step-by-step visual guides.",
+      "revenue_model": "$30-250 per guide",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Education",
+      "tags": ["low investment", "step-by-step", "visual", "guide", "education"]
+    },
+    {
+      "id": 1997,
+      "name": "Process Diagram Creator",
+      "description": "Create process flow diagrams.",
+      "revenue_model": "$30-250 per diagram",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "process", "diagram", "flowchart", "business"]
+    },
+    {
+      "id": 1998,
+      "name": "Flowchart Designer",
+      "description": "Design flowcharts for processes and systems.",
+      "revenue_model": "$30-250 per flowchart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "flowchart", "design", "process", "diagram"]
+    },
+    {
+      "id": 1999,
+      "name": "Mind Map Creator",
+      "description": "Create visual mind maps for brainstorming and planning.",
+      "revenue_model": "$20-150 per mind map",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Productivity",
+      "tags": ["low investment", "mind map", "brainstorming", "visual", "planning"]
+    },
+    {
+      "id": 2000,
+      "name": "Concept Map Designer",
+      "description": "Design concept maps for education and training.",
+      "revenue_model": "$30-250 per map",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Education",
+      "tags": ["low investment", "concept map", "education", "visual", "learning"]
+    },
+    {
+      "id": 2001,
+      "name": "Organizational Chart Designer",
+      "description": "Design org charts for companies.",
+      "revenue_model": "$50-400 per chart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "org chart", "design", "business", "structure"]
+    },
+    {
+      "id": 2002,
+      "name": "Timeline Designer",
+      "description": "Design visual timelines for projects and history.",
+      "revenue_model": "$30-250 per timeline",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Visual",
+      "tags": ["low investment", "timeline", "design", "visual", "project"]
+    },
+    {
+      "id": 2003,
+      "name": "Gantt Chart Creator",
+      "description": "Create Gantt charts for project management.",
+      "revenue_model": "$50-400 per chart",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Project Management",
+      "tags": ["low investment", "Gantt chart", "project management", "timeline", "planning"]
+    },
+    {
+      "id": 2004,
+      "name": "Roadmap Designer",
+      "description": "Design product and project roadmaps.",
+      "revenue_model": "$100-800 per roadmap",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Product",
+      "tags": ["low investment", "roadmap", "design", "product", "planning"]
+    },
+    {
+      "id": 2005,
+      "name": "Kanban Board Designer",
+      "description": "Design Kanban boards for workflow visualization.",
+      "revenue_model": "$50-400 per board",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Productivity",
+      "tags": ["low investment", "Kanban", "design", "workflow", "productivity"]
+    },
+    {
+      "id": 2006,
+      "name": "SWOT Analysis Designer",
+      "description": "Design visual SWOT analysis diagrams.",
+      "revenue_model": "$30-250 per analysis",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "SWOT", "analysis", "design", "strategy"]
+    },
+    {
+      "id": 2007,
+      "name": "Business Model Canvas Designer",
+      "description": "Design business model canvases.",
+      "revenue_model": "$50-400 per canvas",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "business model", "canvas", "design", "strategy"]
+    },
+    {
+      "id": 2008,
+      "name": "Value Proposition Canvas Designer",
+      "description": "Design value proposition canvases.",
+      "revenue_model": "$50-400 per canvas",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "value proposition", "canvas", "design", "strategy"]
+    },
+    {
+      "id": 2009,
+      "name": "Customer Journey Map Designer",
+      "description": "Design customer journey maps.",
+      "revenue_model": "$100-800 per map",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "customer journey", "map", "design", "UX"]
+    },
+    {
+      "id": 2010,
+      "name": "Service Blueprint Designer",
+      "description": "Design service blueprints for service design.",
+      "revenue_model": "$100-800 per blueprint",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Service Design",
+      "tags": ["low investment", "service blueprint", "design", "UX", "service"]
+    },
+    {
+      "id": 2011,
+      "name": "Stakeholder Map Designer",
+      "description": "Design stakeholder maps for projects.",
+      "revenue_model": "$50-400 per map",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "stakeholder", "map", "design", "project"]
+    },
+    {
+      "id": 2012,
+      "name": "Ecosystem Map Designer",
+      "description": "Design ecosystem maps for businesses.",
+      "revenue_model": "$100-800 per map",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "ecosystem", "map", "design", "strategy"]
+    },
+    {
+      "id": 2013,
+      "name": "Venn Diagram Designer",
+      "description": "Design Venn diagrams for comparisons.",
+      "revenue_model": "$20-150 per diagram",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Visual",
+      "tags": ["low investment", "Venn diagram", "design", "comparison", "visual"]
+    },
+    {
+      "id": 2014,
+      "name": "Pie Chart Designer",
+      "description": "Design custom pie charts.",
+      "revenue_model": "$15-100 per chart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "pie chart", "design", "data", "visualization"]
+    },
+    {
+      "id": 2015,
+      "name": "Bar Chart Designer",
+      "description": "Design custom bar charts.",
+      "revenue_model": "$15-100 per chart",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "bar chart", "design", "data", "visualization"]
+    },
+    {
+      "id": 2016,
+      "name": "Line Graph Designer",
+      "description": "Design custom line graphs.",
+      "revenue_model": "$15-100 per graph",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "line graph", "design", "data", "visualization"]
+    },
+    {
+      "id": 2017,
+      "name": "Scatter Plot Designer",
+      "description": "Design scatter plots for data visualization.",
+      "revenue_model": "$20-150 per plot",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "scatter plot", "design", "data", "visualization"]
+    },
+    {
+      "id": 2018,
+      "name": "Heatmap Designer",
+      "description": "Design heatmaps for data visualization.",
+      "revenue_model": "$30-250 per heatmap",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "heatmap", "design", "data", "visualization"]
+    },
+    {
+      "id": 2019,
+      "name": "Funnel Diagram Designer",
+      "description": "Design sales and marketing funnel diagrams.",
+      "revenue_model": "$30-250 per funnel",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Marketing",
+      "tags": ["low investment", "funnel", "diagram", "design", "marketing"]
+    },
+    {
+      "id": 2020,
+      "name": "Pyramid Diagram Designer",
+      "description": "Design pyramid diagrams for hierarchies.",
+      "revenue_model": "$20-150 per diagram",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Visual",
+      "tags": ["low investment", "pyramid", "diagram", "design", "hierarchy"]
+    },
+    {
+      "id": 2021,
+      "name": "Cycle Diagram Designer",
+      "description": "Design cycle and circular process diagrams.",
+      "revenue_model": "$20-150 per diagram",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Visual",
+      "tags": ["low investment", "cycle", "diagram", "design", "process"]
+    },
+    {
+      "id": 2022,
+      "name": "Matrix Diagram Designer",
+      "description": "Design matrix diagrams for analysis.",
+      "revenue_model": "$30-250 per matrix",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Business",
+      "tags": ["low investment", "matrix", "diagram", "design", "analysis"]
+    },
+    {
+      "id": 2023,
+      "name": "Tree Diagram Designer",
+      "description": "Design tree diagrams for hierarchies and decisions.",
+      "revenue_model": "$30-250 per diagram",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Visual",
+      "tags": ["low investment", "tree diagram", "design", "hierarchy", "decision"]
+    },
+    {
+      "id": 2024,
+      "name": "Network Diagram Designer",
+      "description": "Design network and relationship diagrams.",
+      "revenue_model": "$50-400 per diagram",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "network", "diagram", "design", "relationships"]
+    },
+    {
+      "id": 2025,
+      "name": "Architecture Diagram Designer",
+      "description": "Design system architecture diagrams.",
+      "revenue_model": "$100-800 per diagram",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "architecture", "diagram", "design", "system"]
+    },
+    {
+      "id": 2026,
+      "name": "Database Schema Designer",
+      "description": "Design database schema diagrams.",
+      "revenue_model": "$100-800 per schema",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "database", "schema", "design", "technical"]
+    },
+    {
+      "id": 2027,
+      "name": "ERD Designer",
+      "description": "Design entity relationship diagrams.",
+      "revenue_model": "$100-800 per ERD",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "ERD", "database", "design", "technical"]
+    },
+    {
+      "id": 2028,
+      "name": "UML Diagram Designer",
+      "description": "Design UML diagrams for software.",
+      "revenue_model": "$100-800 per diagram",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "UML", "diagram", "design", "software"]
+    },
+    {
+      "id": 2029,
+      "name": "Sequence Diagram Designer",
+      "description": "Design sequence diagrams for processes.",
+      "revenue_model": "$50-400 per diagram",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "sequence", "diagram", "design", "process"]
+    },
+    {
+      "id": 2030,
+      "name": "Use Case Diagram Designer",
+      "description": "Design use case diagrams for software.",
+      "revenue_model": "$50-400 per diagram",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "use case", "diagram", "design", "software"]
+    },
+    {
+      "id": 2031,
+      "name": "Class Diagram Designer",
+      "description": "Design class diagrams for object-oriented design.",
+      "revenue_model": "$100-800 per diagram",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "class diagram", "OOP", "design", "software"]
+    },
+    {
+      "id": 2032,
+      "name": "State Diagram Designer",
+      "description": "Design state machine diagrams.",
+      "revenue_model": "$50-400 per diagram",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "state diagram", "design", "software", "logic"]
+    },
+    {
+      "id": 2033,
+      "name": "Activity Diagram Designer",
+      "description": "Design activity diagrams for workflows.",
+      "revenue_model": "$50-400 per diagram",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "activity diagram", "workflow", "design", "process"]
+    },
+    {
+      "id": 2034,
+      "name": "Component Diagram Designer",
+      "description": "Design component diagrams for systems.",
+      "revenue_model": "$100-800 per diagram",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "component", "diagram", "design", "system"]
+    },
+    {
+      "id": 2035,
+      "name": "Deployment Diagram Designer",
+      "description": "Design deployment diagrams for infrastructure.",
+      "revenue_model": "$100-800 per diagram",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "Technical",
+      "tags": ["low investment", "deployment", "diagram", "design", "infrastructure"]
+    },
+    {
+      "id": 2036,
+      "name": "Sitemap Designer",
+      "description": "Design website sitemaps.",
+      "revenue_model": "$50-400 per sitemap",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Web",
+      "tags": ["low investment", "sitemap", "design", "website", "structure"]
+    },
+    {
+      "id": 2037,
+      "name": "Information Architecture Designer",
+      "description": "Design information architecture for websites and apps.",
+      "revenue_model": "$200-1500 per project",
+      "difficulty": "Hard",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "information architecture", "IA", "design", "UX"]
+    },
+    {
+      "id": 2038,
+      "name": "Content Hierarchy Designer",
+      "description": "Design content hierarchies for websites.",
+      "revenue_model": "$100-800 per hierarchy",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "content hierarchy", "design", "UX", "structure"]
+    },
+    {
+      "id": 2039,
+      "name": "Navigation Structure Designer",
+      "description": "Design navigation structures for websites and apps.",
+      "revenue_model": "$100-800 per structure",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "UX",
+      "tags": ["low investment", "navigation", "structure", "design", "UX"]
+    },
+    {
+      "id": 2040,
+      "name": "Card Sorting Facilitator",
+      "description": "Facilitate card sorting exercises for IA.",
+      "revenue_model": "$100-800 per session",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "card sorting", "IA", "UX", "research"]
+    },
+    {
+      "id": 2041,
+      "name": "Tree Testing Facilitator",
+      "description": "Facilitate tree testing for navigation.",
+      "revenue_model": "$100-800 per test",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "tree testing", "navigation", "UX", "research"]
+    },
+    {
+      "id": 2042,
+      "name": "First Click Testing Facilitator",
+      "description": "Facilitate first click testing for UX.",
+      "revenue_model": "$100-800 per test",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "first click", "testing", "UX", "research"]
+    },
+    {
+      "id": 2043,
+      "name": "Five Second Test Facilitator",
+      "description": "Facilitate five second tests for design feedback.",
+      "revenue_model": "$50-400 per test",
+      "difficulty": "Easy",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "five second test", "UX", "research", "feedback"]
+    },
+    {
+      "id": 2044,
+      "name": "Preference Test Facilitator",
+      "description": "Facilitate preference tests for design options.",
+      "revenue_model": "$50-400 per test",
+      "difficulty": "Easy",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "preference test", "UX", "research", "design"]
+    },
+    {
+      "id": 2045,
+      "name": "Click Test Facilitator",
+      "description": "Facilitate click tests for interface testing.",
+      "revenue_model": "$50-400 per test",
+      "difficulty": "Easy",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "click test", "UX", "research", "interface"]
+    },
+    {
+      "id": 2046,
+      "name": "Prototype Testing Facilitator",
+      "description": "Facilitate prototype testing sessions.",
+      "revenue_model": "$100-800 per session",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "prototype", "testing", "UX", "research"]
+    },
+    {
+      "id": 2047,
+      "name": "Remote Usability Testing",
+      "description": "Conduct remote usability testing sessions.",
+      "revenue_model": "$100-800 per session",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "usability", "testing", "remote", "UX"]
+    },
+    {
+      "id": 2048,
+      "name": "Moderated User Testing",
+      "description": "Conduct moderated user testing sessions.",
+      "revenue_model": "$150-1200 per session",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "user testing", "moderated", "UX", "research"]
+    },
+    {
+      "id": 2049,
+      "name": "Unmoderated User Testing Setup",
+      "description": "Set up unmoderated user testing studies.",
+      "revenue_model": "$100-800 per study",
+      "difficulty": "Easy",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "user testing", "unmoderated", "UX", "research"]
+    },
+    {
+      "id": 2050,
+      "name": "UX Research Report Writer",
+      "description": "Write UX research reports and insights.",
+      "revenue_model": "$200-1500 per report",
+      "difficulty": "Medium",
+      "sector": "Research",
+      "category": "UX",
+      "tags": ["zero investment", "UX research", "report", "writing", "insights"]
+    }
+  ]
+}
