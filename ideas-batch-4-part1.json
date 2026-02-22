@@ -1,0 +1,1508 @@
+{
+  "batch": "4-part1",
+  "ideas_range": "1101-1250",
+  "total_ideas": 150,
+  "generated_date": "2026-02-22",
+  "ideas": [
+    {
+      "id": 1101,
+      "name": "Online Coding Bootcamp",
+      "description": "Intensive coding bootcamp with job placement guarantee. Learn web development, data science, or mobile development.",
+      "revenue_model": "$8,000-15,000 per student + ISA options",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Coding Education",
+      "tags": ["education", "coding", "bootcamp", "career", "online learning"]
+    },
+    {
+      "id": 1102,
+      "name": "Language Learning App",
+      "description": "Gamified language learning with AI conversation practice and native speaker matching.",
+      "revenue_model": "$9.99-19.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Language Learning",
+      "tags": ["education", "language", "app", "AI", "gamification"]
+    },
+    {
+      "id": 1103,
+      "name": "Online Tutoring Marketplace",
+      "description": "Connect students with qualified tutors for 1-on-1 online sessions across all subjects.",
+      "revenue_model": "20-30% commission on sessions",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Tutoring",
+      "tags": ["education", "tutoring", "marketplace", "online learning", "students"]
+    },
+    {
+      "id": 1104,
+      "name": "Test Prep Platform",
+      "description": "Comprehensive test preparation for SAT, ACT, GRE, GMAT with adaptive learning.",
+      "revenue_model": "$49-299 per course",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Test Prep",
+      "tags": ["education", "test prep", "SAT", "standardized tests", "learning"]
+    },
+    {
+      "id": 1105,
+      "name": "Virtual Science Labs",
+      "description": "Interactive virtual labs for chemistry, physics, and biology experiments.",
+      "revenue_model": "$15-50/student/year for schools",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "STEM Education",
+      "tags": ["education", "science", "virtual labs", "STEM", "simulation"]
+    },
+    {
+      "id": 1106,
+      "name": "Math Learning Platform",
+      "description": "Adaptive math learning with video lessons, practice problems, and progress tracking.",
+      "revenue_model": "$9.99-29.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Math Education",
+      "tags": ["education", "math", "learning", "adaptive", "students"]
+    },
+    {
+      "id": 1107,
+      "name": "Homework Help App",
+      "description": "Get instant homework help by taking photo of problem. AI + human tutors available.",
+      "revenue_model": "Free basic + $9.99/month unlimited",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Homework Help",
+      "tags": ["education", "homework", "AI", "tutoring", "students"]
+    },
+    {
+      "id": 1108,
+      "name": "Educational Video Platform",
+      "description": "Netflix for education - curated educational videos across all subjects and ages.",
+      "revenue_model": "$7.99-14.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Video Learning",
+      "tags": ["education", "video", "streaming", "learning", "content"]
+    },
+    {
+      "id": 1109,
+      "name": "Flashcard Study App",
+      "description": "Create and study flashcards with spaced repetition algorithm for better retention.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "EdTech",
+      "category": "Study Tools",
+      "tags": ["education", "flashcards", "studying", "memory", "app"]
+    },
+    {
+      "id": 1110,
+      "name": "Essay Writing Assistant",
+      "description": "AI-powered writing assistant for essays with grammar, structure, and citation help.",
+      "revenue_model": "$9.99-24.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Writing",
+      "tags": ["education", "writing", "essays", "AI", "students"]
+    },
+    {
+      "id": 1111,
+      "name": "School Management System",
+      "description": "Complete school management software - attendance, grades, communication, billing.",
+      "revenue_model": "$5-15/student/year",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "School Management",
+      "tags": ["education", "school management", "SaaS", "administration", "K-12"]
+    },
+    {
+      "id": 1112,
+      "name": "Parent-Teacher Communication App",
+      "description": "Streamline communication between parents and teachers with messaging and updates.",
+      "revenue_model": "$2-5/student/year",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Communication",
+      "tags": ["education", "communication", "parents", "teachers", "app"]
+    },
+    {
+      "id": 1113,
+      "name": "Virtual Field Trips",
+      "description": "VR/360° virtual field trips to museums, historical sites, and natural wonders.",
+      "revenue_model": "$10-30 per trip per student",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Virtual Reality",
+      "tags": ["education", "VR", "field trips", "virtual", "immersive"]
+    },
+    {
+      "id": 1114,
+      "name": "Reading Comprehension App",
+      "description": "Improve reading skills with leveled texts, quizzes, and progress tracking.",
+      "revenue_model": "$6.99-14.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Literacy",
+      "tags": ["education", "reading", "literacy", "comprehension", "students"]
+    },
+    {
+      "id": 1115,
+      "name": "Typing Tutor Software",
+      "description": "Learn touch typing with games, lessons, and typing speed tests.",
+      "revenue_model": "$29.99 one-time or $4.99/month",
+      "difficulty": "Easy",
+      "sector": "EdTech",
+      "category": "Skills Training",
+      "tags": ["education", "typing", "skills", "software", "productivity"]
+    },
+    {
+      "id": 1116,
+      "name": "Music Lessons Platform",
+      "description": "Online music lessons for various instruments with video tutorials and practice tracking.",
+      "revenue_model": "$19.99-49.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Music Education",
+      "tags": ["education", "music", "lessons", "instruments", "online"]
+    },
+    {
+      "id": 1117,
+      "name": "Art Classes Online",
+      "description": "Live and recorded art classes for drawing, painting, and digital art.",
+      "revenue_model": "$14.99-39.99/month subscription",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Art Education",
+      "tags": ["education", "art", "classes", "creative", "online"]
+    },
+    {
+      "id": 1118,
+      "name": "Preschool Learning App",
+      "description": "Educational games and activities for preschoolers - letters, numbers, shapes, colors.",
+      "revenue_model": "Free basic + $7.99/month premium",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Early Childhood",
+      "tags": ["education", "preschool", "early learning", "kids", "app"]
+    },
+    {
+      "id": 1119,
+      "name": "Special Education Platform",
+      "description": "Adaptive learning platform for students with special needs and learning disabilities.",
+      "revenue_model": "$20-50/student/month",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Special Education",
+      "tags": ["education", "special needs", "adaptive learning", "accessibility", "inclusive"]
+    },
+    {
+      "id": 1120,
+      "name": "Career Counseling Platform",
+      "description": "AI-powered career assessments and counseling with job market insights.",
+      "revenue_model": "$49-199 per assessment + counseling fees",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Career Development",
+      "tags": ["education", "career", "counseling", "assessment", "jobs"]
+    },
+    {
+      "id": 1121,
+      "name": "Scholarship Matching Platform",
+      "description": "Match students with relevant scholarships and help with application process.",
+      "revenue_model": "$29-99 per year subscription",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Financial Aid",
+      "tags": ["education", "scholarships", "financial aid", "students", "college"]
+    },
+    {
+      "id": 1122,
+      "name": "College Application Assistant",
+      "description": "Guide students through college applications with essay help and deadline tracking.",
+      "revenue_model": "$99-499 per application season",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "College Admissions",
+      "tags": ["education", "college", "applications", "admissions", "students"]
+    },
+    {
+      "id": 1123,
+      "name": "Study Abroad Platform",
+      "description": "Find and apply to study abroad programs with reviews and application support.",
+      "revenue_model": "$500-2000 per placement",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Study Abroad",
+      "tags": ["education", "study abroad", "international", "students", "travel"]
+    },
+    {
+      "id": 1124,
+      "name": "Educational Podcast Network",
+      "description": "Network of educational podcasts for various subjects and age groups.",
+      "revenue_model": "Ad revenue + sponsorships",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Audio Learning",
+      "tags": ["education", "podcast", "audio", "learning", "content"]
+    },
+    {
+      "id": 1125,
+      "name": "Teacher Resource Marketplace",
+      "description": "Marketplace for teachers to buy and sell lesson plans, worksheets, and resources.",
+      "revenue_model": "30% commission on sales",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Teacher Resources",
+      "tags": ["education", "teachers", "marketplace", "resources", "lesson plans"]
+    },
+    {
+      "id": 1126,
+      "name": "Classroom Management Software",
+      "description": "Tools for teachers to manage classroom behavior, rewards, and parent communication.",
+      "revenue_model": "$5-15/month per teacher",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Classroom Tools",
+      "tags": ["education", "classroom management", "teachers", "software", "behavior"]
+    },
+    {
+      "id": 1127,
+      "name": "Educational Game Platform",
+      "description": "Learning games aligned with curriculum standards for K-12 students.",
+      "revenue_model": "$9.99-19.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Educational Games",
+      "tags": ["education", "games", "gamification", "learning", "students"]
+    },
+    {
+      "id": 1128,
+      "name": "Coding for Kids Platform",
+      "description": "Teach kids programming through games and visual coding interfaces.",
+      "revenue_model": "$14.99-29.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "Coding Education",
+      "tags": ["education", "coding", "kids", "programming", "STEM"]
+    },
+    {
+      "id": 1129,
+      "name": "Robotics Education Kits",
+      "description": "Educational robotics kits with curriculum and online lessons for schools.",
+      "revenue_model": "$200-500 per kit + curriculum license",
+      "difficulty": "Hard",
+      "sector": "EdTech",
+      "category": "STEM Education",
+      "tags": ["education", "robotics", "STEM", "kits", "hands-on"]
+    },
+    {
+      "id": 1130,
+      "name": "Financial Literacy Course",
+      "description": "Teach personal finance, investing, and money management to students and adults.",
+      "revenue_model": "$49-199 per course",
+      "difficulty": "Medium",
+      "sector": "EdTech",
+      "category": "Financial Education",
+      "tags": ["education", "finance", "literacy", "money", "investing"]
+    },
+    {
+      "id": 1131,
+      "name": "Neobank for Teens",
+      "description": "Banking app for teenagers with parental controls, financial education, and debit cards.",
+      "revenue_model": "$2.99-4.99/month + interchange fees",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Banking",
+      "tags": ["fintech", "banking", "teens", "financial literacy", "app"]
+    },
+    {
+      "id": 1132,
+      "name": "Micro-Investing App",
+      "description": "Invest spare change from purchases automatically. Round-up investing for beginners.",
+      "revenue_model": "$1-3/month subscription",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Investing",
+      "tags": ["fintech", "investing", "micro-investing", "savings", "app"]
+    },
+    {
+      "id": 1133,
+      "name": "Robo-Advisor Platform",
+      "description": "Automated investment management with portfolio rebalancing and tax optimization.",
+      "revenue_model": "0.25-0.50% AUM annually",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Wealth Management",
+      "tags": ["fintech", "robo-advisor", "investing", "wealth management", "automation"]
+    },
+    {
+      "id": 1134,
+      "name": "P2P Lending Platform",
+      "description": "Connect borrowers with individual lenders for personal loans at competitive rates.",
+      "revenue_model": "1-5% origination fee + servicing fees",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Lending",
+      "tags": ["fintech", "P2P lending", "loans", "marketplace", "credit"]
+    },
+    {
+      "id": 1135,
+      "name": "Buy Now Pay Later Service",
+      "description": "BNPL payment option for e-commerce with installment plans and no interest.",
+      "revenue_model": "2-6% merchant fee per transaction",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Payments",
+      "tags": ["fintech", "BNPL", "payments", "installments", "e-commerce"]
+    },
+    {
+      "id": 1136,
+      "name": "Expense Splitting App",
+      "description": "Split bills and expenses with friends, roommates, or groups with easy settlement.",
+      "revenue_model": "Free basic + $2.99/month premium",
+      "difficulty": "Medium",
+      "sector": "FinTech",
+      "category": "Payments",
+      "tags": ["fintech", "expense splitting", "payments", "social", "app"]
+    },
+    {
+      "id": 1137,
+      "name": "Budgeting App",
+      "description": "Personal budgeting with automatic categorization, bill tracking, and savings goals.",
+      "revenue_model": "Free basic + $6.99/month premium",
+      "difficulty": "Medium",
+      "sector": "FinTech",
+      "category": "Personal Finance",
+      "tags": ["fintech", "budgeting", "personal finance", "money management", "app"]
+    },
+    {
+      "id": 1138,
+      "name": "Credit Score Monitoring",
+      "description": "Free credit score monitoring with personalized improvement recommendations.",
+      "revenue_model": "Free with credit card/loan offers",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Credit",
+      "tags": ["fintech", "credit score", "monitoring", "credit", "financial health"]
+    },
+    {
+      "id": 1139,
+      "name": "Invoice Financing Platform",
+      "description": "Help businesses get paid faster by financing their outstanding invoices.",
+      "revenue_model": "1-5% of invoice value",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Business Finance",
+      "tags": ["fintech", "invoice financing", "B2B", "cash flow", "lending"]
+    },
+    {
+      "id": 1140,
+      "name": "SMB Lending Platform",
+      "description": "Fast business loans for small businesses with alternative credit scoring.",
+      "revenue_model": "Interest + origination fees",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Business Lending",
+      "tags": ["fintech", "SMB", "business loans", "lending", "credit"]
+    },
+    {
+      "id": 1141,
+      "name": "Payroll Software for SMBs",
+      "description": "Simple payroll processing for small businesses with tax filing and compliance.",
+      "revenue_model": "$39/month + $4-6/employee",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Payroll",
+      "tags": ["fintech", "payroll", "SMB", "HR", "compliance"]
+    },
+    {
+      "id": 1142,
+      "name": "Accounting Software",
+      "description": "Cloud accounting for small businesses with invoicing, expenses, and reporting.",
+      "revenue_model": "$15-50/month based on features",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Accounting",
+      "tags": ["fintech", "accounting", "bookkeeping", "SMB", "software"]
+    },
+    {
+      "id": 1143,
+      "name": "Tax Preparation Software",
+      "description": "DIY tax preparation with guided interview and maximum refund guarantee.",
+      "revenue_model": "$0-120 based on tax complexity",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Tax",
+      "tags": ["fintech", "tax", "preparation", "filing", "software"]
+    },
+    {
+      "id": 1144,
+      "name": "Freelancer Banking",
+      "description": "Banking designed for freelancers with invoicing, tax savings, and expense tracking.",
+      "revenue_model": "$10-20/month subscription",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Banking",
+      "tags": ["fintech", "freelancer", "banking", "invoicing", "taxes"]
+    },
+    {
+      "id": 1145,
+      "name": "International Money Transfer",
+      "description": "Low-cost international money transfers with better exchange rates than banks.",
+      "revenue_model": "0.5-2% transfer fee",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Remittance",
+      "tags": ["fintech", "remittance", "international", "money transfer", "forex"]
+    },
+    {
+      "id": 1146,
+      "name": "Multi-Currency Account",
+      "description": "Hold and manage multiple currencies with virtual IBANs for international business.",
+      "revenue_model": "$10-30/month + transaction fees",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Banking",
+      "tags": ["fintech", "multi-currency", "international", "banking", "business"]
+    },
+    {
+      "id": 1147,
+      "name": "Savings Goal App",
+      "description": "Set and track savings goals with automatic transfers and visual progress.",
+      "revenue_model": "Free basic + $2.99/month premium",
+      "difficulty": "Easy",
+      "sector": "FinTech",
+      "category": "Savings",
+      "tags": ["fintech", "savings", "goals", "money management", "app"]
+    },
+    {
+      "id": 1148,
+      "name": "High-Yield Savings Account",
+      "description": "Online-only savings account with competitive interest rates and no fees.",
+      "revenue_model": "Interest rate spread",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Banking",
+      "tags": ["fintech", "savings", "banking", "interest", "online"]
+    },
+    {
+      "id": 1149,
+      "name": "Stock Trading App",
+      "description": "Commission-free stock trading with fractional shares and educational content.",
+      "revenue_model": "Payment for order flow + premium features",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Investing",
+      "tags": ["fintech", "stocks", "trading", "investing", "app"]
+    },
+    {
+      "id": 1150,
+      "name": "Options Trading Platform",
+      "description": "Advanced options trading with analytics, strategies, and risk management tools.",
+      "revenue_model": "$0.50-1.00 per contract",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Trading",
+      "tags": ["fintech", "options", "trading", "derivatives", "investing"]
+    },
+    {
+      "id": 1151,
+      "name": "Real Estate Crowdfunding",
+      "description": "Invest in real estate projects with as little as $500. Fractional ownership.",
+      "revenue_model": "1-2% annual management fee",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Real Estate",
+      "tags": ["fintech", "real estate", "crowdfunding", "investing", "fractional"]
+    },
+    {
+      "id": 1152,
+      "name": "REIT Investment Platform",
+      "description": "Curated REIT investments with analysis and portfolio management.",
+      "revenue_model": "0.5-1% AUM + transaction fees",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Real Estate",
+      "tags": ["fintech", "REIT", "real estate", "investing", "passive income"]
+    },
+    {
+      "id": 1153,
+      "name": "Mortgage Comparison Platform",
+      "description": "Compare mortgage rates from multiple lenders and apply online.",
+      "revenue_model": "$500-2000 per closed loan",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Mortgage",
+      "tags": ["fintech", "mortgage", "comparison", "lending", "real estate"]
+    },
+    {
+      "id": 1154,
+      "name": "Rent Payment Platform",
+      "description": "Pay rent with credit card and build credit history from rent payments.",
+      "revenue_model": "2.5-3% transaction fee",
+      "difficulty": "Medium",
+      "sector": "FinTech",
+      "category": "Payments",
+      "tags": ["fintech", "rent", "payments", "credit building", "renters"]
+    },
+    {
+      "id": 1155,
+      "name": "Insurance Comparison Platform",
+      "description": "Compare insurance quotes for auto, home, life, and health insurance.",
+      "revenue_model": "Commission from insurance providers",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Insurance",
+      "tags": ["fintech", "insurance", "comparison", "quotes", "marketplace"]
+    },
+    {
+      "id": 1156,
+      "name": "On-Demand Insurance",
+      "description": "Pay-per-use insurance for specific activities or time periods.",
+      "revenue_model": "Insurance premiums + commission",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Insurance",
+      "tags": ["fintech", "insurance", "on-demand", "flexible", "usage-based"]
+    },
+    {
+      "id": 1157,
+      "name": "Peer-to-Peer Insurance",
+      "description": "Community-based insurance where members pool premiums and share claims.",
+      "revenue_model": "20-30% of premiums",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Insurance",
+      "tags": ["fintech", "insurance", "P2P", "community", "sharing economy"]
+    },
+    {
+      "id": 1158,
+      "name": "Embedded Finance Platform",
+      "description": "API platform for non-financial companies to offer financial services.",
+      "revenue_model": "Revenue share on transactions",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Infrastructure",
+      "tags": ["fintech", "embedded finance", "API", "B2B", "platform"]
+    },
+    {
+      "id": 1159,
+      "name": "Open Banking Platform",
+      "description": "Aggregate financial data from multiple banks for apps and services.",
+      "revenue_model": "$0.01-0.10 per API call",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Infrastructure",
+      "tags": ["fintech", "open banking", "API", "data aggregation", "B2B"]
+    },
+    {
+      "id": 1160,
+      "name": "KYC/AML Verification Service",
+      "description": "Identity verification and compliance checks for financial services.",
+      "revenue_model": "$1-10 per verification",
+      "difficulty": "Hard",
+      "sector": "FinTech",
+      "category": "Compliance",
+      "tags": ["fintech", "KYC", "AML", "compliance", "verification"]
+    },
+    {
+      "id": 1161,
+      "name": "Property Management Software",
+      "description": "Manage rental properties with tenant screening, rent collection, and maintenance tracking.",
+      "revenue_model": "$1-3/unit/month",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Property Management",
+      "tags": ["proptech", "property management", "real estate", "landlords", "software"]
+    },
+    {
+      "id": 1162,
+      "name": "Rental Listing Platform",
+      "description": "List and find rental properties with virtual tours and online applications.",
+      "revenue_model": "$99-299 per listing + premium features",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Rentals",
+      "tags": ["proptech", "rentals", "listings", "real estate", "marketplace"]
+    },
+    {
+      "id": 1163,
+      "name": "Tenant Screening Service",
+      "description": "Background checks, credit reports, and rental history for tenant screening.",
+      "revenue_model": "$25-50 per screening",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Screening",
+      "tags": ["proptech", "tenant screening", "background check", "landlords", "service"]
+    },
+    {
+      "id": 1164,
+      "name": "Smart Home Installation",
+      "description": "Install and configure smart home devices for homeowners and landlords.",
+      "revenue_model": "$200-2000 per installation",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Smart Home",
+      "tags": ["proptech", "smart home", "IoT", "installation", "service"]
+    },
+    {
+      "id": 1165,
+      "name": "Home Inspection Service",
+      "description": "Professional home inspections with detailed reports and photos.",
+      "revenue_model": "$300-600 per inspection",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Inspection",
+      "tags": ["proptech", "home inspection", "real estate", "service", "due diligence"]
+    },
+    {
+      "id": 1166,
+      "name": "Virtual Staging Service",
+      "description": "Digitally stage empty properties for listings with realistic furniture rendering.",
+      "revenue_model": "$29-99 per room",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Marketing",
+      "tags": ["proptech", "virtual staging", "real estate", "marketing", "3D"]
+    },
+    {
+      "id": 1167,
+      "name": "3D Home Tour Platform",
+      "description": "Create immersive 3D virtual tours of properties for listings.",
+      "revenue_model": "$99-299 per property",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Virtual Tours",
+      "tags": ["proptech", "3D tours", "virtual reality", "real estate", "marketing"]
+    },
+    {
+      "id": 1168,
+      "name": "Real Estate CRM",
+      "description": "CRM specifically designed for real estate agents with lead management and automation.",
+      "revenue_model": "$49-199/month per agent",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "CRM",
+      "tags": ["proptech", "CRM", "real estate", "agents", "software"]
+    },
+    {
+      "id": 1169,
+      "name": "Home Valuation Tool",
+      "description": "AI-powered home valuation with market analysis and price predictions.",
+      "revenue_model": "Free for consumers + lead gen",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Valuation",
+      "tags": ["proptech", "valuation", "AI", "real estate", "pricing"]
+    },
+    {
+      "id": 1170,
+      "name": "Real Estate Investment Analysis",
+      "description": "Analyze investment properties with cash flow projections and ROI calculations.",
+      "revenue_model": "$29-99/month subscription",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Investment",
+      "tags": ["proptech", "investment", "analysis", "real estate", "ROI"]
+    },
+    {
+      "id": 1171,
+      "name": "Co-Living Space Platform",
+      "description": "Find and book co-living spaces with furnished rooms and community amenities.",
+      "revenue_model": "10-15% commission on bookings",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Co-Living",
+      "tags": ["proptech", "co-living", "housing", "community", "rentals"]
+    },
+    {
+      "id": 1172,
+      "name": "Short-Term Rental Management",
+      "description": "Manage Airbnb and vacation rentals with pricing optimization and guest communication.",
+      "revenue_model": "10-20% of rental revenue",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Vacation Rentals",
+      "tags": ["proptech", "Airbnb", "vacation rentals", "management", "hospitality"]
+    },
+    {
+      "id": 1173,
+      "name": "Construction Project Management",
+      "description": "Software for managing construction projects with scheduling, budgeting, and collaboration.",
+      "revenue_model": "$99-499/month per project",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Construction",
+      "tags": ["proptech", "construction", "project management", "software", "contractors"]
+    },
+    {
+      "id": 1174,
+      "name": "Home Renovation Marketplace",
+      "description": "Connect homeowners with contractors for renovation projects with quotes and reviews.",
+      "revenue_model": "10-15% commission on projects",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Renovation",
+      "tags": ["proptech", "renovation", "contractors", "marketplace", "home improvement"]
+    },
+    {
+      "id": 1175,
+      "name": "Energy Audit Service",
+      "description": "Home energy audits with recommendations for efficiency improvements.",
+      "revenue_model": "$200-500 per audit",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Energy",
+      "tags": ["proptech", "energy audit", "efficiency", "sustainability", "service"]
+    },
+    {
+      "id": 1176,
+      "name": "Home Warranty Platform",
+      "description": "Home warranty plans covering appliances and systems with online claims.",
+      "revenue_model": "$40-80/month per home",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Warranty",
+      "tags": ["proptech", "warranty", "home protection", "insurance", "service"]
+    },
+    {
+      "id": 1177,
+      "name": "Moving Services Marketplace",
+      "description": "Compare and book moving companies with instant quotes and reviews.",
+      "revenue_model": "10-20% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Moving",
+      "tags": ["proptech", "moving", "relocation", "marketplace", "logistics"]
+    },
+    {
+      "id": 1178,
+      "name": "Home Maintenance App",
+      "description": "Track home maintenance tasks with reminders and service provider recommendations.",
+      "revenue_model": "Free basic + $4.99/month premium",
+      "difficulty": "Easy",
+      "sector": "PropTech",
+      "category": "Maintenance",
+      "tags": ["proptech", "maintenance", "home care", "app", "reminders"]
+    },
+    {
+      "id": 1179,
+      "name": "Neighborhood Data Platform",
+      "description": "Comprehensive neighborhood data - schools, crime, demographics, amenities.",
+      "revenue_model": "$9.99-29.99 per report",
+      "difficulty": "Hard",
+      "sector": "PropTech",
+      "category": "Data",
+      "tags": ["proptech", "neighborhood", "data", "analytics", "real estate"]
+    },
+    {
+      "id": 1180,
+      "name": "Real Estate Lead Generation",
+      "description": "Generate qualified leads for real estate agents through digital marketing.",
+      "revenue_model": "$50-200 per lead",
+      "difficulty": "Medium",
+      "sector": "PropTech",
+      "category": "Marketing",
+      "tags": ["proptech", "lead generation", "marketing", "real estate", "agents"]
+    },
+    {
+      "id": 1181,
+      "name": "Precision Agriculture Platform",
+      "description": "IoT sensors and AI for optimizing crop yields, irrigation, and fertilizer use.",
+      "revenue_model": "$5-20/acre/year",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Precision Farming",
+      "tags": ["agritech", "precision agriculture", "IoT", "AI", "farming"]
+    },
+    {
+      "id": 1182,
+      "name": "Farm Management Software",
+      "description": "Comprehensive farm management with field mapping, inventory, and financial tracking.",
+      "revenue_model": "$500-5000/year based on farm size",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Farm Management",
+      "tags": ["agritech", "farm management", "software", "agriculture", "operations"]
+    },
+    {
+      "id": 1183,
+      "name": "Crop Disease Detection",
+      "description": "AI-powered crop disease detection using smartphone photos with treatment recommendations.",
+      "revenue_model": "$9.99-49.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Crop Health",
+      "tags": ["agritech", "AI", "crop disease", "detection", "agriculture"]
+    },
+    {
+      "id": 1184,
+      "name": "Agricultural Drone Services",
+      "description": "Drone-based crop monitoring, spraying, and field mapping services.",
+      "revenue_model": "$10-50/acre per service",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Drones",
+      "tags": ["agritech", "drones", "aerial", "monitoring", "agriculture"]
+    },
+    {
+      "id": 1185,
+      "name": "Livestock Monitoring System",
+      "description": "IoT wearables for livestock health monitoring and location tracking.",
+      "revenue_model": "$20-50/animal/year",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Livestock",
+      "tags": ["agritech", "livestock", "monitoring", "IoT", "animal health"]
+    },
+    {
+      "id": 1186,
+      "name": "Farm-to-Table Marketplace",
+      "description": "Connect local farmers directly with restaurants and consumers.",
+      "revenue_model": "10-15% commission on sales",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Marketplace",
+      "tags": ["agritech", "farm-to-table", "marketplace", "local food", "agriculture"]
+    },
+    {
+      "id": 1187,
+      "name": "Agricultural Equipment Rental",
+      "description": "Peer-to-peer marketplace for renting farm equipment and machinery.",
+      "revenue_model": "15-20% commission on rentals",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Equipment",
+      "tags": ["agritech", "equipment rental", "machinery", "sharing economy", "farming"]
+    },
+    {
+      "id": 1188,
+      "name": "Soil Testing Service",
+      "description": "Mail-in soil testing with detailed analysis and fertilizer recommendations.",
+      "revenue_model": "$30-100 per test",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Soil Health",
+      "tags": ["agritech", "soil testing", "analysis", "agriculture", "service"]
+    },
+    {
+      "id": 1189,
+      "name": "Weather Forecasting for Farms",
+      "description": "Hyper-local weather forecasting and alerts specifically for agricultural needs.",
+      "revenue_model": "$9.99-49.99/month subscription",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Weather",
+      "tags": ["agritech", "weather", "forecasting", "agriculture", "climate"]
+    },
+    {
+      "id": 1190,
+      "name": "Irrigation Optimization System",
+      "description": "Smart irrigation with soil moisture sensors and weather-based scheduling.",
+      "revenue_model": "$500-5000 hardware + $10-50/month",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Irrigation",
+      "tags": ["agritech", "irrigation", "water management", "IoT", "smart farming"]
+    },
+    {
+      "id": 1191,
+      "name": "Vertical Farming System",
+      "description": "Indoor vertical farming systems with automated climate and nutrient control.",
+      "revenue_model": "$10,000-100,000 per system",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Vertical Farming",
+      "tags": ["agritech", "vertical farming", "indoor", "hydroponics", "urban agriculture"]
+    },
+    {
+      "id": 1192,
+      "name": "Hydroponics Supplies Store",
+      "description": "E-commerce store for hydroponic growing systems and supplies.",
+      "revenue_model": "30-50% markup on products",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Hydroponics",
+      "tags": ["agritech", "hydroponics", "e-commerce", "supplies", "growing"]
+    },
+    {
+      "id": 1193,
+      "name": "Aquaponics System Provider",
+      "description": "Design and install aquaponics systems combining fish farming and hydroponics.",
+      "revenue_model": "$5,000-50,000 per system",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Aquaponics",
+      "tags": ["agritech", "aquaponics", "sustainable", "fish farming", "hydroponics"]
+    },
+    {
+      "id": 1194,
+      "name": "Agricultural Lending Platform",
+      "description": "Specialized lending for farmers with seasonal payment structures.",
+      "revenue_model": "Interest + origination fees",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Finance",
+      "tags": ["agritech", "lending", "finance", "farmers", "agriculture"]
+    },
+    {
+      "id": 1195,
+      "name": "Crop Insurance Platform",
+      "description": "Simplified crop insurance with satellite monitoring and automated claims.",
+      "revenue_model": "Insurance premiums + commission",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Insurance",
+      "tags": ["agritech", "insurance", "crop protection", "risk management", "agriculture"]
+    },
+    {
+      "id": 1196,
+      "name": "Agricultural Commodity Trading",
+      "description": "Online platform for trading agricultural commodities and futures.",
+      "revenue_model": "Commission on trades",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Trading",
+      "tags": ["agritech", "commodities", "trading", "marketplace", "agriculture"]
+    },
+    {
+      "id": 1197,
+      "name": "Farm Labor Marketplace",
+      "description": "Connect farms with seasonal workers and manage scheduling and payments.",
+      "revenue_model": "10-15% commission on wages",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Labor",
+      "tags": ["agritech", "labor", "marketplace", "workers", "agriculture"]
+    },
+    {
+      "id": 1198,
+      "name": "Agricultural Education Platform",
+      "description": "Online courses and certifications for modern farming techniques.",
+      "revenue_model": "$49-299 per course",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Education",
+      "tags": ["agritech", "education", "training", "farming", "courses"]
+    },
+    {
+      "id": 1199,
+      "name": "Beekeeping Supplies & Education",
+      "description": "Beekeeping equipment, supplies, and online courses for hobbyists and professionals.",
+      "revenue_model": "Product sales + course fees",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Beekeeping",
+      "tags": ["agritech", "beekeeping", "honey", "supplies", "education"]
+    },
+    {
+      "id": 1200,
+      "name": "Mushroom Growing Kits",
+      "description": "At-home mushroom growing kits with instructions and ongoing supplies.",
+      "revenue_model": "$30-100 per kit + subscriptions",
+      "difficulty": "Easy",
+      "sector": "AgriTech",
+      "category": "Urban Farming",
+      "tags": ["agritech", "mushrooms", "growing kits", "urban farming", "food"]
+    },
+    {
+      "id": 1201,
+      "name": "Microgreens Growing Business",
+      "description": "Grow and sell microgreens to restaurants and health food stores.",
+      "revenue_model": "$20-40 per pound of microgreens",
+      "difficulty": "Easy",
+      "sector": "AgriTech",
+      "category": "Urban Farming",
+      "tags": ["agritech", "microgreens", "urban farming", "food", "local"]
+    },
+    {
+      "id": 1202,
+      "name": "Community Garden Platform",
+      "description": "Platform for managing community gardens with plot rentals and member coordination.",
+      "revenue_model": "$50-200/plot/year + management fees",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Community Gardens",
+      "tags": ["agritech", "community gardens", "urban farming", "platform", "local"]
+    },
+    {
+      "id": 1203,
+      "name": "Seed Bank & Exchange",
+      "description": "Heirloom and organic seed sales with seed exchange community.",
+      "revenue_model": "Product sales + membership fees",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Seeds",
+      "tags": ["agritech", "seeds", "heirloom", "organic", "gardening"]
+    },
+    {
+      "id": 1204,
+      "name": "Composting Service",
+      "description": "Commercial composting service for farms and gardens with delivery.",
+      "revenue_model": "$20-100 per cubic yard",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Soil",
+      "tags": ["agritech", "composting", "soil", "organic", "sustainability"]
+    },
+    {
+      "id": 1205,
+      "name": "Agricultural Consulting",
+      "description": "Expert consulting for farm optimization, sustainability, and profitability.",
+      "revenue_model": "$100-300/hour or project-based",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Consulting",
+      "tags": ["agritech", "consulting", "agriculture", "optimization", "expert"]
+    },
+    {
+      "id": 1206,
+      "name": "Organic Certification Service",
+      "description": "Help farms obtain and maintain organic certification with consulting and paperwork.",
+      "revenue_model": "$2,000-10,000 per certification",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Certification",
+      "tags": ["agritech", "organic", "certification", "consulting", "compliance"]
+    },
+    {
+      "id": 1207,
+      "name": "Farm Tourism Platform",
+      "description": "Book farm stays, tours, and agricultural experiences.",
+      "revenue_model": "15-20% commission on bookings",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Agritourism",
+      "tags": ["agritech", "tourism", "farm stays", "experiences", "travel"]
+    },
+    {
+      "id": 1208,
+      "name": "CSA Management Software",
+      "description": "Software for managing Community Supported Agriculture programs.",
+      "revenue_model": "$50-200/month per farm",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "CSA",
+      "tags": ["agritech", "CSA", "software", "subscription", "local food"]
+    },
+    {
+      "id": 1209,
+      "name": "Farmers Market Management",
+      "description": "Platform for managing farmers markets with vendor applications and payments.",
+      "revenue_model": "$100-500/month per market",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Markets",
+      "tags": ["agritech", "farmers market", "management", "platform", "local food"]
+    },
+    {
+      "id": 1210,
+      "name": "Agricultural Robotics",
+      "description": "Autonomous robots for harvesting, weeding, and crop monitoring.",
+      "revenue_model": "$50,000-500,000 per robot",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Robotics",
+      "tags": ["agritech", "robotics", "automation", "AI", "harvesting"]
+    },
+    {
+      "id": 1211,
+      "name": "Greenhouse Automation",
+      "description": "Automated climate control, irrigation, and monitoring for greenhouses.",
+      "revenue_model": "$5,000-50,000 per system",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Greenhouse",
+      "tags": ["agritech", "greenhouse", "automation", "IoT", "climate control"]
+    },
+    {
+      "id": 1212,
+      "name": "Pollination Services",
+      "description": "Rent beehives to farms for crop pollination services.",
+      "revenue_model": "$50-200 per hive per season",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Pollination",
+      "tags": ["agritech", "pollination", "bees", "agriculture", "service"]
+    },
+    {
+      "id": 1213,
+      "name": "Agricultural Waste Recycling",
+      "description": "Convert agricultural waste into biofuel, compost, or animal feed.",
+      "revenue_model": "Processing fees + product sales",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Waste Management",
+      "tags": ["agritech", "waste", "recycling", "sustainability", "circular economy"]
+    },
+    {
+      "id": 1214,
+      "name": "Regenerative Agriculture Consulting",
+      "description": "Help farms transition to regenerative practices for soil health and carbon sequestration.",
+      "revenue_model": "$5,000-50,000 per engagement",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Sustainability",
+      "tags": ["agritech", "regenerative", "sustainability", "consulting", "carbon"]
+    },
+    {
+      "id": 1215,
+      "name": "Agricultural Data Analytics",
+      "description": "Big data analytics for crop yields, market trends, and farm optimization.",
+      "revenue_model": "$500-5000/month subscription",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Analytics",
+      "tags": ["agritech", "data analytics", "AI", "insights", "agriculture"]
+    },
+    {
+      "id": 1216,
+      "name": "Farm Supply E-commerce",
+      "description": "Online store for farm supplies, equipment, and agricultural inputs.",
+      "revenue_model": "20-40% markup on products",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "E-commerce",
+      "tags": ["agritech", "e-commerce", "supplies", "equipment", "agriculture"]
+    },
+    {
+      "id": 1217,
+      "name": "Livestock Feed Optimization",
+      "description": "AI-powered feed formulation for optimal livestock nutrition and cost.",
+      "revenue_model": "$500-5000/month per farm",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Livestock",
+      "tags": ["agritech", "livestock", "feed", "AI", "optimization"]
+    },
+    {
+      "id": 1218,
+      "name": "Agricultural Blockchain Traceability",
+      "description": "Blockchain-based supply chain tracking for food traceability and authenticity.",
+      "revenue_model": "$0.10-1.00 per item tracked",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Blockchain",
+      "tags": ["agritech", "blockchain", "traceability", "supply chain", "food safety"]
+    },
+    {
+      "id": 1219,
+      "name": "Pest Control Monitoring",
+      "description": "IoT-based pest monitoring and early warning system for farms.",
+      "revenue_model": "$10-30/acre/year",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Pest Management",
+      "tags": ["agritech", "pest control", "monitoring", "IoT", "agriculture"]
+    },
+    {
+      "id": 1220,
+      "name": "Agricultural Carbon Credits",
+      "description": "Help farms generate and sell carbon credits through sustainable practices.",
+      "revenue_model": "20-30% of carbon credit revenue",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Carbon Credits",
+      "tags": ["agritech", "carbon credits", "sustainability", "climate", "revenue"]
+    },
+    {
+      "id": 1221,
+      "name": "Specialty Crop Consulting",
+      "description": "Expert consulting for high-value specialty crops like saffron, truffles, ginseng.",
+      "revenue_model": "$200-500/hour + revenue share",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Consulting",
+      "tags": ["agritech", "specialty crops", "consulting", "high-value", "agriculture"]
+    },
+    {
+      "id": 1222,
+      "name": "Farm Succession Planning",
+      "description": "Help farm families plan succession and transition to next generation.",
+      "revenue_model": "$5,000-25,000 per engagement",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Consulting",
+      "tags": ["agritech", "succession planning", "consulting", "family farms", "transition"]
+    },
+    {
+      "id": 1223,
+      "name": "Agricultural Grant Writing",
+      "description": "Write grant proposals for farms seeking government or foundation funding.",
+      "revenue_model": "$2,000-10,000 per grant + success fee",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Grant Writing",
+      "tags": ["agritech", "grant writing", "funding", "agriculture", "consulting"]
+    },
+    {
+      "id": 1224,
+      "name": "Farm Photography Service",
+      "description": "Professional photography for farm marketing, websites, and social media.",
+      "revenue_model": "$500-3000 per session",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Marketing",
+      "tags": ["agritech", "photography", "marketing", "branding", "farms"]
+    },
+    {
+      "id": 1225,
+      "name": "Agricultural Podcast Network",
+      "description": "Network of farming and agriculture podcasts with advertising opportunities.",
+      "revenue_model": "Ad revenue + sponsorships",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Media",
+      "tags": ["agritech", "podcast", "media", "agriculture", "content"]
+    },
+    {
+      "id": 1226,
+      "name": "Farm Social Network",
+      "description": "Social platform for farmers to share knowledge, equipment, and resources.",
+      "revenue_model": "Premium memberships + marketplace fees",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Social Network",
+      "tags": ["agritech", "social network", "community", "farmers", "knowledge sharing"]
+    },
+    {
+      "id": 1227,
+      "name": "Agricultural Weather Insurance",
+      "description": "Parametric weather insurance for farms based on rainfall, temperature, etc.",
+      "revenue_model": "Insurance premiums",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Insurance",
+      "tags": ["agritech", "insurance", "weather", "parametric", "risk management"]
+    },
+    {
+      "id": 1228,
+      "name": "Farm Energy Solutions",
+      "description": "Install solar panels and renewable energy systems on farms.",
+      "revenue_model": "$10,000-100,000 per installation",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Energy",
+      "tags": ["agritech", "solar", "renewable energy", "farms", "sustainability"]
+    },
+    {
+      "id": 1229,
+      "name": "Agricultural Water Rights Trading",
+      "description": "Platform for trading water rights and allocations between farms.",
+      "revenue_model": "5-10% commission on trades",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Water Rights",
+      "tags": ["agritech", "water rights", "trading", "marketplace", "agriculture"]
+    },
+    {
+      "id": 1230,
+      "name": "Farm Safety Training",
+      "description": "Online safety training and certification for farm workers.",
+      "revenue_model": "$29-99 per certification",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Safety",
+      "tags": ["agritech", "safety", "training", "certification", "compliance"]
+    },
+    {
+      "id": 1231,
+      "name": "Agricultural Drone Manufacturing",
+      "description": "Manufacture specialized drones for agricultural applications.",
+      "revenue_model": "$5,000-50,000 per drone",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Manufacturing",
+      "tags": ["agritech", "drones", "manufacturing", "hardware", "agriculture"]
+    },
+    {
+      "id": 1232,
+      "name": "Farm Accounting Software",
+      "description": "Specialized accounting software for farm finances and tax compliance.",
+      "revenue_model": "$20-100/month subscription",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Accounting",
+      "tags": ["agritech", "accounting", "software", "finance", "farms"]
+    },
+    {
+      "id": 1233,
+      "name": "Livestock Genetics Database",
+      "description": "Database and marketplace for livestock genetics and breeding stock.",
+      "revenue_model": "Listing fees + commission on sales",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Livestock",
+      "tags": ["agritech", "genetics", "livestock", "breeding", "database"]
+    },
+    {
+      "id": 1234,
+      "name": "Agricultural Legal Services",
+      "description": "Specialized legal services for farms - land use, water rights, contracts.",
+      "revenue_model": "$200-500/hour",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Legal",
+      "tags": ["agritech", "legal", "law", "agriculture", "consulting"]
+    },
+    {
+      "id": 1235,
+      "name": "Farm Branding & Marketing",
+      "description": "Marketing agency specializing in farm and agricultural product branding.",
+      "revenue_model": "$2,000-10,000/month retainers",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Marketing",
+      "tags": ["agritech", "marketing", "branding", "agency", "farms"]
+    },
+    {
+      "id": 1236,
+      "name": "Agricultural Influencer Platform",
+      "description": "Connect agricultural brands with farming influencers for marketing campaigns.",
+      "revenue_model": "20-30% commission on campaigns",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Influencer Marketing",
+      "tags": ["agritech", "influencer", "marketing", "social media", "agriculture"]
+    },
+    {
+      "id": 1237,
+      "name": "Farm Equipment Financing",
+      "description": "Specialized financing for agricultural equipment purchases.",
+      "revenue_model": "Interest + origination fees",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Finance",
+      "tags": ["agritech", "financing", "equipment", "lending", "agriculture"]
+    },
+    {
+      "id": 1238,
+      "name": "Agricultural Research Platform",
+      "description": "Crowdsource agricultural research and connect researchers with farms.",
+      "revenue_model": "Research fees + grants",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Research",
+      "tags": ["agritech", "research", "platform", "science", "agriculture"]
+    },
+    {
+      "id": 1239,
+      "name": "Farm Succession Marketplace",
+      "description": "Connect retiring farmers with new farmers looking to buy or lease farms.",
+      "revenue_model": "5-10% commission on transactions",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Real Estate",
+      "tags": ["agritech", "succession", "marketplace", "farmland", "transition"]
+    },
+    {
+      "id": 1240,
+      "name": "Agricultural Cooperative Platform",
+      "description": "Software for managing agricultural cooperatives and member services.",
+      "revenue_model": "$500-5000/month per cooperative",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Cooperatives",
+      "tags": ["agritech", "cooperatives", "software", "management", "agriculture"]
+    },
+    {
+      "id": 1241,
+      "name": "Farm Internship Platform",
+      "description": "Connect aspiring farmers with farm internship and apprenticeship opportunities.",
+      "revenue_model": "$100-500 per placement",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Education",
+      "tags": ["agritech", "internships", "education", "training", "careers"]
+    },
+    {
+      "id": 1242,
+      "name": "Agricultural Podcast Production",
+      "description": "Produce podcasts for farms, agricultural brands, and industry organizations.",
+      "revenue_model": "$1,000-5,000 per episode",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Media Production",
+      "tags": ["agritech", "podcast", "production", "content", "media"]
+    },
+    {
+      "id": 1243,
+      "name": "Farm Video Production",
+      "description": "Professional video production for farm marketing and storytelling.",
+      "revenue_model": "$2,000-10,000 per video",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Video Production",
+      "tags": ["agritech", "video", "production", "marketing", "storytelling"]
+    },
+    {
+      "id": 1244,
+      "name": "Agricultural Newsletter",
+      "description": "Curated newsletter for farmers with industry news, tips, and market insights.",
+      "revenue_model": "Sponsorships + premium subscriptions",
+      "difficulty": "Easy",
+      "sector": "AgriTech",
+      "category": "Media",
+      "tags": ["agritech", "newsletter", "content", "news", "agriculture"]
+    },
+    {
+      "id": 1245,
+      "name": "Farm Website Builder",
+      "description": "Website builder specifically designed for farms with e-commerce and CSA features.",
+      "revenue_model": "$29-99/month subscription",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Web Development",
+      "tags": ["agritech", "website builder", "e-commerce", "farms", "SaaS"]
+    },
+    {
+      "id": 1246,
+      "name": "Agricultural Translation Service",
+      "description": "Translation services for agricultural documents, research, and international trade.",
+      "revenue_model": "$0.10-0.30 per word",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Translation",
+      "tags": ["agritech", "translation", "language", "international", "service"]
+    },
+    {
+      "id": 1247,
+      "name": "Farm Event Planning",
+      "description": "Plan and coordinate farm events - weddings, tours, festivals, workshops.",
+      "revenue_model": "$1,000-10,000 per event",
+      "difficulty": "Medium",
+      "sector": "AgriTech",
+      "category": "Events",
+      "tags": ["agritech", "events", "planning", "agritourism", "farms"]
+    },
+    {
+      "id": 1248,
+      "name": "Agricultural Import/Export",
+      "description": "Facilitate international trade of agricultural products and equipment.",
+      "revenue_model": "5-15% commission on transactions",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Trade",
+      "tags": ["agritech", "import", "export", "international", "trade"]
+    },
+    {
+      "id": 1249,
+      "name": "Farm Cleaning Service",
+      "description": "Specialized cleaning for barns, equipment, and agricultural facilities.",
+      "revenue_model": "$50-200/hour",
+      "difficulty": "Easy",
+      "sector": "AgriTech",
+      "category": "Services",
+      "tags": ["agritech", "cleaning", "service", "farms", "maintenance"]
+    },
+    {
+      "id": 1250,
+      "name": "Agricultural Waste-to-Energy",
+      "description": "Convert agricultural waste into biogas or electricity for farms.",
+      "revenue_model": "$50,000-500,000 per system + energy sales",
+      "difficulty": "Hard",
+      "sector": "AgriTech",
+      "category": "Energy",
+      "tags": ["agritech", "waste-to-energy", "biogas", "renewable", "sustainability"]
+    }
+  ]
+}
