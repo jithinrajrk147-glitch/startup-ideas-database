@@ -1,0 +1,2509 @@
+{
+  "batch": "7-mega-part2",
+  "ideas_range": "2301-2550",
+  "total_ideas": 250,
+  "generated_date": "2026-02-22",
+  "note": "Part 2 of next 1000 zero/low investment ideas mega batch",
+  "ideas": [
+    {
+      "id": 2301,
+      "name": "Behavioral Analytics Specialist",
+      "description": "Analyze user behavior patterns and provide insights.",
+      "revenue_model": "$500-5000 per analysis",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Analytics",
+      "tags": ["zero investment", "behavioral analytics", "user behavior", "insights", "data"]
+    },
+    {
+      "id": 2302,
+      "name": "Predictive Analytics Consultant",
+      "description": "Use data to predict future trends and behaviors.",
+      "revenue_model": "$1000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Analytics",
+      "tags": ["zero investment", "predictive analytics", "forecasting", "data science", "consulting"]
+    },
+    {
+      "id": 2303,
+      "name": "Data Storyteller",
+      "description": "Transform data into compelling narratives.",
+      "revenue_model": "$500-5000 per story",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Data",
+      "tags": ["zero investment", "data storytelling", "visualization", "narrative", "insights"]
+    },
+    {
+      "id": 2304,
+      "name": "Data Presentation Designer",
+      "description": "Design data-driven presentations.",
+      "revenue_model": "$300-3000 per presentation",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "data presentation", "design", "visualization", "business"]
+    },
+    {
+      "id": 2305,
+      "name": "Infographic Designer",
+      "description": "Design infographics for data visualization.",
+      "revenue_model": "$100-1000 per infographic",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "infographic", "design", "data viz", "visual"]
+    },
+    {
+      "id": 2306,
+      "name": "Statistical Infographic Creator",
+      "description": "Create statistical infographics from data.",
+      "revenue_model": "$150-1500 per infographic",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Data Viz",
+      "tags": ["low investment", "statistics", "infographic", "data", "design"]
+    },
+    {
+      "id": 2307,
+      "name": "Data Report Designer",
+      "description": "Design visually appealing data reports.",
+      "revenue_model": "$200-2000 per report",
+      "difficulty": "Medium",
+      "sector": "Design",
+      "category": "Reports",
+      "tags": ["low investment", "data report", "design", "visualization", "business"]
+    },
+    {
+      "id": 2308,
+      "name": "Executive Summary Writer",
+      "description": "Write executive summaries for reports and documents.",
+      "revenue_model": "$100-1000 per summary",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Business Writing",
+      "tags": ["zero investment", "executive summary", "writing", "business", "reports"]
+    },
+    {
+      "id": 2309,
+      "name": "Abstract Writer",
+      "description": "Write abstracts for research papers and reports.",
+      "revenue_model": "$50-500 per abstract",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Academic Writing",
+      "tags": ["zero investment", "abstract", "writing", "research", "academic"]
+    },
+    {
+      "id": 2310,
+      "name": "Literature Review Writer",
+      "description": "Write literature reviews for research.",
+      "revenue_model": "$200-2000 per review",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Academic Writing",
+      "tags": ["zero investment", "literature review", "writing", "research", "academic"]
+    },
+    {
+      "id": 2311,
+      "name": "Research Proposal Writer",
+      "description": "Write research proposals for academics.",
+      "revenue_model": "$500-5000 per proposal",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Academic Writing",
+      "tags": ["zero investment", "research proposal", "writing", "academic", "grant"]
+    },
+    {
+      "id": 2312,
+      "name": "Grant Proposal Writer",
+      "description": "Write grant proposals for nonprofits and researchers.",
+      "revenue_model": "$1000-10000 per proposal",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Grant Writing",
+      "tags": ["zero investment", "grant proposal", "writing", "nonprofit", "funding"]
+    },
+    {
+      "id": 2313,
+      "name": "Grant Research Service",
+      "description": "Research grant opportunities for organizations.",
+      "revenue_model": "$300-3000 per research",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Grant Writing",
+      "tags": ["zero investment", "grant research", "funding", "nonprofit", "opportunities"]
+    },
+    {
+      "id": 2314,
+      "name": "Nonprofit Consultant",
+      "description": "Provide consulting for nonprofit organizations.",
+      "revenue_model": "$100-1000/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Nonprofit",
+      "tags": ["zero investment", "nonprofit", "consulting", "strategy", "fundraising"]
+    },
+    {
+      "id": 2315,
+      "name": "Fundraising Consultant",
+      "description": "Help nonprofits with fundraising strategies.",
+      "revenue_model": "$1000-10000 per campaign",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Fundraising",
+      "tags": ["zero investment", "fundraising", "consulting", "nonprofit", "strategy"]
+    },
+    {
+      "id": 2316,
+      "name": "Donor Communication Writer",
+      "description": "Write communications for nonprofit donors.",
+      "revenue_model": "$100-1000 per piece",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Nonprofit",
+      "tags": ["zero investment", "donor communication", "writing", "nonprofit", "fundraising"]
+    },
+    {
+      "id": 2317,
+      "name": "Impact Report Writer",
+      "description": "Write impact reports for nonprofits.",
+      "revenue_model": "$500-5000 per report",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Nonprofit",
+      "tags": ["zero investment", "impact report", "writing", "nonprofit", "storytelling"]
+    },
+    {
+      "id": 2318,
+      "name": "Nonprofit Storyteller",
+      "description": "Tell compelling stories for nonprofit causes.",
+      "revenue_model": "$300-3000 per story",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Nonprofit",
+      "tags": ["zero investment", "storytelling", "nonprofit", "content", "impact"]
+    },
+    {
+      "id": 2319,
+      "name": "Volunteer Coordinator (Virtual)",
+      "description": "Coordinate volunteers for nonprofits remotely.",
+      "revenue_model": "$500-5000/month per organization",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Nonprofit",
+      "tags": ["zero investment", "volunteer", "coordination", "nonprofit", "management"]
+    },
+    {
+      "id": 2320,
+      "name": "Event Fundraiser Planner",
+      "description": "Plan fundraising events for nonprofits.",
+      "revenue_model": "$1000-10000 per event",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "fundraising", "event planning", "nonprofit", "charity"]
+    },
+    {
+      "id": 2321,
+      "name": "Virtual Event Planner",
+      "description": "Plan and coordinate virtual events.",
+      "revenue_model": "$500-5000 per event",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "virtual events", "planning", "coordination", "online"]
+    },
+    {
+      "id": 2322,
+      "name": "Hybrid Event Planner",
+      "description": "Plan hybrid (in-person + virtual) events.",
+      "revenue_model": "$1000-10000 per event",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "hybrid events", "planning", "coordination", "technology"]
+    },
+    {
+      "id": 2323,
+      "name": "Conference Planner",
+      "description": "Plan conferences and large events.",
+      "revenue_model": "$2000-20000 per conference",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "conference", "planning", "events", "coordination"]
+    },
+    {
+      "id": 2324,
+      "name": "Summit Organizer",
+      "description": "Organize industry summits and gatherings.",
+      "revenue_model": "$2000-20000 per summit",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "summit", "organization", "events", "industry"]
+    },
+    {
+      "id": 2325,
+      "name": "Meetup Organizer",
+      "description": "Organize local or virtual meetups.",
+      "revenue_model": "$100-1000 per meetup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "meetup", "organization", "community", "networking"]
+    },
+    {
+      "id": 2326,
+      "name": "Workshop Organizer",
+      "description": "Organize educational workshops.",
+      "revenue_model": "$200-2000 per workshop",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Education",
+      "tags": ["zero investment", "workshop", "organization", "education", "training"]
+    },
+    {
+      "id": 2327,
+      "name": "Retreat Planner",
+      "description": "Plan corporate or wellness retreats.",
+      "revenue_model": "$1000-10000 per retreat",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Events",
+      "tags": ["zero investment", "retreat", "planning", "corporate", "wellness"]
+    },
+    {
+      "id": 2328,
+      "name": "Team Building Facilitator",
+      "description": "Facilitate team building activities and events.",
+      "revenue_model": "$500-5000 per session",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Team Building",
+      "tags": ["zero investment", "team building", "facilitation", "corporate", "activities"]
+    },
+    {
+      "id": 2329,
+      "name": "Icebreaker Activity Designer",
+      "description": "Design icebreaker activities for events and meetings.",
+      "revenue_model": "$50-500 per activity",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Team Building",
+      "tags": ["zero investment", "icebreaker", "activities", "team building", "engagement"]
+    },
+    {
+      "id": 2330,
+      "name": "Virtual Team Building Facilitator",
+      "description": "Facilitate virtual team building activities.",
+      "revenue_model": "$300-3000 per session",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Team Building",
+      "tags": ["zero investment", "virtual", "team building", "facilitation", "remote"]
+    },
+    {
+      "id": 2331,
+      "name": "Online Game Night Host",
+      "description": "Host online game nights for teams and groups.",
+      "revenue_model": "$100-1000 per event",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Entertainment",
+      "tags": ["zero investment", "game night", "hosting", "virtual", "team building"]
+    },
+    {
+      "id": 2332,
+      "name": "Trivia Night Host",
+      "description": "Host trivia nights for events and teams.",
+      "revenue_model": "$100-1000 per event",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Entertainment",
+      "tags": ["zero investment", "trivia", "hosting", "events", "entertainment"]
+    },
+    {
+      "id": 2333,
+      "name": "Trivia Question Writer",
+      "description": "Write trivia questions for events and apps.",
+      "revenue_model": "$50-500 per set",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "trivia", "questions", "writing", "content"]
+    },
+    {
+      "id": 2334,
+      "name": "Quiz Creator",
+      "description": "Create quizzes for education and entertainment.",
+      "revenue_model": "$50-500 per quiz",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Education",
+      "tags": ["zero investment", "quiz", "creation", "education", "content"]
+    },
+    {
+      "id": 2335,
+      "name": "Puzzle Creator",
+      "description": "Create puzzles for publications and apps.",
+      "revenue_model": "$20-200 per puzzle",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "puzzle", "creation", "content", "games"]
+    },
+    {
+      "id": 2336,
+      "name": "Crossword Puzzle Creator",
+      "description": "Create crossword puzzles for publications.",
+      "revenue_model": "$50-500 per puzzle",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "crossword", "puzzle", "creation", "content"]
+    },
+    {
+      "id": 2337,
+      "name": "Sudoku Puzzle Creator",
+      "description": "Create Sudoku puzzles for publications.",
+      "revenue_model": "$20-200 per puzzle",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "Sudoku", "puzzle", "creation", "content"]
+    },
+    {
+      "id": 2338,
+      "name": "Word Search Creator",
+      "description": "Create word search puzzles.",
+      "revenue_model": "$10-100 per puzzle",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "word search", "puzzle", "creation", "content"]
+    },
+    {
+      "id": 2339,
+      "name": "Brain Teaser Creator",
+      "description": "Create brain teasers and riddles.",
+      "revenue_model": "$10-100 per teaser",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "brain teaser", "riddle", "creation", "content"]
+    },
+    {
+      "id": 2340,
+      "name": "Riddle Writer",
+      "description": "Write riddles for entertainment and education.",
+      "revenue_model": "$5-50 per riddle",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Entertainment",
+      "tags": ["zero investment", "riddle", "writing", "content", "entertainment"]
+    },
+    {
+      "id": 2341,
+      "name": "Joke Writer",
+      "description": "Write jokes for comedians and content creators.",
+      "revenue_model": "$10-100 per joke",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Comedy",
+      "tags": ["zero investment", "joke", "writing", "comedy", "content"]
+    },
+    {
+      "id": 2342,
+      "name": "Comedy Script Writer",
+      "description": "Write comedy scripts for videos and shows.",
+      "revenue_model": "$200-2000 per script",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Comedy",
+      "tags": ["zero investment", "comedy", "script", "writing", "entertainment"]
+    },
+    {
+      "id": 2343,
+      "name": "Sketch Comedy Writer",
+      "description": "Write sketch comedy for performers.",
+      "revenue_model": "$100-1000 per sketch",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Comedy",
+      "tags": ["zero investment", "sketch comedy", "writing", "entertainment", "performance"]
+    },
+    {
+      "id": 2344,
+      "name": "Stand-Up Comedy Coach",
+      "description": "Coach aspiring stand-up comedians.",
+      "revenue_model": "$100-1000 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Comedy",
+      "tags": ["zero investment", "stand-up", "comedy", "coaching", "performance"]
+    },
+    {
+      "id": 2345,
+      "name": "Improv Coach",
+      "description": "Coach individuals and teams on improv skills.",
+      "revenue_model": "$100-1000 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Performance",
+      "tags": ["zero investment", "improv", "coaching", "performance", "skills"]
+    },
+    {
+      "id": 2346,
+      "name": "Acting Coach (Online)",
+      "description": "Provide online acting coaching.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Performance",
+      "tags": ["zero investment", "acting", "coaching", "performance", "online"]
+    },
+    {
+      "id": 2347,
+      "name": "Voice Acting Coach",
+      "description": "Coach voice actors on technique and performance.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Voice",
+      "tags": ["zero investment", "voice acting", "coaching", "performance", "audio"]
+    },
+    {
+      "id": 2348,
+      "name": "Accent Coach",
+      "description": "Help actors and speakers with accent training.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Voice",
+      "tags": ["zero investment", "accent", "coaching", "voice", "training"]
+    },
+    {
+      "id": 2349,
+      "name": "Dialect Coach",
+      "description": "Coach actors on specific dialects.",
+      "revenue_model": "$100-1000 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Voice",
+      "tags": ["zero investment", "dialect", "coaching", "voice", "acting"]
+    },
+    {
+      "id": 2350,
+      "name": "Pronunciation Coach",
+      "description": "Help non-native speakers improve pronunciation.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Language",
+      "tags": ["zero investment", "pronunciation", "coaching", "language", "ESL"]
+    },
+    {
+      "id": 2351,
+      "name": "English Conversation Partner",
+      "description": "Practice English conversation with learners.",
+      "revenue_model": "$15-50/hour",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "English", "conversation", "language", "tutoring"]
+    },
+    {
+      "id": 2352,
+      "name": "Language Exchange Facilitator",
+      "description": "Match and facilitate language exchange partnerships.",
+      "revenue_model": "$10-100/month per member",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "language exchange", "facilitation", "learning", "community"]
+    },
+    {
+      "id": 2353,
+      "name": "Online Language Tutor",
+      "description": "Teach languages online via video calls.",
+      "revenue_model": "$20-100/hour",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "language", "tutoring", "online", "teaching"]
+    },
+    {
+      "id": 2354,
+      "name": "Language Learning Content Creator",
+      "description": "Create language learning content and resources.",
+      "revenue_model": "$50-500 per resource",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "language", "content", "education", "resources"]
+    },
+    {
+      "id": 2355,
+      "name": "Vocabulary List Creator",
+      "description": "Create vocabulary lists for language learners.",
+      "revenue_model": "$10-100 per list",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "vocabulary", "language", "education", "lists"]
+    },
+    {
+      "id": 2356,
+      "name": "Grammar Exercise Creator",
+      "description": "Create grammar exercises for language learning.",
+      "revenue_model": "$20-200 per set",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "grammar", "exercises", "language", "education"]
+    },
+    {
+      "id": 2357,
+      "name": "Language Worksheet Designer",
+      "description": "Design language learning worksheets.",
+      "revenue_model": "$10-100 per worksheet",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["low investment", "language", "worksheet", "design", "education"]
+    },
+    {
+      "id": 2358,
+      "name": "Reading Comprehension Creator",
+      "description": "Create reading comprehension exercises.",
+      "revenue_model": "$30-300 per exercise",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "reading comprehension", "exercises", "education", "language"]
+    },
+    {
+      "id": 2359,
+      "name": "Listening Exercise Creator",
+      "description": "Create listening comprehension exercises.",
+      "revenue_model": "$30-300 per exercise",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "listening", "exercises", "language", "education"]
+    },
+    {
+      "id": 2360,
+      "name": "Pronunciation Guide Creator",
+      "description": "Create pronunciation guides for language learners.",
+      "revenue_model": "$50-500 per guide",
+      "difficulty": "Medium",
+      "sector": "Education",
+      "category": "Language",
+      "tags": ["zero investment", "pronunciation", "guide", "language", "education"]
+    },
+    {
+      "id": 2361,
+      "name": "Phonics Worksheet Creator",
+      "description": "Create phonics worksheets for early readers.",
+      "revenue_model": "$10-100 per worksheet",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Reading",
+      "tags": ["low investment", "phonics", "worksheet", "reading", "education"]
+    },
+    {
+      "id": 2362,
+      "name": "Sight Word List Creator",
+      "description": "Create sight word lists and resources.",
+      "revenue_model": "$10-100 per resource",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Reading",
+      "tags": ["zero investment", "sight words", "reading", "education", "resources"]
+    },
+    {
+      "id": 2363,
+      "name": "Spelling List Creator",
+      "description": "Create spelling lists for students.",
+      "revenue_model": "$10-100 per list",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Language Arts",
+      "tags": ["zero investment", "spelling", "lists", "education", "language"]
+    },
+    {
+      "id": 2364,
+      "name": "Writing Prompt Creator",
+      "description": "Create writing prompts for students and writers.",
+      "revenue_model": "$10-100 per set",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Writing",
+      "tags": ["zero investment", "writing prompts", "education", "creative writing", "content"]
+    },
+    {
+      "id": 2365,
+      "name": "Story Starter Creator",
+      "description": "Create story starters for creative writing.",
+      "revenue_model": "$10-100 per set",
+      "difficulty": "Easy",
+      "sector": "Education",
+      "category": "Writing",
+      "tags": ["zero investment", "story starters", "creative writing", "education", "content"]
+    },
+    {
+      "id": 2366,
+      "name": "Creative Writing Coach",
+      "description": "Coach aspiring writers on creative writing.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Writing",
+      "tags": ["zero investment", "creative writing", "coaching", "writing", "education"]
+    },
+    {
+      "id": 2367,
+      "name": "Fiction Writing Coach",
+      "description": "Coach fiction writers on craft and technique.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Writing",
+      "tags": ["zero investment", "fiction", "writing", "coaching", "craft"]
+    },
+    {
+      "id": 2368,
+      "name": "Novel Writing Coach",
+      "description": "Coach aspiring novelists through the writing process.",
+      "revenue_model": "$100-1000 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Writing",
+      "tags": ["zero investment", "novel", "writing", "coaching", "fiction"]
+    },
+    {
+      "id": 2369,
+      "name": "Memoir Writing Coach",
+      "description": "Help people write their memoirs.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Writing",
+      "tags": ["zero investment", "memoir", "writing", "coaching", "storytelling"]
+    },
+    {
+      "id": 2370,
+      "name": "Autobiography Ghostwriter",
+      "description": "Ghostwrite autobiographies for clients.",
+      "revenue_model": "$5000-50000 per book",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Ghostwriting",
+      "tags": ["zero investment", "autobiography", "ghostwriting", "writing", "book"]
+    },
+    {
+      "id": 2371,
+      "name": "Biography Writer",
+      "description": "Write biographies for individuals.",
+      "revenue_model": "$3000-30000 per biography",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Writing",
+      "tags": ["zero investment", "biography", "writing", "storytelling", "book"]
+    },
+    {
+      "id": 2372,
+      "name": "Family History Writer",
+      "description": "Write family histories and genealogies.",
+      "revenue_model": "$1000-10000 per project",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Writing",
+      "tags": ["zero investment", "family history", "writing", "genealogy", "storytelling"]
+    },
+    {
+      "id": 2373,
+      "name": "Genealogy Researcher",
+      "description": "Research family genealogies for clients.",
+      "revenue_model": "$50-500/hour",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Research",
+      "tags": ["zero investment", "genealogy", "research", "family history", "ancestry"]
+    },
+    {
+      "id": 2374,
+      "name": "Ancestry Report Writer",
+      "description": "Write ancestry reports from genealogy research.",
+      "revenue_model": "$200-2000 per report",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Writing",
+      "tags": ["zero investment", "ancestry", "report", "writing", "genealogy"]
+    },
+    {
+      "id": 2375,
+      "name": "Family Tree Designer",
+      "description": "Design visual family trees.",
+      "revenue_model": "$50-500 per tree",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Genealogy",
+      "tags": ["low investment", "family tree", "design", "genealogy", "visual"]
+    },
+    {
+      "id": 2376,
+      "name": "Legacy Video Creator",
+      "description": "Create legacy videos for families.",
+      "revenue_model": "$500-5000 per video",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Video",
+      "tags": ["zero investment", "legacy video", "family", "storytelling", "memories"]
+    },
+    {
+      "id": 2377,
+      "name": "Life Story Interviewer",
+      "description": "Interview people to capture their life stories.",
+      "revenue_model": "$100-1000 per interview",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Storytelling",
+      "tags": ["zero investment", "life story", "interview", "storytelling", "legacy"]
+    },
+    {
+      "id": 2378,
+      "name": "Oral History Recorder",
+      "description": "Record and preserve oral histories.",
+      "revenue_model": "$100-1000 per recording",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "History",
+      "tags": ["zero investment", "oral history", "recording", "preservation", "storytelling"]
+    },
+    {
+      "id": 2379,
+      "name": "Memory Book Creator",
+      "description": "Create memory books for special occasions.",
+      "revenue_model": "$100-1000 per book",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Memories",
+      "tags": ["low investment", "memory book", "creation", "design", "keepsake"]
+    },
+    {
+      "id": 2380,
+      "name": "Photo Album Designer",
+      "description": "Design digital and physical photo albums.",
+      "revenue_model": "$50-500 per album",
+      "difficulty": "Easy",
+      "sector": "Design",
+      "category": "Photography",
+      "tags": ["low investment", "photo album", "design", "memories", "photography"]
+    },
+    {
+      "id": 2381,
+      "name": "Photo Organization Service",
+      "description": "Organize digital photo collections.",
+      "revenue_model": "$100-1000 per project",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Organization",
+      "tags": ["zero investment", "photo organization", "digital", "memories", "service"]
+    },
+    {
+      "id": 2382,
+      "name": "Photo Tagging Service",
+      "description": "Tag and categorize photos for easy searching.",
+      "revenue_model": "$50-500 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Organization",
+      "tags": ["zero investment", "photo tagging", "organization", "digital", "service"]
+    },
+    {
+      "id": 2383,
+      "name": "Photo Backup Service",
+      "description": "Help people backup their photo collections.",
+      "revenue_model": "$50-500 per setup",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Data Management",
+      "tags": ["zero investment", "photo backup", "data", "preservation", "service"]
+    },
+    {
+      "id": 2384,
+      "name": "Digital Asset Manager",
+      "description": "Manage digital assets for individuals and businesses.",
+      "revenue_model": "$100-1000/month per client",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Data Management",
+      "tags": ["zero investment", "digital assets", "management", "organization", "service"]
+    },
+    {
+      "id": 2385,
+      "name": "Digital Legacy Planner",
+      "description": "Help people plan their digital legacy.",
+      "revenue_model": "$200-2000 per plan",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Digital Legacy",
+      "tags": ["zero investment", "digital legacy", "planning", "estate", "consulting"]
+    },
+    {
+      "id": 2386,
+      "name": "Social Media Will Creator",
+      "description": "Help people plan what happens to social media after death.",
+      "revenue_model": "$100-1000 per plan",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Digital Legacy",
+      "tags": ["zero investment", "social media", "will", "digital legacy", "planning"]
+    },
+    {
+      "id": 2387,
+      "name": "Digital Estate Planner",
+      "description": "Plan digital estates and asset transfer.",
+      "revenue_model": "$300-3000 per plan",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Estate Planning",
+      "tags": ["zero investment", "digital estate", "planning", "legacy", "consulting"]
+    },
+    {
+      "id": 2388,
+      "name": "Password Inheritance Planner",
+      "description": "Help people plan password inheritance.",
+      "revenue_model": "$100-1000 per plan",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Digital Legacy",
+      "tags": ["zero investment", "password", "inheritance", "digital legacy", "planning"]
+    },
+    {
+      "id": 2389,
+      "name": "Digital Decluttering Coach",
+      "description": "Help people declutter their digital lives.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Organization",
+      "tags": ["zero investment", "digital declutter", "coaching", "organization", "minimalism"]
+    },
+    {
+      "id": 2390,
+      "name": "Digital Spring Cleaning Service",
+      "description": "Help people clean up their digital spaces.",
+      "revenue_model": "$100-1000 per service",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Digital Organization",
+      "tags": ["zero investment", "digital cleaning", "organization", "declutter", "service"]
+    },
+    {
+      "id": 2391,
+      "name": "Bookmark Organization Service",
+      "description": "Organize browser bookmarks and favorites.",
+      "revenue_model": "$50-500 per organization",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Digital Organization",
+      "tags": ["zero investment", "bookmarks", "organization", "browser", "productivity"]
+    },
+    {
+      "id": 2392,
+      "name": "Tab Management Consultant",
+      "description": "Help people manage browser tabs effectively.",
+      "revenue_model": "$30-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "tab management", "browser", "productivity", "consulting"]
+    },
+    {
+      "id": 2393,
+      "name": "Browser Extension Recommender",
+      "description": "Recommend browser extensions for productivity.",
+      "revenue_model": "$30-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "browser extensions", "recommendations", "productivity", "tools"]
+    },
+    {
+      "id": 2394,
+      "name": "Productivity App Consultant",
+      "description": "Recommend productivity apps and tools.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "productivity apps", "consulting", "tools", "recommendations"]
+    },
+    {
+      "id": 2395,
+      "name": "App Stack Optimizer",
+      "description": "Optimize personal or business app stacks.",
+      "revenue_model": "$100-1000 per optimization",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "app stack", "optimization", "productivity", "tools"]
+    },
+    {
+      "id": 2396,
+      "name": "Software Subscription Auditor",
+      "description": "Audit and optimize software subscriptions.",
+      "revenue_model": "$100-1000 per audit",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Cost Optimization",
+      "tags": ["zero investment", "subscription", "audit", "cost savings", "software"]
+    },
+    {
+      "id": 2397,
+      "name": "SaaS Cost Optimizer",
+      "description": "Help businesses reduce SaaS costs.",
+      "revenue_model": "$500-5000 per optimization",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Cost Optimization",
+      "tags": ["zero investment", "SaaS", "cost optimization", "savings", "consulting"]
+    },
+    {
+      "id": 2398,
+      "name": "Tool Consolidation Consultant",
+      "description": "Help businesses consolidate redundant tools.",
+      "revenue_model": "$500-5000 per project",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Efficiency",
+      "tags": ["zero investment", "tool consolidation", "consulting", "efficiency", "cost savings"]
+    },
+    {
+      "id": 2399,
+      "name": "Workflow Efficiency Consultant",
+      "description": "Optimize workflows for efficiency.",
+      "revenue_model": "$500-5000 per project",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Efficiency",
+      "tags": ["zero investment", "workflow", "efficiency", "optimization", "consulting"]
+    },
+    {
+      "id": 2400,
+      "name": "Process Bottleneck Identifier",
+      "description": "Identify and resolve process bottlenecks.",
+      "revenue_model": "$500-5000 per analysis",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Operations",
+      "tags": ["zero investment", "bottleneck", "process", "optimization", "consulting"]
+    },
+    {
+      "id": 2401,
+      "name": "Efficiency Audit Service",
+      "description": "Audit business processes for efficiency.",
+      "revenue_model": "$1000-10000 per audit",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Operations",
+      "tags": ["zero investment", "efficiency", "audit", "operations", "consulting"]
+    },
+    {
+      "id": 2402,
+      "name": "Time Audit Service",
+      "description": "Audit how individuals or teams spend time.",
+      "revenue_model": "$200-2000 per audit",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "time audit", "productivity", "analysis", "consulting"]
+    },
+    {
+      "id": 2403,
+      "name": "Meeting Audit Service",
+      "description": "Audit meeting effectiveness and efficiency.",
+      "revenue_model": "$300-3000 per audit",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "meeting audit", "efficiency", "productivity", "consulting"]
+    },
+    {
+      "id": 2404,
+      "name": "Meeting Cost Calculator",
+      "description": "Calculate the cost of meetings for businesses.",
+      "revenue_model": "$100-1000 per analysis",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "meeting cost", "calculator", "productivity", "analysis"]
+    },
+    {
+      "id": 2405,
+      "name": "Meeting-Free Day Consultant",
+      "description": "Help teams implement meeting-free days.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "meeting-free", "productivity", "consulting", "culture"]
+    },
+    {
+      "id": 2406,
+      "name": "Deep Work Coach",
+      "description": "Coach individuals on deep work practices.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Productivity",
+      "tags": ["zero investment", "deep work", "coaching", "productivity", "focus"]
+    },
+    {
+      "id": 2407,
+      "name": "Flow State Coach",
+      "description": "Help people achieve flow state more consistently.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Productivity",
+      "tags": ["zero investment", "flow state", "coaching", "productivity", "performance"]
+    },
+    {
+      "id": 2408,
+      "name": "Energy Management Coach",
+      "description": "Coach on managing energy levels for productivity.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Productivity",
+      "tags": ["zero investment", "energy management", "coaching", "productivity", "wellness"]
+    },
+    {
+      "id": 2409,
+      "name": "Chronotype Consultant",
+      "description": "Help people optimize schedules based on chronotype.",
+      "revenue_model": "$100-1000 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "chronotype", "consulting", "productivity", "sleep"]
+    },
+    {
+      "id": 2410,
+      "name": "Circadian Rhythm Optimizer",
+      "description": "Optimize schedules for circadian rhythms.",
+      "revenue_model": "$100-1000 per optimization",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Wellness",
+      "tags": ["zero investment", "circadian rhythm", "optimization", "sleep", "productivity"]
+    },
+    {
+      "id": 2411,
+      "name": "Sleep Schedule Consultant",
+      "description": "Help people optimize their sleep schedules.",
+      "revenue_model": "$75-750 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Wellness",
+      "tags": ["zero investment", "sleep", "schedule", "consulting", "health"]
+    },
+    {
+      "id": 2412,
+      "name": "Sleep Hygiene Coach",
+      "description": "Coach on sleep hygiene practices.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Wellness",
+      "tags": ["zero investment", "sleep hygiene", "coaching", "wellness", "health"]
+    },
+    {
+      "id": 2413,
+      "name": "Nap Strategy Consultant",
+      "description": "Optimize napping strategies for productivity.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "nap", "strategy", "productivity", "sleep"]
+    },
+    {
+      "id": 2414,
+      "name": "Caffeine Strategy Consultant",
+      "description": "Optimize caffeine consumption for productivity.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "caffeine", "strategy", "productivity", "health"]
+    },
+    {
+      "id": 2415,
+      "name": "Nootropics Advisor",
+      "description": "Advise on nootropics for cognitive enhancement (educational).",
+      "revenue_model": "$75-750 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Wellness",
+      "tags": ["zero investment", "nootropics", "cognitive", "consulting", "wellness"]
+    },
+    {
+      "id": 2416,
+      "name": "Biohacking Consultant",
+      "description": "Advise on biohacking strategies for optimization.",
+      "revenue_model": "$100-1000 per consultation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Wellness",
+      "tags": ["zero investment", "biohacking", "consulting", "optimization", "health"]
+    },
+    {
+      "id": 2417,
+      "name": "Quantified Self Consultant",
+      "description": "Help people track and optimize personal metrics.",
+      "revenue_model": "$100-1000 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Wellness",
+      "tags": ["zero investment", "quantified self", "tracking", "optimization", "data"]
+    },
+    {
+      "id": 2418,
+      "name": "Habit Tracking Consultant",
+      "description": "Help people set up and maintain habit tracking.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "habit tracking", "consulting", "productivity", "habits"]
+    },
+    {
+      "id": 2419,
+      "name": "Habit Stacking Coach",
+      "description": "Coach on habit stacking techniques.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Habits",
+      "tags": ["zero investment", "habit stacking", "coaching", "productivity", "habits"]
+    },
+    {
+      "id": 2420,
+      "name": "Atomic Habits Coach",
+      "description": "Coach based on Atomic Habits methodology.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Habits",
+      "tags": ["zero investment", "atomic habits", "coaching", "productivity", "behavior change"]
+    },
+    {
+      "id": 2421,
+      "name": "Tiny Habits Coach",
+      "description": "Coach using Tiny Habits methodology.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Habits",
+      "tags": ["zero investment", "tiny habits", "coaching", "behavior change", "habits"]
+    },
+    {
+      "id": 2422,
+      "name": "Keystone Habit Identifier",
+      "description": "Help identify keystone habits for transformation.",
+      "revenue_model": "$100-1000 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Habits",
+      "tags": ["zero investment", "keystone habits", "consulting", "transformation", "behavior"]
+    },
+    {
+      "id": 2423,
+      "name": "Bad Habit Breaking Coach",
+      "description": "Help people break bad habits.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Habits",
+      "tags": ["zero investment", "bad habits", "coaching", "behavior change", "wellness"]
+    },
+    {
+      "id": 2424,
+      "name": "Addiction Recovery Coach",
+      "description": "Support people in addiction recovery (non-clinical).",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Wellness",
+      "tags": ["zero investment", "addiction", "recovery", "coaching", "support"]
+    },
+    {
+      "id": 2425,
+      "name": "Sobriety Accountability Partner",
+      "description": "Provide accountability for sobriety goals.",
+      "revenue_model": "$30-300/month per client",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Wellness",
+      "tags": ["zero investment", "sobriety", "accountability", "support", "wellness"]
+    },
+    {
+      "id": 2426,
+      "name": "Quit Smoking Coach",
+      "description": "Coach people through quitting smoking.",
+      "revenue_model": "$50-500 per program",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Wellness",
+      "tags": ["zero investment", "quit smoking", "coaching", "health", "wellness"]
+    },
+    {
+      "id": 2427,
+      "name": "Sugar Detox Coach",
+      "description": "Guide people through sugar detox programs.",
+      "revenue_model": "$50-500 per program",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Nutrition",
+      "tags": ["zero investment", "sugar detox", "coaching", "nutrition", "health"]
+    },
+    {
+      "id": 2428,
+      "name": "Caffeine Detox Coach",
+      "description": "Help people reduce or eliminate caffeine.",
+      "revenue_model": "$30-300 per program",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Wellness",
+      "tags": ["zero investment", "caffeine detox", "coaching", "health", "wellness"]
+    },
+    {
+      "id": 2429,
+      "name": "Social Media Detox Coach",
+      "description": "Guide people through social media detoxes.",
+      "revenue_model": "$50-500 per program",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "social media detox", "coaching", "digital wellness", "mental health"]
+    },
+    {
+      "id": 2430,
+      "name": "Phone Addiction Coach",
+      "description": "Help people overcome phone addiction.",
+      "revenue_model": "$50-500 per program",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "phone addiction", "coaching", "digital wellness", "habits"]
+    },
+    {
+      "id": 2431,
+      "name": "Gaming Addiction Coach",
+      "description": "Help people manage gaming habits.",
+      "revenue_model": "$50-500 per program",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "gaming addiction", "coaching", "digital wellness", "habits"]
+    },
+    {
+      "id": 2432,
+      "name": "Binge-Watching Coach",
+      "description": "Help people manage TV and streaming habits.",
+      "revenue_model": "$30-300 per program",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "binge-watching", "coaching", "digital wellness", "habits"]
+    },
+    {
+      "id": 2433,
+      "name": "News Consumption Coach",
+      "description": "Help people develop healthy news consumption habits.",
+      "revenue_model": "$30-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "news consumption", "coaching", "digital wellness", "mental health"]
+    },
+    {
+      "id": 2434,
+      "name": "Information Diet Consultant",
+      "description": "Help people curate their information consumption.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "information diet", "consulting", "digital wellness", "productivity"]
+    },
+    {
+      "id": 2435,
+      "name": "Content Curation Coach",
+      "description": "Help people curate quality content sources.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Digital Wellness",
+      "tags": ["zero investment", "content curation", "coaching", "information", "productivity"]
+    },
+    {
+      "id": 2436,
+      "name": "RSS Feed Curator",
+      "description": "Curate RSS feeds for specific interests.",
+      "revenue_model": "$30-300 per curation",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Content",
+      "tags": ["zero investment", "RSS", "curation", "content", "information"]
+    },
+    {
+      "id": 2437,
+      "name": "Podcast Playlist Curator",
+      "description": "Curate podcast playlists for specific topics.",
+      "revenue_model": "$20-200 per playlist",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Content",
+      "tags": ["zero investment", "podcast", "curation", "playlist", "content"]
+    },
+    {
+      "id": 2438,
+      "name": "YouTube Channel Curator",
+      "description": "Curate YouTube channel recommendations.",
+      "revenue_model": "$20-200 per curation",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Content",
+      "tags": ["zero investment", "YouTube", "curation", "channels", "content"]
+    },
+    {
+      "id": 2439,
+      "name": "Book List Curator",
+      "description": "Curate book lists for specific topics or goals.",
+      "revenue_model": "$30-300 per list",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Content",
+      "tags": ["zero investment", "book list", "curation", "reading", "content"]
+    },
+    {
+      "id": 2440,
+      "name": "Reading List Consultant",
+      "description": "Create personalized reading lists.",
+      "revenue_model": "$50-500 per list",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Education",
+      "tags": ["zero investment", "reading list", "consulting", "books", "education"]
+    },
+    {
+      "id": 2441,
+      "name": "Book Recommendation Service",
+      "description": "Provide personalized book recommendations.",
+      "revenue_model": "$20-200 per recommendation",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Books",
+      "tags": ["zero investment", "book recommendation", "reading", "service", "personalized"]
+    },
+    {
+      "id": 2442,
+      "name": "Book Summary Writer",
+      "description": "Write book summaries and key takeaways.",
+      "revenue_model": "$50-500 per summary",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Books",
+      "tags": ["zero investment", "book summary", "writing", "content", "education"]
+    },
+    {
+      "id": 2443,
+      "name": "Book Review Writer",
+      "description": "Write book reviews for blogs and publications.",
+      "revenue_model": "$30-300 per review",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Books",
+      "tags": ["zero investment", "book review", "writing", "content", "literature"]
+    },
+    {
+      "id": 2444,
+      "name": "Book Discussion Facilitator",
+      "description": "Facilitate book discussion groups.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Education",
+      "tags": ["zero investment", "book discussion", "facilitation", "reading", "community"]
+    },
+    {
+      "id": 2445,
+      "name": "Reading Challenge Organizer",
+      "description": "Organize reading challenges for communities.",
+      "revenue_model": "$100-1000 per challenge",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Community",
+      "tags": ["zero investment", "reading challenge", "organization", "books", "community"]
+    },
+    {
+      "id": 2446,
+      "name": "Speed Reading Coach",
+      "description": "Coach people on speed reading techniques.",
+      "revenue_model": "$50-500 per course",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Education",
+      "tags": ["zero investment", "speed reading", "coaching", "education", "skills"]
+    },
+    {
+      "id": 2447,
+      "name": "Reading Comprehension Coach",
+      "description": "Help people improve reading comprehension.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Education",
+      "tags": ["zero investment", "reading comprehension", "coaching", "education", "literacy"]
+    },
+    {
+      "id": 2448,
+      "name": "Critical Reading Coach",
+      "description": "Teach critical reading and analysis skills.",
+      "revenue_model": "$75-750 per session",
+      "difficulty": "Hard",
+      "sector": "Coaching",
+      "category": "Education",
+      "tags": ["zero investment", "critical reading", "coaching", "education", "analysis"]
+    },
+    {
+      "id": 2449,
+      "name": "Note-Taking Coach",
+      "description": "Coach on effective note-taking methods.",
+      "revenue_model": "$50-500 per session",
+      "difficulty": "Easy",
+      "sector": "Coaching",
+      "category": "Education",
+      "tags": ["zero investment", "note-taking", "coaching", "education", "productivity"]
+    },
+    {
+      "id": 2450,
+      "name": "Cornell Notes Trainer",
+      "description": "Train on Cornell note-taking method.",
+      "revenue_model": "$30-300 per training",
+      "difficulty": "Easy",
+      "sector": "Training",
+      "category": "Education",
+      "tags": ["zero investment", "Cornell notes", "training", "education", "study skills"]
+    },
+    {
+      "id": 2451,
+      "name": "Zettelkasten Consultant",
+      "description": "Help people implement Zettelkasten note-taking.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Zettelkasten", "consulting", "note-taking", "knowledge management"]
+    },
+    {
+      "id": 2452,
+      "name": "Second Brain Consultant",
+      "description": "Help people build their second brain system.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "second brain", "consulting", "knowledge management", "productivity"]
+    },
+    {
+      "id": 2453,
+      "name": "Personal Knowledge Management Coach",
+      "description": "Coach on personal knowledge management systems.",
+      "revenue_model": "$100-1000 per session",
+      "difficulty": "Medium",
+      "sector": "Coaching",
+      "category": "Productivity",
+      "tags": ["zero investment", "PKM", "coaching", "knowledge management", "productivity"]
+    },
+    {
+      "id": 2454,
+      "name": "Obsidian Consultant",
+      "description": "Help people set up and use Obsidian effectively.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Obsidian", "consulting", "note-taking", "PKM"]
+    },
+    {
+      "id": 2455,
+      "name": "Roam Research Consultant",
+      "description": "Help people use Roam Research effectively.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Roam Research", "consulting", "note-taking", "PKM"]
+    },
+    {
+      "id": 2456,
+      "name": "Logseq Consultant",
+      "description": "Help people set up and use Logseq.",
+      "revenue_model": "$75-750 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Logseq", "consulting", "note-taking", "PKM"]
+    },
+    {
+      "id": 2457,
+      "name": "Evernote Consultant",
+      "description": "Optimize Evernote setups for productivity.",
+      "revenue_model": "$75-750 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Evernote", "consulting", "note-taking", "organization"]
+    },
+    {
+      "id": 2458,
+      "name": "OneNote Consultant",
+      "description": "Help people organize OneNote effectively.",
+      "revenue_model": "$75-750 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "OneNote", "consulting", "note-taking", "organization"]
+    },
+    {
+      "id": 2459,
+      "name": "Apple Notes Consultant",
+      "description": "Optimize Apple Notes for productivity.",
+      "revenue_model": "$50-500 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Apple Notes", "consulting", "note-taking", "organization"]
+    },
+    {
+      "id": 2460,
+      "name": "Google Keep Consultant",
+      "description": "Help people use Google Keep effectively.",
+      "revenue_model": "$30-300 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Google Keep", "consulting", "note-taking", "organization"]
+    },
+    {
+      "id": 2461,
+      "name": "Todoist Consultant",
+      "description": "Set up and optimize Todoist for task management.",
+      "revenue_model": "$75-750 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Todoist", "consulting", "task management", "productivity"]
+    },
+    {
+      "id": 2462,
+      "name": "Things 3 Consultant",
+      "description": "Help people use Things 3 effectively.",
+      "revenue_model": "$75-750 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Things 3", "consulting", "task management", "productivity"]
+    },
+    {
+      "id": 2463,
+      "name": "TickTick Consultant",
+      "description": "Optimize TickTick for productivity.",
+      "revenue_model": "$50-500 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "TickTick", "consulting", "task management", "productivity"]
+    },
+    {
+      "id": 2464,
+      "name": "Asana Consultant",
+      "description": "Set up and optimize Asana for teams.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Asana", "consulting", "project management", "productivity"]
+    },
+    {
+      "id": 2465,
+      "name": "Trello Consultant",
+      "description": "Help teams use Trello effectively.",
+      "revenue_model": "$150-1500 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Trello", "consulting", "project management", "productivity"]
+    },
+    {
+      "id": 2466,
+      "name": "Monday.com Consultant",
+      "description": "Set up and optimize Monday.com for teams.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Monday.com", "consulting", "project management", "productivity"]
+    },
+    {
+      "id": 2467,
+      "name": "ClickUp Consultant",
+      "description": "Help teams implement ClickUp.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "ClickUp", "consulting", "project management", "productivity"]
+    },
+    {
+      "id": 2468,
+      "name": "Basecamp Consultant",
+      "description": "Set up Basecamp for team collaboration.",
+      "revenue_model": "$150-1500 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Basecamp", "consulting", "project management", "collaboration"]
+    },
+    {
+      "id": 2469,
+      "name": "Jira Consultant",
+      "description": "Configure Jira for software teams.",
+      "revenue_model": "$300-3000 per setup",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Jira", "consulting", "project management", "agile"]
+    },
+    {
+      "id": 2470,
+      "name": "Linear Consultant",
+      "description": "Set up Linear for product teams.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Linear", "consulting", "project management", "product"]
+    },
+    {
+      "id": 2471,
+      "name": "Height Consultant",
+      "description": "Help teams use Height for project management.",
+      "revenue_model": "$150-1500 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Project Management",
+      "tags": ["zero investment", "Height", "consulting", "project management", "productivity"]
+    },
+    {
+      "id": 2472,
+      "name": "Coda Consultant",
+      "description": "Help teams build docs and workflows in Coda.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Coda", "consulting", "docs", "no-code"]
+    },
+    {
+      "id": 2473,
+      "name": "Fibery Consultant",
+      "description": "Set up Fibery for connected workspaces.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "Fibery", "consulting", "workspace", "no-code"]
+    },
+    {
+      "id": 2474,
+      "name": "Craft Docs Consultant",
+      "description": "Help teams use Craft for documentation.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "Craft", "consulting", "documentation", "productivity"]
+    },
+    {
+      "id": 2475,
+      "name": "Slite Consultant",
+      "description": "Set up Slite for team knowledge bases.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "Slite", "consulting", "knowledge base", "documentation"]
+    },
+    {
+      "id": 2476,
+      "name": "Confluence Consultant",
+      "description": "Configure Confluence for team wikis.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "Confluence", "consulting", "wiki", "documentation"]
+    },
+    {
+      "id": 2477,
+      "name": "GitBook Consultant",
+      "description": "Set up GitBook for documentation.",
+      "revenue_model": "$150-1500 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "GitBook", "consulting", "documentation", "technical"]
+    },
+    {
+      "id": 2478,
+      "name": "Docusaurus Consultant",
+      "description": "Help teams set up Docusaurus documentation sites.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "Docusaurus", "consulting", "documentation", "technical"]
+    },
+    {
+      "id": 2479,
+      "name": "ReadMe Consultant",
+      "description": "Set up ReadMe for API documentation.",
+      "revenue_model": "$200-2000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Documentation",
+      "tags": ["zero investment", "ReadMe", "consulting", "API", "documentation"]
+    },
+    {
+      "id": 2480,
+      "name": "Swagger/OpenAPI Consultant",
+      "description": "Create API documentation with Swagger/OpenAPI.",
+      "revenue_model": "$300-3000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "Swagger", "OpenAPI", "consulting", "API documentation"]
+    },
+    {
+      "id": 2481,
+      "name": "Postman Collection Creator",
+      "description": "Create Postman collections for APIs.",
+      "revenue_model": "$100-1000 per collection",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "API",
+      "tags": ["zero investment", "Postman", "API", "collection", "documentation"]
+    },
+    {
+      "id": 2482,
+      "name": "API Testing Consultant",
+      "description": "Help teams set up API testing.",
+      "revenue_model": "$300-3000 per setup",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "API testing", "consulting", "QA", "automation"]
+    },
+    {
+      "id": 2483,
+      "name": "Insomnia Consultant",
+      "description": "Help teams use Insomnia for API development.",
+      "revenue_model": "$100-1000 per setup",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "Insomnia", "consulting", "API", "development"]
+    },
+    {
+      "id": 2484,
+      "name": "GraphQL Consultant",
+      "description": "Advise on GraphQL implementation and best practices.",
+      "revenue_model": "$200-2000/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "GraphQL", "consulting", "API", "development"]
+    },
+    {
+      "id": 2485,
+      "name": "REST API Design Consultant",
+      "description": "Design RESTful APIs following best practices.",
+      "revenue_model": "$200-2000/hour",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "REST API", "design", "consulting", "architecture"]
+    },
+    {
+      "id": 2486,
+      "name": "API Rate Limiting Consultant",
+      "description": "Design rate limiting strategies for APIs.",
+      "revenue_model": "$300-3000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "rate limiting", "API", "consulting", "architecture"]
+    },
+    {
+      "id": 2487,
+      "name": "API Versioning Consultant",
+      "description": "Advise on API versioning strategies.",
+      "revenue_model": "$200-2000 per consultation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "API",
+      "tags": ["zero investment", "API versioning", "consulting", "strategy", "architecture"]
+    },
+    {
+      "id": 2488,
+      "name": "API Security Consultant",
+      "description": "Audit and improve API security.",
+      "revenue_model": "$500-5000 per audit",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "API security", "consulting", "audit", "cybersecurity"]
+    },
+    {
+      "id": 2489,
+      "name": "OAuth Implementation Consultant",
+      "description": "Help implement OAuth authentication.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "OAuth", "authentication", "consulting", "security"]
+    },
+    {
+      "id": 2490,
+      "name": "JWT Consultant",
+      "description": "Advise on JWT implementation and best practices.",
+      "revenue_model": "$200-2000 per consultation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "JWT", "authentication", "consulting", "security"]
+    },
+    {
+      "id": 2491,
+      "name": "SSO Implementation Consultant",
+      "description": "Help implement Single Sign-On solutions.",
+      "revenue_model": "$500-5000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "SSO", "authentication", "consulting", "enterprise"]
+    },
+    {
+      "id": 2492,
+      "name": "SAML Consultant",
+      "description": "Implement SAML authentication for enterprises.",
+      "revenue_model": "$500-5000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "SAML", "authentication", "consulting", "enterprise"]
+    },
+    {
+      "id": 2493,
+      "name": "Auth0 Consultant",
+      "description": "Help implement Auth0 for authentication.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "Auth0", "authentication", "consulting", "implementation"]
+    },
+    {
+      "id": 2494,
+      "name": "Firebase Auth Consultant",
+      "description": "Implement Firebase Authentication.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "Firebase", "authentication", "consulting", "mobile"]
+    },
+    {
+      "id": 2495,
+      "name": "Supabase Auth Consultant",
+      "description": "Set up Supabase authentication.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "Supabase", "authentication", "consulting", "backend"]
+    },
+    {
+      "id": 2496,
+      "name": "Clerk Consultant",
+      "description": "Implement Clerk for user management.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "Clerk", "authentication", "consulting", "user management"]
+    },
+    {
+      "id": 2497,
+      "name": "Magic Link Implementation",
+      "description": "Implement passwordless magic link authentication.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "magic link", "passwordless", "authentication", "consulting"]
+    },
+    {
+      "id": 2498,
+      "name": "Biometric Auth Consultant",
+      "description": "Implement biometric authentication for apps.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Authentication",
+      "tags": ["zero investment", "biometric", "authentication", "consulting", "security"]
+    },
+    {
+      "id": 2499,
+      "name": "Two-Factor Auth Consultant",
+      "description": "Implement 2FA for applications.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "2FA", "authentication", "security", "consulting"]
+    },
+    {
+      "id": 2500,
+      "name": "Multi-Factor Auth Consultant",
+      "description": "Implement MFA strategies for security.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "MFA", "authentication", "security", "consulting"]
+    },
+    {
+      "id": 2501,
+      "name": "CAPTCHA Implementation",
+      "description": "Implement CAPTCHA and bot protection.",
+      "revenue_model": "$100-1000 per implementation",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Security",
+      "tags": ["zero investment", "CAPTCHA", "bot protection", "security", "implementation"]
+    },
+    {
+      "id": 2502,
+      "name": "reCAPTCHA Consultant",
+      "description": "Implement Google reCAPTCHA.",
+      "revenue_model": "$100-1000 per implementation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "reCAPTCHA", "security", "consulting", "Google"]
+    },
+    {
+      "id": 2503,
+      "name": "hCaptcha Consultant",
+      "description": "Implement hCaptcha for privacy-focused protection.",
+      "revenue_model": "$100-1000 per implementation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "hCaptcha", "security", "privacy", "consulting"]
+    },
+    {
+      "id": 2504,
+      "name": "Cloudflare Turnstile Consultant",
+      "description": "Implement Cloudflare Turnstile.",
+      "revenue_model": "$100-1000 per implementation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "Cloudflare", "Turnstile", "security", "consulting"]
+    },
+    {
+      "id": 2505,
+      "name": "Bot Detection Consultant",
+      "description": "Implement bot detection and mitigation.",
+      "revenue_model": "$300-3000 per implementation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "bot detection", "security", "consulting", "fraud prevention"]
+    },
+    {
+      "id": 2506,
+      "name": "Fraud Prevention Consultant",
+      "description": "Design fraud prevention strategies.",
+      "revenue_model": "$500-5000 per strategy",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "fraud prevention", "security", "consulting", "strategy"]
+    },
+    {
+      "id": 2507,
+      "name": "Payment Security Consultant",
+      "description": "Advise on payment security best practices.",
+      "revenue_model": "$500-5000 per consultation",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "payment security", "consulting", "PCI", "compliance"]
+    },
+    {
+      "id": 2508,
+      "name": "PCI Compliance Consultant",
+      "description": "Help businesses achieve PCI compliance.",
+      "revenue_model": "$1000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Compliance",
+      "tags": ["zero investment", "PCI compliance", "consulting", "security", "payments"]
+    },
+    {
+      "id": 2509,
+      "name": "GDPR Compliance Consultant",
+      "description": "Help businesses comply with GDPR.",
+      "revenue_model": "$1000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Compliance",
+      "tags": ["zero investment", "GDPR", "compliance", "consulting", "privacy"]
+    },
+    {
+      "id": 2510,
+      "name": "CCPA Compliance Consultant",
+      "description": "Help businesses comply with CCPA.",
+      "revenue_model": "$1000-10000 per project",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Compliance",
+      "tags": ["zero investment", "CCPA", "compliance", "consulting", "privacy"]
+    },
+    {
+      "id": 2511,
+      "name": "Cookie Consent Implementation",
+      "description": "Implement cookie consent banners and management.",
+      "revenue_model": "$200-2000 per implementation",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Compliance",
+      "tags": ["zero investment", "cookie consent", "GDPR", "compliance", "implementation"]
+    },
+    {
+      "id": 2512,
+      "name": "Privacy Policy Writer",
+      "description": "Write privacy policies for websites and apps.",
+      "revenue_model": "$100-1000 per policy",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Legal",
+      "tags": ["zero investment", "privacy policy", "writing", "legal", "compliance"]
+    },
+    {
+      "id": 2513,
+      "name": "Cookie Policy Writer",
+      "description": "Write cookie policies for websites.",
+      "revenue_model": "$50-500 per policy",
+      "difficulty": "Easy",
+      "sector": "Content",
+      "category": "Legal",
+      "tags": ["zero investment", "cookie policy", "writing", "legal", "compliance"]
+    },
+    {
+      "id": 2514,
+      "name": "Data Processing Agreement Writer",
+      "description": "Write DPAs for GDPR compliance.",
+      "revenue_model": "$200-2000 per agreement",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Legal",
+      "tags": ["zero investment", "DPA", "GDPR", "writing", "legal"]
+    },
+    {
+      "id": 2515,
+      "name": "Data Retention Policy Writer",
+      "description": "Write data retention policies.",
+      "revenue_model": "$200-2000 per policy",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "Legal",
+      "tags": ["zero investment", "data retention", "policy", "writing", "compliance"]
+    },
+    {
+      "id": 2516,
+      "name": "Data Breach Response Planner",
+      "description": "Create data breach response plans.",
+      "revenue_model": "$500-5000 per plan",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "data breach", "response plan", "security", "consulting"]
+    },
+    {
+      "id": 2517,
+      "name": "Incident Response Planner",
+      "description": "Create incident response plans for security.",
+      "revenue_model": "$500-5000 per plan",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Security",
+      "tags": ["zero investment", "incident response", "security", "planning", "consulting"]
+    },
+    {
+      "id": 2518,
+      "name": "Security Awareness Trainer",
+      "description": "Train employees on security awareness.",
+      "revenue_model": "$500-5000 per training",
+      "difficulty": "Medium",
+      "sector": "Training",
+      "category": "Security",
+      "tags": ["zero investment", "security awareness", "training", "cybersecurity", "education"]
+    },
+    {
+      "id": 2519,
+      "name": "Phishing Simulation Service",
+      "description": "Run phishing simulations for security training.",
+      "revenue_model": "$300-3000 per simulation",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Security",
+      "tags": ["zero investment", "phishing", "simulation", "security", "training"]
+    },
+    {
+      "id": 2520,
+      "name": "Social Engineering Awareness Trainer",
+      "description": "Train on social engineering attack prevention.",
+      "revenue_model": "$500-5000 per training",
+      "difficulty": "Medium",
+      "sector": "Training",
+      "category": "Security",
+      "tags": ["zero investment", "social engineering", "training", "security", "awareness"]
+    },
+    {
+      "id": 2521,
+      "name": "Cybersecurity Policy Writer",
+      "description": "Write cybersecurity policies for organizations.",
+      "revenue_model": "$300-3000 per policy",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Security",
+      "tags": ["zero investment", "cybersecurity", "policy", "writing", "compliance"]
+    },
+    {
+      "id": 2522,
+      "name": "Information Security Policy Writer",
+      "description": "Write information security policies.",
+      "revenue_model": "$300-3000 per policy",
+      "difficulty": "Hard",
+      "sector": "Content",
+      "category": "Security",
+      "tags": ["zero investment", "information security", "policy", "writing", "compliance"]
+    },
+    {
+      "id": 2523,
+      "name": "Acceptable Use Policy Writer",
+      "description": "Write acceptable use policies for IT systems.",
+      "revenue_model": "$200-2000 per policy",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "IT",
+      "tags": ["zero investment", "acceptable use", "policy", "writing", "IT"]
+    },
+    {
+      "id": 2524,
+      "name": "BYOD Policy Writer",
+      "description": "Write bring-your-own-device policies.",
+      "revenue_model": "$200-2000 per policy",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "IT",
+      "tags": ["zero investment", "BYOD", "policy", "writing", "IT"]
+    },
+    {
+      "id": 2525,
+      "name": "Remote Work Policy Writer",
+      "description": "Write remote work policies for companies.",
+      "revenue_model": "$200-2000 per policy",
+      "difficulty": "Medium",
+      "sector": "Content",
+      "category": "HR",
+      "tags": ["zero investment", "remote work", "policy", "writing", "HR"]
+    },
+    {
+      "id": 2526,
+      "name": "Work From Home Setup Consultant",
+      "description": "Advise on work from home setups.",
+      "revenue_model": "$100-1000 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Remote Work",
+      "tags": ["zero investment", "WFH", "setup", "consulting", "remote work"]
+    },
+    {
+      "id": 2527,
+      "name": "Remote Work Equipment Advisor",
+      "description": "Recommend equipment for remote work.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Remote Work",
+      "tags": ["zero investment", "remote work", "equipment", "consulting", "recommendations"]
+    },
+    {
+      "id": 2528,
+      "name": "Standing Desk Consultant",
+      "description": "Advise on standing desk setups and usage.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Ergonomics",
+      "tags": ["zero investment", "standing desk", "ergonomics", "consulting", "health"]
+    },
+    {
+      "id": 2529,
+      "name": "Monitor Setup Consultant",
+      "description": "Optimize monitor setups for productivity and ergonomics.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Ergonomics",
+      "tags": ["zero investment", "monitor", "setup", "ergonomics", "productivity"]
+    },
+    {
+      "id": 2530,
+      "name": "Keyboard and Mouse Consultant",
+      "description": "Recommend keyboards and mice for ergonomics.",
+      "revenue_model": "$30-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Ergonomics",
+      "tags": ["zero investment", "keyboard", "mouse", "ergonomics", "consulting"]
+    },
+    {
+      "id": 2531,
+      "name": "Lighting Setup Consultant",
+      "description": "Optimize workspace lighting for productivity.",
+      "revenue_model": "$50-500 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Workspace",
+      "tags": ["zero investment", "lighting", "workspace", "consulting", "productivity"]
+    },
+    {
+      "id": 2532,
+      "name": "Noise Cancellation Consultant",
+      "description": "Advise on noise cancellation for focus.",
+      "revenue_model": "$30-300 per consultation",
+      "difficulty": "Easy",
+      "sector": "Consulting",
+      "category": "Productivity",
+      "tags": ["zero investment", "noise cancellation", "focus", "consulting", "productivity"]
+    },
+    {
+      "id": 2533,
+      "name": "Background Music Curator",
+      "description": "Curate background music playlists for focus.",
+      "revenue_model": "$20-200 per playlist",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Productivity",
+      "tags": ["zero investment", "music", "curation", "focus", "productivity"]
+    },
+    {
+      "id": 2534,
+      "name": "Focus Music Playlist Creator",
+      "description": "Create focus music playlists for different tasks.",
+      "revenue_model": "$20-200 per playlist",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Productivity",
+      "tags": ["zero investment", "focus music", "playlist", "productivity", "concentration"]
+    },
+    {
+      "id": 2535,
+      "name": "Binaural Beats Curator",
+      "description": "Curate binaural beats for focus and relaxation.",
+      "revenue_model": "$20-200 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Wellness",
+      "tags": ["zero investment", "binaural beats", "curation", "focus", "relaxation"]
+    },
+    {
+      "id": 2536,
+      "name": "White Noise Curator",
+      "description": "Curate white noise and ambient sounds.",
+      "revenue_model": "$10-100 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Productivity",
+      "tags": ["zero investment", "white noise", "ambient", "curation", "focus"]
+    },
+    {
+      "id": 2537,
+      "name": "Nature Sounds Curator",
+      "description": "Curate nature sounds for relaxation and focus.",
+      "revenue_model": "$10-100 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Wellness",
+      "tags": ["zero investment", "nature sounds", "curation", "relaxation", "focus"]
+    },
+    {
+      "id": 2538,
+      "name": "ASMR Content Curator",
+      "description": "Curate ASMR content for relaxation.",
+      "revenue_model": "$10-100 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Wellness",
+      "tags": ["zero investment", "ASMR", "curation", "relaxation", "content"]
+    },
+    {
+      "id": 2539,
+      "name": "Guided Meditation Curator",
+      "description": "Curate guided meditation collections.",
+      "revenue_model": "$20-200 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Wellness",
+      "tags": ["zero investment", "meditation", "curation", "wellness", "mindfulness"]
+    },
+    {
+      "id": 2540,
+      "name": "Sleep Sounds Curator",
+      "description": "Curate sleep sounds and bedtime stories.",
+      "revenue_model": "$20-200 per collection",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Wellness",
+      "tags": ["zero investment", "sleep sounds", "curation", "wellness", "sleep"]
+    },
+    {
+      "id": 2541,
+      "name": "Bedtime Story Narrator",
+      "description": "Narrate bedtime stories for sleep apps.",
+      "revenue_model": "$50-500 per story",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Voice",
+      "tags": ["zero investment", "bedtime stories", "narration", "voice", "sleep"]
+    },
+    {
+      "id": 2542,
+      "name": "Audiobook Narrator",
+      "description": "Narrate audiobooks for authors and publishers.",
+      "revenue_model": "$100-300 per finished hour",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Voice",
+      "tags": ["zero investment", "audiobook", "narration", "voice", "publishing"]
+    },
+    {
+      "id": 2543,
+      "name": "Podcast Intro/Outro Creator",
+      "description": "Create podcast intros and outros.",
+      "revenue_model": "$50-500 per set",
+      "difficulty": "Easy",
+      "sector": "Services",
+      "category": "Audio",
+      "tags": ["zero investment", "podcast", "intro", "outro", "audio"]
+    },
+    {
+      "id": 2544,
+      "name": "Podcast Music Composer",
+      "description": "Compose music for podcast intros and backgrounds.",
+      "revenue_model": "$100-1000 per track",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Music",
+      "tags": ["low investment", "podcast", "music", "composition", "audio"]
+    },
+    {
+      "id": 2545,
+      "name": "Jingle Creator",
+      "description": "Create jingles for brands and podcasts.",
+      "revenue_model": "$200-2000 per jingle",
+      "difficulty": "Medium",
+      "sector": "Services",
+      "category": "Music",
+      "tags": ["low investment", "jingle", "music", "branding", "audio"]
+    },
+    {
+      "id": 2546,
+      "name": "Sound Logo Designer",
+      "description": "Design sonic branding and sound logos.",
+      "revenue_model": "$500-5000 per logo",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Audio Branding",
+      "tags": ["low investment", "sound logo", "sonic branding", "audio", "branding"]
+    },
+    {
+      "id": 2547,
+      "name": "Audio Branding Consultant",
+      "description": "Develop audio branding strategies for brands.",
+      "revenue_model": "$1000-10000 per strategy",
+      "difficulty": "Hard",
+      "sector": "Consulting",
+      "category": "Audio Branding",
+      "tags": ["zero investment", "audio branding", "consulting", "strategy", "sonic"]
+    },
+    {
+      "id": 2548,
+      "name": "Voice Brand Guidelines Creator",
+      "description": "Create voice and audio brand guidelines.",
+      "revenue_model": "$500-5000 per guide",
+      "difficulty": "Medium",
+      "sector": "Consulting",
+      "category": "Branding",
+      "tags": ["zero investment", "voice brand", "guidelines", "audio", "branding"]
+    },
+    {
+      "id": 2549,
+      "name": "Sonic Identity Designer",
+      "description": "Design complete sonic identities for brands.",
+      "revenue_model": "$2000-20000 per identity",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Audio Branding",
+      "tags": ["low investment", "sonic identity", "audio branding", "design", "comprehensive"]
+    },
+    {
+      "id": 2550,
+      "name": "Brand Sound Palette Creator",
+      "description": "Create sound palettes for brand consistency.",
+      "revenue_model": "$1000-10000 per palette",
+      "difficulty": "Hard",
+      "sector": "Services",
+      "category": "Audio Branding",
+      "tags": ["low investment", "sound palette", "audio branding", "brand", "consistency"]
+    }
+  ]
+}
